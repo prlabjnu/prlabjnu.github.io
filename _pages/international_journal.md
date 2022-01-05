@@ -33,13 +33,8 @@ nav: false
 
 <li>Manh-Hung Hoang, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
 "Context-Aware Emotion Recognition Based on Visual Relationship Detection,"
-<font color="ff00ff"><i>IEEE Access</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
+<font color="ff00ff"><i>IEEE Access</i></font>, 21, ????, pp. 1-??, June 2021. (IF: 3.745, Q1)
 </li>
-
-
-
-
-
 
 
 <li>Dang Xuan Tien, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
@@ -798,7 +793,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MjExNzQ3LC03NjQ3NzE3MywtMjkwMj
-M2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYx
-NV19
+eyJoaXN0b3J5IjpbLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOT
+AyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0
+NjE1XX0=
 -->
