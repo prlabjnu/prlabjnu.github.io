@@ -7,6 +7,9 @@ title: International Conferences
 nav: false
 ---
 
+    International Conferences
+
+
 <ol class=space_list>
 
 
@@ -1081,6 +1084,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTg2MTksLTEwOTE0NzYxOTEsLTExMT
-QwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbMzc5MTk2NDgyLC04Njk4NjE5LC0xMDkxND
+c2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2
+XX0=
 -->
