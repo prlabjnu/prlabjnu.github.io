@@ -20,9 +20,9 @@ nav: false
 </li>
 
 
-<li>Tran-Dac-Thinh Phan, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
-"EEG-Based Emotion Recognition by Convolutional Neural Network with Multi-Scale Kernels,"
-<font color="ff00ff"><i>Sensors</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
+<li>Manh-Hung Hoang, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
+"Context-Aware Emotion Recognition Based on Visual Relationship Detection,"
+<font color="ff00ff"><i>IEEE Access</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
 </li>
 
 
@@ -34,7 +34,7 @@ nav: false
 
 <li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Seok-Bong Yoo,
 "Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
-<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. 127068-127080, Sep. 2021. (IF: 3.745, Q1)(BRL2)
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. ???, June 2021. (IF: 3.745, Q1)
 </li>
 
 
@@ -794,7 +794,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTIxODE4OCwtNzY0NzcxNzMsLTI5MD
+eyJoaXN0b3J5IjpbLTE3MTA5NTUyNCwtNzY0NzcxNzMsLTI5MD
 IzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2
 MTVdfQ==
 -->
