@@ -16,7 +16,7 @@ nav: false
 
 <li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Seok-Bong Yoo,
 "Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
-<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. ???, June 2021
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. 127068-127080, August 2021. (IF: 3.745, Q1)
 </li>
 
 
@@ -798,7 +798,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDkyMjYzOSwtNzY0NzcxNzMsLTI5MD
-IzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2
-MTVdfQ==
+eyJoaXN0b3J5IjpbMjU1MjExNzQ3LC03NjQ3NzE3MywtMjkwMj
+M2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYx
+NV19
 -->
