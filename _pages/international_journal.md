@@ -9,19 +9,10 @@ nav: false
 <ol class=space_list>
 
 
-<li>Van-Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim,
-"Prediction of Evoked Expression from Videos with Temporal Position Fusion,"
-<font color="ff00ff"><i>Information Fusion</i></font>, submitted in August 2021. (IF: 12.975) (BRL2/지역우수3)
+<li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang,
+"Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
+<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
 </li>
-
-
-
-<li>Vi Thi-Tuong Vo , Taebum Lee, and Soo-Hyung Kim,
-"Deep Learning for Individual Survival Time Diagnosis on 2
-Early Stage Lung Adenocarcinoma,"
-<font color="ff00ff"><i>Cancers</i></font>, submitted in August 2021. (IF: 6.639) (의사과학자)
-</li>
-
 
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
@@ -792,6 +783,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtOD
-UyMDkxMTczLC01MzAyOTQ2MTVdfQ==
+eyJoaXN0b3J5IjpbLTExMzQzMzUwOSwtMjkwMjM2NDM5LC0xNz
+M4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYxNV19
 -->
