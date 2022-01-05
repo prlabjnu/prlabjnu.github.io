@@ -5,6 +5,7 @@ title: International Journals (SCI)
 nav: false
 ---
 
+    International Journals(SCIE)
 
 <ol class=space_list>
 
@@ -793,7 +794,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOT
-AyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0
-NjE1XX0=
+eyJoaXN0b3J5IjpbLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNz
+Y0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUyMDkx
+MTczLC01MzAyOTQ2MTVdfQ==
 -->
