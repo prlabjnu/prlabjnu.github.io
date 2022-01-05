@@ -10,6 +10,13 @@ nav: false
 
 <ol class=space_list_kr>
 
+
+<li>Thanh-Cong Do, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Sae-Ryung Kang, Jung Joon Min,
+"Region of Interest Localization for Bone Age Estimation Using Whole-Body Bone Scintigraphy,"
+스마트미디어저널, 10권 2호, pp. 22-29, 2021년 6월
+</li>
+
+
 <li>Vo Thi Tuong Vi, A-Ran Oh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim,
 "Automatic Extraction of Liver Region from Medical Images by Using an MFUnet,"
 스마트미디어저널, 9권 3호, pp. 59-70, 2020년 9월. (의사과학자)
@@ -483,3 +490,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 
 </ol>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzNzI5NjM5NF19
+-->
