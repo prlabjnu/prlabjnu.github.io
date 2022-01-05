@@ -9,6 +9,17 @@ nav: false
 <ol class=space_list>
 
 
+<li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
+"Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
+<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
+</li>
+
+<li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Seok-Bong Yoo,
+"Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. ???, June 2021
+</li>
+
+
 <li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang,
 "Esophagus Segmentation in CT Images via Spatial Attention Network and STAPLE Algorithm,"
 <font color="ff00ff"><i>Sensors</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
@@ -26,16 +37,9 @@ nav: false
 </li>
 
 
-<li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
-"Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
-<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
-</li>
 
 
-<li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Seok-Bong Yoo,
-"Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
-<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. ???, June 2021. (IF: 3.745, Q1)
-</li>
+
 
 
 <li>Dang Xuan Tien, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
@@ -794,7 +798,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA5NTUyNCwtNzY0NzcxNzMsLTI5MD
+eyJoaXN0b3J5IjpbMTY0MDkyMjYzOSwtNzY0NzcxNzMsLTI5MD
 IzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2
 MTVdfQ==
 -->
