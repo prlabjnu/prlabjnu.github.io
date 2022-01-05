@@ -11,7 +11,7 @@ nav: false
 
 <li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang,
 "Esophagus Segmentation in CT Images via Spatial Attention Network and STAPLE Algorithm,"
-<font color="ff00ff"><i>Sensors</i></font>, 21, 2344, pp. 1-29, March 2021. (IF: 3.275, Q1) (BRL2/지역우수)
+<font color="ff00ff"><i>Sensors</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) (BRL2/지역우수)
 </li>
 
 
@@ -783,6 +783,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTEyMDgxNiwtMjkwMjM2NDM5LC0xNz
-M4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbLTc2NDc3MTczLC0yOTAyMzY0MzksLTE3Mz
+g4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
 -->
