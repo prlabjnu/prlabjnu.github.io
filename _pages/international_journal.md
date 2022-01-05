@@ -10,8 +10,8 @@ nav: false
 
 
 <li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang,
-"Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
-<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
+"Esophagus Segmentation in CT Images via Spatial Attention Network and STAPLE Algorithm,"
+<font color="ff00ff"><i>Sensors</i></font>, 21, 2344, pp. 1-29, March 2021. (IF: 3.275, Q1) (BRL2/지역우수)
 </li>
 
 
@@ -783,6 +783,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzMzUwOSwtMjkwMjM2NDM5LC0xNz
+eyJoaXN0b3J5IjpbMTM4MTEyMDgxNiwtMjkwMjM2NDM5LC0xNz
 M4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYxNV19
 -->
