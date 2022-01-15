@@ -34,7 +34,7 @@ nav: false
 
 <li>Manh-Hung Hoang, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
 "Context-Aware Emotion Recognition Based on Visual Relationship Detection,"
-<font color="ff00ff"><i>IEEE Access</i></font>, 21(9), pp. 90465, June 2021. (IF: 3.745, Q1)
+<font color="ff00ff"><i>IEEE Access</i></font>, 21(9), pp. 90465-90474, June 2021. (IF: 3.745, Q1)
 </li>
 
 
@@ -111,7 +111,7 @@ nav: false
 
 <li>Luu-Ngoc Do, Hyung-Jeong Yang, Hai-Duong Nguyen, Soo-Hyung Kim, Guee-Sang Lee, In-Seop Na,
 "Deep neural network-based fusion model for emotion recognition using visual data,"
-<font color="ff00ff"><i>Journal of Supercomputing</i></font>,
+<font color="ff00ff"><i>The Journal of Supercomputing</i></font>,
 https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2.469, BRL2)
 </li>
 
@@ -794,7 +794,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTQ0Mjg1MCw3OTEwNjAwMjksLTIzOT
+eyJoaXN0b3J5IjpbMTUzOTExNzE1Niw3OTEwNjAwMjksLTIzOT
 I2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIzNjQz
 OSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2MTVdfQ
 ==
