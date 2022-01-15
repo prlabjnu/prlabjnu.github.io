@@ -23,18 +23,18 @@ nav: false
 
 <li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang,
 "Esophagus Segmentation in CT Images via Spatial Attention Network and STAPLE Algorithm,"
-<font color="ff00ff"><i>Sensors</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
+<font color="ff00ff"><i>Sensors</i></font>, 21, 4556, pp. 1-18, July 2021. (IF: 3.275, Q1) 
 </li>
 
 <li>Tran-Dac-Thinh Phan, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
 "EEG-Based Emotion Recognition by Convolutional Neural Network with Multi-Scale Kernels,"
-<font color="ff00ff"><i>Sensors</i></font>, 21, ????, pp. 1-??, July 2021. (IF: 3.275, Q1) 
+<font color="ff00ff"><i>Sensors</i></font>, 21, 5092, pp. 1-13, July 2021. (IF: 3.275, Q1) 
 </li>
 
 
 <li>Manh-Hung Hoang, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
 "Context-Aware Emotion Recognition Based on Visual Relationship Detection,"
-<font color="ff00ff"><i>IEEE Access</i></font>, 21, ????, pp. 1-??, June 2021. (IF: 3.745, Q1)
+<font color="ff00ff"><i>IEEE Access</i></font>, 21(9), pp. 90465, June 2021. (IF: 3.745, Q1)
 </li>
 
 
@@ -794,7 +794,8 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MD
-Q5MzEwNzksLTc2NDc3MTczLC0yOTAyMzY0MzksLTE3Mzg4MDI5
-ODEsLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbMTk4MTQ0Mjg1MCw3OTEwNjAwMjksLTIzOT
+I2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIzNjQz
+OSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2MTVdfQ
+==
 -->
