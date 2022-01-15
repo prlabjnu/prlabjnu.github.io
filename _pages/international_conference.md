@@ -40,7 +40,7 @@ Reconstruction,"
 
 <li>Songa Kim, Van Thong Huynh, Dung Tran Thi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim,
 "The 2nd Korean Emotion Recognition Challenge: Methods and Results,"
-<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2021), Daegu, Korea, pp. 176-183, Feb. 2021. (BRL2/의사과학자)
 </li>
 
 
@@ -1084,7 +1084,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MTk2NDgyLC04Njk4NjE5LC0xMDkxND
+eyJoaXN0b3J5IjpbNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxND
 c2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2
 XX0=
 -->
