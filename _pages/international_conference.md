@@ -14,6 +14,8 @@ nav: false
 
 
 
+<li>Trong-Nghia Nguyen, Nhu-Tai Do, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, “Deep Learning Based Temporal Variational Autoencoder for In-hospital Clinical Emergency Prediction,” submitted to MICCAI 2022 Conference, 2022.
+
 <li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fake News and Hate-Speech Detection</i>, pp. xxx-xxx, Feb. 2022. (BRL2/지역우수3)
 
 <li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. xxx- xxx, Feb. 2022. (BRL2/지역우수3) (to appear)  
@@ -1088,7 +1090,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzNTY4NzcsNjgzMTc4MjMzLDU3Mz
+eyJoaXN0b3J5IjpbLTE3MDU3NjUzOTcsNjgzMTc4MjMzLDU3Mz
 YyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwtMTExNDA1MzEw
 LC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
 -->
