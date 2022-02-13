@@ -12,12 +12,12 @@ nav: false
 
 
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <i>IEEE Transactions on Affective Computing</i>, 2022. (in revision)  
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, 2022. (in revision)  
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,” submitted to <li>IEEE Transactions on Medical Imaging</i>, Jan. 2022.
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,” submitted to <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022.
 
 
-
+<li> 
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
 "Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
@@ -803,8 +803,8 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTQ1MTE0MSwxNTM5MTE3MTU2LDc5MT
-A2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3
-MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLT
-UzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbLTEzNjkzMzEzMTAsMTUzOTExNzE1Niw3OT
+EwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0Nzcx
+NzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC
+01MzAyOTQ2MTVdfQ==
 -->
