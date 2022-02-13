@@ -10,6 +10,15 @@ nav: false
 <ol class=space_list>
 
 
+
+
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <i>IEEE Transactions on Affective Computing</i>, 2022. (in revision)  
+
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,” submitted to <li>IEEE Transactions on Medical Imaging</i>, Jan. 2022.
+
+
+
+
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
 "Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
 <font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
@@ -794,8 +803,8 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTExNzE1Niw3OTEwNjAwMjksLTIzOT
-I2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIzNjQz
-OSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2MTVdfQ
-==
+eyJoaXN0b3J5IjpbMTQzOTQ1MTE0MSwxNTM5MTE3MTU2LDc5MT
+A2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3
+MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLT
+UzMDI5NDYxNV19
 -->
