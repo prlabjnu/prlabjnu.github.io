@@ -16,6 +16,11 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,” submitted to <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022.
 
+<li>Hai-Duong Nguyen, Sun-Hee Kim, Guee-Sang Lee, Hyung-Jeong Yang, In-Seop Na, and Soo-Hyung Kim,
+"Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks,"
+<font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, March 2022. (IF: 6.288, BRL)
+</li>
+
 
 <li> 
 <li> 
@@ -226,11 +231,6 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 <li>Son Thai Ly, Nhu-Tai Do, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee,
 "A novel 2D and 3D multimodal approach for in-the-wild facial expression recognition,"
 <font color="ff00ff"><i>Image and Vision Computing</i></font>, 92, 103817, pp. 1-12, DOI: 10.1016/j.imavis.2019.10.003, Dec. 2019. (IF: 3.103, BRL)
-</li>
-
-<li>Hai-Duong Nguyen, Sun-Hee Kim, Guee-Sang Lee, Hyung-Jeong Yang, In-Seop Na, and Soo-Hyung Kim,
-"Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks,"
-<font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, DOI: 10.1109/TAFFC.2019.2946540, available online, Oct. 2019. (IF: 6.288, BRL)
 </li>
 
 
@@ -804,8 +804,8 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzQyODg2NywxNTM5MTE3MTU2LDc5MT
-A2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3
-MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLT
-UzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbLTExNzU3MDUxMDksMTUzOTExNzE1Niw3OT
+EwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0Nzcx
+NzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC
+01MzAyOTQ2MTVdfQ==
 -->
