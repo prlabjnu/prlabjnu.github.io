@@ -19,6 +19,7 @@ We are looking for highly motivated and willing students who are interested in d
 
  - Free tuition fee for the first semester.
  - Support: **1.000.000 – 1.800.000** *KRW/month*, depends on the contribution of students.
+ - Additional support for National Health Insurance.
  - Opportunity to attend domestic/international conferences.
  - Brand-new facilities: RTX 2080Ti, RTX 3080/3090, Tesla P100…
  - Papers incentive: **600,000~1,500,000 KRW**, depending on the paper quality - SCIE journal or Top-tier Conference.
