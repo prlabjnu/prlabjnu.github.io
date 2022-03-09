@@ -21,7 +21,7 @@ nav: false
 
 <li>Hai-Duong Nguyen, Sun-Hee Kim, Guee-Sang Lee, Hyung-Jeong Yang, In-Seop Na, and Soo-Hyung Kim,
 "Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks,"
-<font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, Vol. 13, No. 1, pp. 226-237, March 2022. (IF: 9.047, JCR10%) (BRL)
+<font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, Vol. 13, No. 1, pp. 226-237, March 2022. (IF: 10.506, JCR10%) (BRL)
 </li>
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
@@ -803,8 +803,8 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LDE1Mz
-kxMTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEw
-NzksLTc2NDc3MTczLC0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLT
-g1MjA5MTE3MywtNTMwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNT
+EwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3
+NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAyMzY0MzksLT
+E3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
 -->
