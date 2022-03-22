@@ -10,7 +10,7 @@ group_rank: 4
 teaser: My research interest is in medical image analysis and pattern recognition.
 profile:
   name: Ngumimi Karen Iyortsuun
-  email: kareniyortsuun@gmail.com
+  email: kareniyortsuun(at)gmail.com
   twitter: symplykaren
   facebook:
   orcid: 0000-0002-9704-8056
