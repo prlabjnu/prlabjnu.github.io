@@ -23,3 +23,8 @@ profile:
 
 I received the B.S. degree from the Department of Information Technology, Hue University of Science and Technology, Vietnam, in 2018 and the M.S. degree from the Department of Computer Vision, MICA, Hanoi University of Science and Technology, Vietnam, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 04-2021. My research is focused on medical image processing, rapid response systems and treatment recommendations.
 
+
+#### Achievements
+* :2nd_place_medal: Rank 2nd Korean Emotion Recognition Challenge 2021 (KERC). Team NTN.
+* :1st_place_medal: Winner of 2021 Aquaculture Artificial Intelligence Model Contest.
+
