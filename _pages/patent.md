@@ -70,6 +70,12 @@ Patent Application No.: 7-185824('95. 7. 21),
 <ol class=space_list_kr>
 
 
+<li> 양형정, 트란티둥, 이귀상, 김수형,<br>
+X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
+출원번호: 10-2021-0083706 (2021.06.28) (의사과학자)<br>
+</li>
+
+
 <li> 김수형, 도누따이, 양형정, 오아란, <br>
 X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
 출원번호: 10-2021-0083706 (2021.06.28) (의사과학자)<br>
@@ -662,5 +668,5 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbLTIwNzA5MTQ5NzQsLTQ4MDkwNzA5OF19
 -->
