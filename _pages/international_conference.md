@@ -18,7 +18,7 @@ nav: false
 
 <li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fake News and Hate-Speech Detection</i>, pp. xxx-xxx, Feb. 2022. (BRL2/지역우수3) (to appear)  (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
 
-<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. xxx- xxx, Feb. 2022. (BRL2/지역우수3) (to appear)  
+<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3) (to appear)  
 
 <li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
 "Multimodal Convolutional Neural Network Model
@@ -1090,7 +1090,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDgxOTUxMyw2ODMxNzgyMzMsNTczNj
+eyJoaXN0b3J5IjpbMjAxNzYwMzQ3OCw2ODMxNzgyMzMsNTczNj
 I4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAs
 LTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
 -->
