@@ -12,12 +12,14 @@ nav: false
 
 
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, 2022. (in revision)  
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, March 2022. (in revision)  
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
 
-<li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in 2 collaborative robot programming,”  <font color="ff00ff"><i>Journal of Integrated Design and Process Science</i></font>, March 2022. (submitted)
+<li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in 2 collaborative robot programming,”  <i>Journal of Integrated Design and Process Science</i>, March 2022. (submitted)
 
+
+<li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Journal of Integrated Design and Process Science</i></font>, March 2022. (submitted)
 
 
 <li>Hai-Duong Nguyen, Sun-Hee Kim, Guee-Sang Lee, Hyung-Jeong Yang, In-Seop Na, and Soo-Hyung Kim,
@@ -804,9 +806,9 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMz
-Q1NzM2NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYw
-MDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC
-0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMw
-Mjk0NjE1XX0=
+eyJoaXN0b3J5IjpbMTI5NTU2NjQ4OSwtMTg4NTEyMTY1OCwtMT
+M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
+NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
+wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
+MDkxMTczLC01MzAyOTQ2MTVdfQ==
 -->
