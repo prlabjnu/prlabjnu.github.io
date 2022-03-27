@@ -16,6 +16,7 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
 
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
 
 
 
@@ -803,8 +804,9 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNT
-EwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3
-NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAyMzY0MzksLT
-E3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbMjAxMjU5NzQ3NiwtMTM3MDIyMTgyNSwzND
+U3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAw
+MjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLT
+I5MDIzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAy
+OTQ2MTVdfQ==
 -->
