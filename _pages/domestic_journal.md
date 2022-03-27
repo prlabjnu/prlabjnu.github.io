@@ -12,12 +12,12 @@ nav: false
 
 <li>장진, 김수형,
 "Skeleton Keypoints를 활용한 CNN3D 기반의 자율주행 버스의 승객 승하차 예측모델,"
-스마트미디어저널, 2022년 3월 (submitted)
+스마트미디어저널, 2022년 3월 (submitted)  (지역우수3/AI-Hub)
 </li>
 
 <li>이기성, 김수형, 
 "블러링기법을 이용한 홍채인식정보 삭제 방법,"
-스마트미디어저널, 2022년 3월 (to appear) 
+스마트미디어저널, 2022년 3월 (to appear) (지역우수3/AI-Hub)
 </li>
 
 <li>Trong–Nghia Nguyen, SooHyung Kim, Nhu-Tai Do, Thai-Thi Ngoc Hong, Hyung Jeong Yang, Guee Sang Lee,
@@ -505,5 +505,5 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc3NjI5MzcsLTIzNzI5NjM5NF19
+eyJoaXN0b3J5IjpbLTcwMTg5MDQ5LC0yMzcyOTYzOTRdfQ==
 -->
