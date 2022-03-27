@@ -71,8 +71,8 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 
 <li> 양형정, 트란티둥, 이귀상, 김수형,<br>
-X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
-출원번호: 10-2021-0083706 (2021.06.28) (의사과학자)<br>
+교차 모달 학습 기반의 감정 추론 시스템 및 방법<br>
+출원번호: 10-2022-0026168 (2022.02.28) <br>
 </li>
 
 
@@ -668,5 +668,5 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA5MTQ5NzQsLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbLTEzODg4NDMxMzAsLTQ4MDkwNzA5OF19
 -->
