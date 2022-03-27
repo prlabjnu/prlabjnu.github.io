@@ -16,7 +16,7 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Empirical study for worker engagement in 2 collaborative robot programming,”  <font color="ff00ff"><i>Journal of Integrated Design and Process Science</i></font>, March 2022. (submitted)
 
 
 
@@ -804,7 +804,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjU5NzQ3NiwtMTM3MDIyMTgyNSwzND
+eyJoaXN0b3J5IjpbMjExNzk2NzY2MCwtMTM3MDIyMTgyNSwzND
 U3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAw
 MjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLT
 I5MDIzNjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAy
