@@ -135,7 +135,7 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 
 <li>Trinh Le Ba Khanh, Soo-Hyung Kim, Gueesang Lee, Hyung-Jeong Yang, Eu-Tteum Baek,
 "Real-time virtual mouse system using RGB-D images and fingertip detection,"
-<font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 80:9479-9492, March 2021. (IF: 2.313, BRL2)
+<font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 80:10473-10490, March 2021. (IF: 2.313, BRL2)
 </li>
 
 
@@ -812,10 +812,10 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njk3OTQxNywtNjc4MjgwMTQzLC00OD
-U2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2
-NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC
-0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAy
-MzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0Nj
-E1XX0=
+eyJoaXN0b3J5IjpbMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NT
+YxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0
+NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAwMjksLT
+IzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIz
+NjQzOSwtMTczODgwMjk4MSwtODUyMDkxMTczLC01MzAyOTQ2MT
+VdfQ==
 -->
