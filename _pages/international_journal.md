@@ -133,6 +133,12 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 </li>
 
 
+<li>Trinh Le Ba Khanh, Soo-Hyung Kim, Gueesang Lee, Hyung-Jeong Yang, Eu-Tteum Baek,
+"Korean Video Dataset for Emotion Recognition in the Wild,"
+<font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 80:9479-9492, March 2021. (IF: 2.313, BRL2)
+</li>
+
+
 
 <li>Trinh Le Ba Khanh, Soo-Hyung Kim, Gueesang Lee, Hyung-Jeong Yang, Eu-Tteum Baek,
 "Korean Video Dataset for Emotion Recognition in the Wild,"
@@ -806,9 +812,10 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xOD
-g1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUw
-NjA4NCwxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC
-0xNzA0OTMxMDc5LC03NjQ3NzE3MywtMjkwMjM2NDM5LC0xNzM4
-ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbMTcyMjEwODU1MiwtNjc4MjgwMTQzLC00OD
+U2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2
+NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC
+0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAy
+MzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMwMjk0Nj
+E1XX0=
 -->
