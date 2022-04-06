@@ -134,7 +134,7 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 
 
 <li>Trinh Le Ba Khanh, Soo-Hyung Kim, Gueesang Lee, Hyung-Jeong Yang, Eu-Tteum Baek,
-"Korean Video Dataset for Emotion Recognition in the Wild,"
+"Real-time virtual mouse system using RGB-D images and fingertip detection,"
 <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 80:9479-9492, March 2021. (IF: 2.313, BRL2)
 </li>
 
@@ -812,7 +812,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjEwODU1MiwtNjc4MjgwMTQzLC00OD
+eyJoaXN0b3J5IjpbLTM2Njk3OTQxNywtNjc4MjgwMTQzLC00OD
 U2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2
 NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC
 0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAy
