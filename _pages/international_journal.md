@@ -139,7 +139,6 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 </li>
 
 
-
 <li>Trinh Le Ba Khanh, Soo-Hyung Kim, Gueesang Lee, Hyung-Jeong Yang, Eu-Tteum Baek,
 "Korean Video Dataset for Emotion Recognition in the Wild,"
 <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 80:9479-9492, March 2021. (IF: 2.313, BRL2)
@@ -158,12 +157,6 @@ https://doi.org/10.1007/s11227-021-03690-y, published online, March 2021. (IF: 2
 "Image Colorization Using the Global Scene-Context Style and Pixel-Wise Semantic Segmentation,"
 <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 8, pp. 214098-214114, Nov. 2020. (IF: 3.745, NRF2/BRL2)
 </li>
-
-<li>Dinh Son Tran, Ngoc Huynh Ho, Hyung Jeong Yang, Soo-Hyung Kim, Guee Sang Lee,
-"Real-time virtual mouse system using RGB-D images and fingertip detection,"
-<font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, doi:10.1007/s11042-020-10156-5(Published online), Nov. 2020. (IF: 2.313) (BRL2)
-</li>
-
 
 <li>Duc-Ky Ngo, Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, and Guee-Sang Lee,
 "Multi-Task Learning for Small Brain Tumor Segmentation from MRI,"
@@ -812,10 +805,10 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjA1NTczNSwxMDE5ODYwMzUsLTY3OD
-I4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIx
-ODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3MTU2LD
-c5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3
-NzE3MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNz
-MsLTUzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4Mj
+gwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4
+MjUsMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNz
+kxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3
+MTczLC0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3My
+wtNTMwMjk0NjE1XX0=
 -->
