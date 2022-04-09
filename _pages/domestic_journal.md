@@ -12,17 +12,17 @@ nav: false
 
 <li>장진, 김수형,
 "Skeleton Keypoints를 활용한 CNN3D 기반의 자율주행 버스의 승객 승하차 예측모델,"
-스마트미디어저널, 2022년 3월 (in revision)  (지역우수3/BRL2)
+스마트미디어저널, 2022년 4월 (in revision)  (지역우수3/BRL2)
 </li>
 
 <li>이기성, 김수형, 
 "블러링기법을 이용한 홍채인식정보 삭제 방법,"
-스마트미디어저널, 2022년 3월 (to appear) (지역우수3/AI-Hub)
+스마트미디어저널, 제11권 제2호, pp. 25-30, 2022년 3월. (지역우수3/AI-Hub)
 </li>
 
 <li>Trong–Nghia Nguyen, SooHyung Kim, Nhu-Tai Do, Thai-Thi Ngoc Hong, Hyung Jeong Yang, Guee Sang Lee,
-"A TabNet- Based System for Water Quality Prediction in Aquaculture ,"
-스마트미디어저널, 2022년 3월 (to appear) (지역우수3/의사과학자)
+"A TabNet-Based System for Water Quality Prediction in Aquaculture ,"
+스마트미디어저널,  제11권 제2호, pp. 25-30, 2022년 3월 (to appear) (지역우수3/의사과학자)
 </li>
 
 <li>Thanh-Cong Do, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Sae-Ryung Kang, Jung Joon Min,
@@ -505,5 +505,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDI0NzIsLTIzNzI5NjM5NF19
+eyJoaXN0b3J5IjpbNTc3NzI1NDAyLDEyMTQyNDcyLC0yMzcyOT
+YzOTRdfQ==
 -->
