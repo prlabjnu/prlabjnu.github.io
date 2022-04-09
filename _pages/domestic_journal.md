@@ -22,7 +22,7 @@ nav: false
 
 <li>Trong–Nghia Nguyen, SooHyung Kim, Nhu-Tai Do, Thai-Thi Ngoc Hong, Hyung Jeong Yang, Guee Sang Lee,
 "A TabNet-Based System for Water Quality Prediction in Aquaculture ,"
-스마트미디어저널,  제11권 제2호, pp. 25-30, 2022년 3월 (to appear) (지역우수3/의사과학자)
+스마트미디어저널, 제11권 제2호, pp. 39-52, 2022년 3월. (지역우수3/의사과학자)
 </li>
 
 <li>Thanh-Cong Do, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Sae-Ryung Kang, Jung Joon Min,
@@ -505,6 +505,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NzI1NDAyLDEyMTQyNDcyLC0yMzcyOT
-YzOTRdfQ==
+eyJoaXN0b3J5IjpbLTg4MTQ1NDg1NiwxMjE0MjQ3MiwtMjM3Mj
+k2Mzk0XX0=
 -->
