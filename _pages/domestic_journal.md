@@ -12,7 +12,7 @@ nav: false
 
 <li>장진, 김수형,
 "Skeleton Keypoints를 활용한 CNN3D 기반의 자율주행 버스의 승객 승하차 예측모델,"
-스마트미디어저널, 2022년 4월 (in revision)  (지역우수3/BRL2)
+스마트미디어저널, 2022년 4월 (지역우수3/BRL2) (게재예정)  
 </li>
 
 <li>이기성, 김수형, 
@@ -505,6 +505,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTQ1NDg1NiwxMjE0MjQ3MiwtMjM3Mj
+eyJoaXN0b3J5IjpbLTU3OTQxNDUzMSwxMjE0MjQ3MiwtMjM3Mj
 k2Mzk0XX0=
 -->
