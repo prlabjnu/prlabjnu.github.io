@@ -12,19 +12,20 @@ nav: false
 
 <ol class=space_list>
 
+<li>Trong-Nghia Nguyen, Nhu-Tai Do, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, “Deep Learning Based Temporal Variational Autoencoder for In-hospital Clinical Emergency Prediction,” submitted to MICCAI 2022 Conference, Sep. 2022. (의사과학자) (submitted) 
+
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video for the 3rd ABAW3 Competition,"
 Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW), June 2022.
-(to appear) (BRL2/지역우수3/AI-Hub) 
+(BRL2/지역우수3/AI-Hub) (to appear) 
 
 <li>Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
 Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW), June 2022.
-(to appear) (BRL2/지역우수3)
+(BRL2/지역우수3) (to appear) 
 
-<li>Trong-Nghia Nguyen, Nhu-Tai Do, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, “Deep Learning Based Temporal Variational Autoencoder for In-hospital Clinical Emergency Prediction,” submitted to MICCAI 2022 Conference, Sep. 2022. (의사과학자) (submitted) 
 
-<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Feb. 2022. (BRL2/지역우수3) (to appear)  (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
+<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)  (to appear) 
 
 <li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3)
 
@@ -1098,7 +1099,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgxODU4NzgsMjA5MDE4MDYyMSw2OD
-MxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkx
-LC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
+eyJoaXN0b3J5IjpbMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
+E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
+LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
