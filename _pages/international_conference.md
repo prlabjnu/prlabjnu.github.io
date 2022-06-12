@@ -16,12 +16,11 @@ nav: false
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
-<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), June 2022.
-(BRL2/지역우수3/AI-Hub) 
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), pp. 2507-2511, June 2022. (BRL2/지역우수3/AI-Hub) 
 
 <li>Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
-Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW), June 2022.
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), June 2022.
 (BRL2/지역우수3) (to appear) 
 
 
@@ -1099,8 +1098,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTUxOTM5MCwxMTYwNDczNjU0LDIwOT
-AxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwt
-MTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5MzA1MjAsMTc4OD
-Y2ODg4Nl19
+eyJoaXN0b3J5IjpbLTE0NTc1ODEwNjUsMTE2MDQ3MzY1NCwyMD
+kwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTks
+LTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3OD
+g2Njg4ODZdfQ==
 -->
