@@ -26,11 +26,9 @@ nav: false
 <li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
-"Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on BodyMovement Data,"
+"Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on Body Movement Data,"
 <i>Proc. 9th Int. Conf. Affective Computing and Intelligent Interaction Workshops and Demos</i>(ACIIW 2021), Online Event, Sep. 2021. (BRL2/지역우수3)  (<font color="0000ff">Winner of AffectMove 2021 Challenge</font>)
 </li>
-
-
 
 <li>Nguyen Hong Hai, Van Thong Huynh, Hyung-Jeong Yang,  Guee-Sang Lee, Soo-Hyung Kim,
 "MAFCL: Multimodal Attention Fusion with Combined Loss for Sentiment Recognition in Stress-induced Circumstances,"
@@ -1093,8 +1091,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MzU2NDIsMTE2MDQ3MzY1NCwyMDkwMT
-gwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEw
-OTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Nj
-g4ODZdfQ==
+eyJoaXN0b3J5IjpbNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MD
+E4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0x
+MDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4Nj
+Y4ODg2XX0=
 -->
