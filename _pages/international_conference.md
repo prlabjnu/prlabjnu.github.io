@@ -15,9 +15,9 @@ nav: false
 <li>Trong-Nghia Nguyen, Nhu-Tai Do, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, “Deep Learning Based Temporal Variational Autoencoder for In-hospital Clinical Emergency Prediction,” submitted to MICCAI 2022 Conference, Sep. 2022. (의사과학자) (submitted) 
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
-"Facial Expression Classification using Fusion of Deep Neural Network in Video for the 3rd ABAW3 Competition,"
-Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW), June 2022.
-(BRL2/지역우수3/AI-Hub) (to appear) 
+"Facial Expression Classification using Fusion of Deep Neural Network in Video,"
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), June 2022.
+(BRL2/지역우수3/AI-Hub) 
 
 <li>Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
@@ -1099,7 +1099,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
-E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
-LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbMTAxNTUxOTM5MCwxMTYwNDczNjU0LDIwOT
+AxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwt
+MTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5MzA1MjAsMTc4OD
+Y2ODg4Nl19
 -->
