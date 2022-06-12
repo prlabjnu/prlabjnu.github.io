@@ -12,7 +12,6 @@ nav: false
 
 <ol class=space_list>
 
-<li>Trong-Nghia Nguyen, Nhu-Tai Do, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, “Deep Learning Based Temporal Variational Autoencoder for In-hospital Clinical Emergency Prediction,” submitted to MICCAI 2022 Conference, Sep. 2022. (의사과학자) (submitted) 
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
@@ -20,18 +19,14 @@ nav: false
 
 <li>Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
-<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), June 2022.
-(BRL2/지역우수3) (to appear) 
-
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), pp. 2512-2517, June 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)  (to appear) 
 
 <li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
-"Multimodal Convolutional Neural Network Model
-for Protective Behavior Detection based on Body
-Movement Data,"
+"Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on BodyMovement Data,"
 <i>Proc. 9th Int. Conf. Affective Computing and Intelligent Interaction Workshops and Demos</i>(ACIIW 2021), Online Event, Sep. 2021. (BRL2/지역우수3)  (<font color="0000ff">Winner of AffectMove 2021 Challenge</font>)
 </li>
 
@@ -1098,8 +1093,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1ODEwNjUsMTE2MDQ3MzY1NCwyMD
-kwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTks
-LTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3OD
-g2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbNzU5MzU2NDIsMTE2MDQ3MzY1NCwyMDkwMT
+gwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEw
+OTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Nj
+g4ODZdfQ==
 -->
