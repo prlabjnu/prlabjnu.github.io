@@ -11,12 +11,12 @@ nav: false
 
 
 <li>최은빈, 김수형,
-“TACOTRON2를 이용한 한국어 수식 독음 모델”,
+“TACOTRON2를 이용한 한국어 수식 독음 모델,”
 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 78-79, 한남대학교, 2022년 6월. (BRL2/AI-Hub) 
 </li>
 
 <li>신태호, 김수형,
-“Bi-LSTM을 활용한 국내뉴스 카테고리 분류 모델”,
+“Bi-LSTM을 활용한 국내뉴스 카테고리 분류 모델,”
 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월. (ICT융합보안) 
 </li>
 
@@ -1302,5 +1302,5 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA2MjM2NTAsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
