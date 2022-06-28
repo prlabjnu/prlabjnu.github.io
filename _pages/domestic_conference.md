@@ -10,6 +10,14 @@ nav: false
 <ol class=space_list_kr>
 
 
+<li>최은빈, 김수형,
+“TACOTRON2를 이용한 한국어 수식 독음 모델”,
+2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 78-79, 한남대학교, 2021년 5월. (의사과학자) (<font color="#ff00ff">★우수논문상</font>)
+</li>
+
+
+
+
 <li>보티트엉비, 김애라, 이태범, 김수형, 
 "폐암 선암 생존시간 예측을 위한 병리학적 영상분석,"
 한국정보처리학회 ACK2021 발표논문집, 제28권, 제2호, pp. 779-782, 2021년 11월. (의사과학자/BRL2/NRF3)(<font color="#ff00ff">★우수논문상</font>)
@@ -1290,5 +1298,5 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbOTYwMDk3Njk0LDE2ODkyNDU2NDFdfQ==
 -->
