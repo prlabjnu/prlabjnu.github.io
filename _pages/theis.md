@@ -82,6 +82,12 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <ol class=space_list_kr>
 
 
+<li>장진, "Skeleton Keypoints를 활용한 CNN3D 기반의 버스 승객 승하차 의도 예측모델,"
+전남대학교 인공지능융합학과 석사학위논문, 2022년 8월. </li>
+
+<li>노영재, "중학교 스마트교육 실태 분석 및 내실화를 위한 개선방안,"
+전남대학교 교육대학원 전산교육전공 석사학위논문, 2020년 8월. </li>
+
 <li>Tran Nguyen Quynh Tram, "Automatic Image Colorization Using Semantic Guides,"
 전남대학교 인공지능융합학과 석사학위논문, 2021년 2월. </li>
 
@@ -238,3 +244,6 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 전남대학교 전산통계학과 석사학위논문, 1999년 8월.</li>
 
 </ol>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwODYzMDQzNl19
+-->
