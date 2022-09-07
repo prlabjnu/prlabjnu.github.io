@@ -12,6 +12,11 @@ nav: false
 
 <ol class=space_list>
 
+<li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
+"Facial Expression Classification using Fusion of Deep Neural Network in Video,"
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), pp. 2507-2511, June 2022. (BRL2/지역우수3/AI-Hub) 
+
+
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
@@ -1091,7 +1096,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDQwMjg4NSw1MDg5ODg3NTQsMTE2MD
+eyJoaXN0b3J5IjpbMjAyNDc0MDkwNSw1MDg5ODg3NTQsMTE2MD
 Q3MzY1NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEs
 LTg2OTg2MTksLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOT
 MwNTIwLDE3ODg2Njg4ODZdfQ==
