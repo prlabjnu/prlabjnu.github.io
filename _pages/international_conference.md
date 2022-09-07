@@ -21,7 +21,7 @@ nav: false
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
 <i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), pp. 2512-2517, June 2022. (BRL2/지역우수3)
 
-<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)  (to appear) 
+<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. AAAI Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
 
 <li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3)
 
@@ -1091,8 +1091,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MD
-E4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0x
-MDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4Nj
-Y4ODg2XX0=
+eyJoaXN0b3J5IjpbLTEzMTI5OTI5MDEsNTA4OTg4NzU0LDExNj
+A0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcx
+LC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4Mj
+kzMDUyMCwxNzg4NjY4ODg2XX0=
 -->
