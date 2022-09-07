@@ -70,6 +70,12 @@ Patent Application No.: 7-185824('95. 7. 21),
 <ol class=space_list_kr>
 
 
+<li> 김수형,트롱기아, 고보건, 양형정, 트란티둥,  <br>
+생체신호 모니터링에 의한 병원응급환자 신속대응 방법 및 장치<br>
+출원번호: xx-2022-xxxxxxx (2022.xx.xx) <br>
+</li>
+
+
 <li> 양형정, 트란티둥, 이귀상, 김수형,<br>
 교차 모달 학습 기반의 감정 추론 시스템 및 방법<br>
 출원번호: 10-2022-0026168 (2022.02.28) <br>
@@ -668,5 +674,5 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg4NDMxMzAsLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbLTk5MTY1NjgzNSwtNDgwOTA3MDk4XX0=
 -->
