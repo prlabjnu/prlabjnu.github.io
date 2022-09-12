@@ -16,7 +16,7 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Journal of Pathology</i></font>, Aug. 2022. (submitted)
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Journal of Pathology</i></font>, Aug. 2022. (submitted)
+<li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, Ngumimi-Karen Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang, “Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,”  <font color="ff00ff"><i>Journal of Pathology</i></font>, July 2022. (submitted)
 
 
 
@@ -811,10 +811,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODY2OTk4MSwxNDc3NDI2MjYwLDc2Mj
-AzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtNDg1NjE1Nzg2
-LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1MywtMT
-UxMDUwNjA4NCwxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMjM5MjYx
-NzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3MywtMjkwMjM2NDM5LC
-0xNzM4ODAyOTgxLC04NTIwOTExNzMsLTUzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbLTE5MzcxNTI5NjAsMjEyODY2OTk4MSwxND
+c3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0
+MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LD
+M0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3MTU2LDc5MTA2
+MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3My
+wtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIwOTExNzMsLTUz
+MDI5NDYxNV19
 -->
