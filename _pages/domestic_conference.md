@@ -10,6 +10,12 @@ nav: false
 <ol class=space_list_kr>
 
 
+<li>신태호, 보티트엉비, 김수형,
+“연합 학습을 활용한 개인 정보 보호가 지원된  텍스트 분류의 효용성 분석,”
+2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월. (ICT융합보안) 
+</li>
+
+
 <li>최은빈, 김수형,
 “TACOTRON2를 이용한 한국어 수식 독음 모델,”
 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 78-79, 한남대학교, 2022년 6월. (BRL2/AI-Hub) 
@@ -1302,5 +1308,6 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbNTIwMTI0MzM3LDI5Nzc2Njk0MiwxNjg5Mj
+Q1NjQxXX0=
 -->
