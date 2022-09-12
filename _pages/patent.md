@@ -389,12 +389,15 @@ Block Clustering을 이용한 관심영역기반 자동객체분할방법 및 �
 <ol class=space_list_kr>
 
 
-<li>김수형, 도누따이, 양형정, 오아란, <br>
-엑스레이( X-Ray) 영상에서 무릎 골종양을 검출하는 소프트웨어<br>
-등록번호: C-2021-024615 (2021. 6. 18) (의사과학자)
+<li>김수형, 트롱기아, 고보건, 김애라, <br>
+생체신호 기반의 응급환자 신속대응 프로그램<br>
+(의사과학자)
 </li>
 
-
+<li>김수형, 보티트어비, 이태범, 김애라, <br>
+병리영상 기반의 폐선암 환자 생존시간 예측 프로그램<br>
+(의사과학자)
+</li>
 
 
 <li>김수형, 도누따이, 양형정, 오아란, <br>
@@ -691,6 +694,6 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTA1NjgzOSwxMDY3MjY1MzAyLC00OD
-A5MDcwOThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTM4MTY2NzEsMTA2NzI2NTMwMiwtND
+gwOTA3MDk4XX0=
 -->
