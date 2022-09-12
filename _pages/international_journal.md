@@ -12,11 +12,12 @@ nav: false
 
 
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, March 2022. (in revision)  
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Neuro Computing</i></font>, Aug. 2022. (in revision)  
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>IEEE Transactions on Medical Imaging</i></font>, Jan. 2022. (submitted)
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Journal of Pathology</i></font>, Aug. 2022. (submitted)
 
-<li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in 2 collaborative robot programming,”  <i>Journal of Integrated Design and Process Science</i>, March 2022. (submitted)
+<li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in 2 collaborative robot programming,”  <i>Journal of 
+Integrated Design and Process Science</i>, March 2022. (accepted)
 
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
@@ -805,10 +806,10 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4Mj
-gwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4
-MjUsMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNz
-kxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3
-MTczLC0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3My
-wtNTMwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOT
+g2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1
+OCwtMTM3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMT
+UzOTExNzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkz
+MTA3OSwtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MS
+wtODUyMDkxMTczLC01MzAyOTQ2MTVdfQ==
 -->
