@@ -72,7 +72,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <li> 김수형, 트롱기아, 고보건, 이귀상, 양형정, <br>
 생체신호 모니터링에 의한 병원응급환자 신속대응 방법 및 장치<br>
-출원번호: xx-2022-xxxxxxx (2022.xx.xx) <br>
+출원번호: xx-2022-xxxxxxx (2022.xx.xx) (의사과학자)<br>
 </li>
 
 <li> 김수형, 보티트어비, 이태범, 이귀상, 양형정, <br>
@@ -81,7 +81,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 </li>
 
 <li> 김수형, 이귀상, 양형정, 외<br>
-병리영상 분석에 의한 폐선암 환자의 생존시간 예측 방법 및 장치<br>
+Glioblastoma 뇌암 환자의 생존시간 예측 방법 및 장치<br>
 출원번호: xx-2022-xxxxxxx (2022.xx.xx) <br>
 </li>
 
@@ -684,5 +684,5 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTE2NjQ0MCwtNDgwOTA3MDk4XX0=
+eyJoaXN0b3J5IjpbLTE4MTY4NzkxOTAsLTQ4MDkwNzA5OF19
 -->
