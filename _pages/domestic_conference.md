@@ -12,7 +12,7 @@ nav: false
 
 <li>신태호, 보티트엉비, 김수형,
 “연합 학습을 활용한 개인 정보 보호가 지원된  텍스트 분류의 효용성 분석,”
-2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월. (ICT융합보안) 
+2022년 정보보호학술논문발표회 발표논문집, pp. xx-xx, 국립아시아문화전당, 2022년 9월. (ICT융합보안) (to appear) 
 </li>
 
 
@@ -1308,6 +1308,6 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMTI0MzM3LDI5Nzc2Njk0MiwxNjg5Mj
-Q1NjQxXX0=
+eyJoaXN0b3J5IjpbLTU5OTA5NDk0MSwyOTc3NjY5NDIsMTY4OT
+I0NTY0MV19
 -->
