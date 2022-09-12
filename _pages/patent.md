@@ -77,12 +77,12 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <li> 김수형, 보티트어비, 이태범, 이귀상, 양형정, <br>
 병리영상 분석에 의한 폐선암 환자의 생존시간 예측 방법 및 장치<br>
-출원번호: xx-2022-xxxxxxx (2022.xx.xx) <br>
+출원번호: xx-2022-xxxxxxx (2022.xx.xx)  (의사과학자)<br>
 </li>
 
 <li> 김수형, 이귀상, 양형정, 외<br>
 Glioblastoma 뇌암 환자의 생존시간 예측 방법 및 장치<br>
-출원번호: xx-2022-xxxxxxx (2022.xx.xx) <br>
+출원번호: xx-2022-xxxxxxx (2022.xx.xx)  (의사과학자)<br>
 </li>
 
 
@@ -108,7 +108,8 @@ X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
 <li> 김수형, 김형석, 김소영, 팜반그엉, <br>
 PMCT(피엠시티)스캔 영상으로부터의 연령 추정 방법 및 장치,<br>
 출원번호: 10-2020-0094356  (2020.07.29).
-<font color="ff00ff">등록번호: 10-2436358 (2022.08.22.)</font>  </li>
+<font color="ff00ff">등록번호: 10-2436358 (2022.08.22.) </font>
+(의사과학자)  </li>
 
 
 <li> 김수형, 양형정, 이귀상, 보티퉁뷔, <br>
@@ -684,5 +685,5 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY4NzkxOTAsLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbMTA2NzI2NTMwMiwtNDgwOTA3MDk4XX0=
 -->
