@@ -12,7 +12,7 @@ nav: false
 
 <li>최은빈, 김수형,
 “음성 특징을 이용한 딥러닝 기반 감정인식,”
-제3회 한국인공지능학술대회 발표논문집, pp. 260-261, 제주, 2022년 9월. (BRL2/지역우수3) 
+제3회 한국인공지능학술대회 발표논문집(한국통신학회), pp. 260-261, 제주, 2022년 9월. (BRL2/지역우수3) 
 </li>
 
 <li>신태호, 김수형,
@@ -1312,6 +1312,6 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzA2NzI0NywtNTk5MDk0OTQxLDI5Nz
+eyJoaXN0b3J5IjpbLTY1NjczMjA2NSwtNTk5MDk0OTQxLDI5Nz
 c2Njk0MiwxNjg5MjQ1NjQxXX0=
 -->
