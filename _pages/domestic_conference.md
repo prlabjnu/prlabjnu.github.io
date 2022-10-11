@@ -12,15 +12,13 @@ nav: false
 
 <li>최은빈, 김수형,
 “음성 특징을 이용한 딥러닝 기반 감정인식,”
-제3회 한국인공지능학술대회 발표논문집, pp. 260-261, 제주, 2022년 6월. (BRL2/AI-Hub) 
+제3회 한국인공지능학술대회 발표논문집, pp. 260-261, 제주, 2022년 9월. (BRL2/지역우수3) 
 </li>
-
 
 <li>신태호, 김수형,
 “연합 학습을 활용한 개인 정보 보호가 지원된  텍스트 분류의 효용성 분석,”
 2022년 호남 사이버보안콘퍼런스 발표논문집, pp. 200-203, 광주국립아시아문화전당, 2022년 9월. (ICT융합보안) 
 </li>
-
 
 <li>최은빈, 김수형,
 “TACOTRON2를 이용한 한국어 수식 독음 모델,”
@@ -1314,6 +1312,6 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MTIzMzUwLC01OTkwOTQ5NDEsMjk3Nz
-Y2OTQyLDE2ODkyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbLTc3NzA2NzI0NywtNTk5MDk0OTQxLDI5Nz
+c2Njk0MiwxNjg5MjQ1NjQxXX0=
 -->
