@@ -20,11 +20,11 @@ nav: false
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
-<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), pp. 2507-2511, June 2022. (BRL2/지역우수3/AI-Hub) 
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), pp. 2506-2510, June 2022. (BRL2/지역우수3/AI-Hub) 
 
 <li>Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
-<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), pp. 2512-2517, June 2022. (BRL2/지역우수3)
+<i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), pp. 2511-2516, June 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. CEUR Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Vol. 3199, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
 
@@ -1096,8 +1096,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzgyNjI0OSw1MDg5ODg3NTQsMTE2MD
-Q3MzY1NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEs
-LTg2OTg2MTksLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOT
-MwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwND
+czNjU0LDIwOTAxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwt
+ODY5ODYxOSwtMTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5Mz
+A1MjAsMTc4ODY2ODg4Nl19
 -->
