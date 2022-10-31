@@ -14,7 +14,7 @@ nav: false
 
 <li>Eun-Bin Choi, Hong-Hai Nguyen, Trong-Nghia Nguyen, Soo-Hyung Kim, 
 "Stress analysis based on feature late fusion strategy,"
-<i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  Oct. 2022. (BRL2/지역우수3/AI-Hub) (submitted)
+<i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
 
 
 
@@ -1096,8 +1096,8 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwND
-czNjU0LDIwOTAxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwt
-ODY5ODYxOSwtMTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5Mz
-A1MjAsMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbLTE3NzMxODExMzAsOTkzNzE3NTEzLDUwOD
+k4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMTc4MjMz
+LDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwtMTExND
+A1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
 -->
