@@ -12,13 +12,13 @@ nav: false
 
 
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Neuro Computing</i></font>, Aug. 2022. (in revision)  
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Neuro Computing</i></font>, Nov. 2022. (in revision)  
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Journal of Pathology</i></font>, Aug. 2022. (submitted)
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Americal Journal of Pathology</i></font>, Nov. 2022. (submitted)
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, Ngumimi-Karen Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang, “Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,”  <font color="ff00ff"><i>IEEE Journal of Biomedical and Health Informatics</i></font>, July 2022. (submitted)
 
-<li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," IEEE Access, Vol. 10, pp. 119221-119231, Nov. 2022.
+<li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
 
 
@@ -812,11 +812,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjA4OTk1MCwtNDg3MTQxOTAyLDIxMj
-g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
-LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
-M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
-NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
-wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
-MDkxMTczXX0=
+eyJoaXN0b3J5IjpbNzM3MTM0OTgzLC00ODcxNDE5MDIsMjEyOD
+Y2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUs
+LTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMz
+cwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3
+MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC
+03NjQ3NzE3MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIw
+OTExNzNdfQ==
 -->
