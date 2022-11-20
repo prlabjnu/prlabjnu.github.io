@@ -18,6 +18,8 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, Ngumimi-Karen Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang, “Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,”  <font color="ff00ff"><i>IEEE Journal of Biomedical and Health Informatics</i></font>, July 2022. (submitted)
 
+<li> SUDARSHAN PANT, EUNCHAE LIM, HYUNG-JEONG YANG, GUEE-SANG LEE, SOO-HYUNG KIM, YOUNG-SHIN KANG, 
+HYERIM JANG, 
 
 
 
@@ -811,11 +813,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE0MTkwMiwyMTI4NjY5OTgxLDE0Nz
-c0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4MjgwMTQz
-LC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMz
-Q1NzM2NDUzLC0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYw
-MDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEwNzksLTc2NDc3MTczLC
-0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNTMw
-Mjk0NjE1XX0=
+eyJoaXN0b3J5IjpbLTg4MDM0MTgzOCwtNDg3MTQxOTAyLDIxMj
+g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
+LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
+M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
+NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
+wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
+MDkxMTczXX0=
 -->
