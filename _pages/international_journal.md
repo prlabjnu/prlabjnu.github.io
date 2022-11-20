@@ -18,8 +18,7 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, Ngumimi-Karen Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang, “Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,”  <font color="ff00ff"><i>IEEE Journal of Biomedical and Health Informatics</i></font>, July 2022. (submitted)
 
-<li> SUDARSHAN PANT, EUNCHAE LIM, HYUNG-JEONG YANG, GUEE-SANG LEE, SOO-HYUNG KIM, YOUNG-SHIN KANG, 
-HYERIM JANG, 
+<li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," IEEE Access, Vol. 10, pp. 119221-119231, Nov. 2022.
 
 
 
@@ -813,7 +812,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDM0MTgzOCwtNDg3MTQxOTAyLDIxMj
+eyJoaXN0b3J5IjpbLTQ5MjA4OTk1MCwtNDg3MTQxOTAyLDIxMj
 g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
 LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
 M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
