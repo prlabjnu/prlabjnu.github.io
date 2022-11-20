@@ -101,7 +101,8 @@ X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
 
 <li>김수형, 트란응우옌퀸트램, 두누따이, 오아란,<br>
 흑백 이미지 자동 채색 시스템 및 방법<br>
-출원번호: 10-2021-0059216  (2021.05.07). (BRL2/지역우수2)<br>
+출원번호: 10-2021-0059216  (2021.05.07). 
+<font color="ff00ff">등록번호: 10-2467062 (2022.11.09.) </font>(BRL2/지역우수2)<br>
 </li>
 
 
@@ -694,6 +695,6 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtND
-gwOTA3MDk4XX0=
+eyJoaXN0b3J5IjpbNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1LDEwNj
+cyNjUzMDIsLTQ4MDkwNzA5OF19
 -->
