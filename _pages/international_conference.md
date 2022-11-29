@@ -19,7 +19,7 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Ngoc-Tu Vu, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, Aera Kim,
 "Deep learning-based model for rapid prediction of in-hospital clinical deterioration,"
-<i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
+<i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. (BRL2/의사과학자)
 
 <li>Eun-Bin Choi, Hong-Hai Nguyen, Trong-Nghia Nguyen, Soo-Hyung Kim, 
 "Stress analysis based on feature late fusion strategy,"
@@ -1103,9 +1103,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjc5NjM1MSwtMjE3NDQ3MTY2LDk5Mz
-cxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIx
-LDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0Nz
-YxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZd
-fQ==
+eyJoaXN0b3J5IjpbODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNz
+E3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEs
+NjgzMTc4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3Nj
+E5MSwtMTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
+
 -->
