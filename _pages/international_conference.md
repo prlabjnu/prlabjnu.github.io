@@ -15,7 +15,7 @@ nav: false
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim4,
 "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study,"
-Proc. 10th Int. Conf. Bigdats Applications and Services (BIGDAS 2022), pp. 131-136, J
+<i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
 
 
 <li>Eun-Bin Choi, Hong-Hai Nguyen, Trong-Nghia Nguyen, Soo-Hyung Kim, 
@@ -1100,9 +1100,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzQ2NTE3NSwtMjE3NDQ3MTY2LDk5Mz
-cxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIx
-LDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0Nz
-YxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNjMwNDk2NTcsLTIxNzQ0NzE2Niw5OT
+M3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYy
+MSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxND
+c2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2
+XX0=
 -->
