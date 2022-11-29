@@ -12,6 +12,12 @@ nav: false
 
 <ol class=space_list>
 
+
+<li>Ngumimi Karen Iyortsuun1 , Soo-Hyung Kim2 , Hyung-Jeong Yang3 , and Aera Kim4 ,
+Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study 
+The10thInternational Conferenceon BIGDATAAPPLICATIONSANDSERVICES(BIGDAS2022
+
+
 <li>Eun-Bin Choi, Hong-Hai Nguyen, Trong-Nghia Nguyen, Soo-Hyung Kim, 
 "Stress analysis based on feature late fusion strategy,"
 <i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  pp. 110-114, Saipan, USA, Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
@@ -1094,8 +1100,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OT
-g4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMs
-NTczNjI4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MD
-UzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
+eyJoaXN0b3J5IjpbLTE2MzM0NzIyODMsLTIxNzQ0NzE2Niw5OT
+M3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYy
+MSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxND
+c2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2
+XX0=
 -->
