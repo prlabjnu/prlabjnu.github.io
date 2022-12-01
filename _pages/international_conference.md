@@ -19,7 +19,7 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Ngoc-Tu Vu, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, Aera Kim,
 "Deep learning-based model for rapid prediction of in-hospital clinical deterioration,"
-<i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. (BRL2/의사과학자)
+<i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. 
 
 
 
@@ -1105,9 +1105,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3OTk0OTY2LDg4OTQ5MzYyNiwtMjE3ND
-Q3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwy
-MDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MT
-ksLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3
-ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbMTg3MDgxNjIwOSw4ODk0OTM2MjYsLTIxNz
+Q0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQs
+MjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4Nj
+E5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwx
+Nzg4NjY4ODg2XX0=
 -->
