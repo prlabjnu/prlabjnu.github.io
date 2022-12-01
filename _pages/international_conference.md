@@ -15,7 +15,7 @@ nav: false
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
 
-<li>Trong-Nghia Nguyen, Ngoc-Tu Vu, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, Aera Kim,
+<li>Trong-Nghia Nguyen, Ngoc-Tu Vu, Bo-Gun Kho, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, and Aera Kim,
 "Deep learning-based model for rapid prediction of in-hospital clinical deterioration," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. (의사과학자/BRL2)
 
 
@@ -1104,9 +1104,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNz
-Q0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQs
-MjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4Nj
-E5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwx
-Nzg4NjY4ODg2XX0=
+eyJoaXN0b3J5IjpbLTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4OD
+k0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0
+LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNj
+I4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAs
+LTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
 -->
