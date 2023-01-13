@@ -77,7 +77,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <li> 김수형, 보티트어비, 이태범, 이귀상, 양형정, <br>
 병리영상 분석에 의한 폐선암 환자의 생존시간 예측 방법 및 장치<br>
-출원번호: xx-2022-xxxxxxx (2022.xx.xx)  (의사과학자)<br>
+출원번호: 10-2022-0187771 (2022.12.28)  (의사과학자)<br>
 </li>
 
 <li> 김수형, 이귀상, 양형정, 외<br>
@@ -695,6 +695,6 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1LDEwNj
-cyNjUzMDIsLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbOTU5NjE1MzIyLDc1NTE1NjA1NywtMTI0Nj
+MwODM4NSwxMDY3MjY1MzAyLC00ODA5MDcwOThdfQ==
 -->
