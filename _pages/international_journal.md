@@ -23,11 +23,7 @@ nav: false
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in collaborative robot programming,”  <font color="0000ff"><i>Journal of 
-Integrated Design and Process Science</i>, March 2022. (accepted)
-
-
-Prioli, Joao & Liu, Shengyu & Shen, Yinfeng & Huynh, Van Thong & Rickli, Jeremy & Yang, Hyung-Jeong & Kim, S.H. & Kim, Kyoung-Yun. (2022). Empirical study for human engagement in collaborative robot programming. Journal of Integrated Design and Process Science. 1-23. 10.3233/JID-221012. 
-
+Integrated Design and Process Science</i>, . pp. 1-23. DOI: 10.3233/JID-221012, March 2022. (accepted)
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
@@ -815,11 +811,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzMwODk2MywtNDg3MTQxOTAyLDIxMj
-g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
-LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
-M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
-NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
-wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
-MDkxMTczXX0=
+eyJoaXN0b3J5IjpbNjE3NDI3NTQ1LC00ODcxNDE5MDIsMjEyOD
+Y2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUs
+LTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMz
+cwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3
+MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC
+03NjQ3NzE3MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIw
+OTExNzNdfQ==
 -->
