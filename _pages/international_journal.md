@@ -10,10 +10,14 @@ nav: false
 <ol class=space_list>
 
 
+<![endif]-->
 
+A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis
+
+Ngumimi Karen Iyortsuun 1, Soo-Hyung Kim 1,*, Min Jhon,*, Hyung-Jeong Yang, and Sudarshan Pant
 
 Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units
-
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)
 
 <li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recogjnition Letters</i></font>, Dec. 2022. (submitted)  
 
@@ -808,11 +812,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTY5NjU0LC00ODcxNDE5MDIsMjEyOD
-Y2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUs
-LTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMz
-cwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3
-MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC
-03NjQ3NzE3MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIw
-OTExNzNdfQ==
+eyJoaXN0b3J5IjpbMTI4ODc1MTYzNiwtNDg3MTQxOTAyLDIxMj
+g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
+LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
+M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
+NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
+wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
+MDkxMTczXX0=
 -->
