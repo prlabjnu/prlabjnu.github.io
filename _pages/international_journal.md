@@ -23,7 +23,7 @@ nav: false
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in collaborative robot programming,”  <font color="0000ff"><i>Journal of 
-Integrated Design and Process Science</i>, . pp. 1-23. DOI: 10.3233/JID-221012, March 2022. (accepted)
+Integrated Design and Process Science</i>, . pp. 1-23. DOI: 10.3233/JID-221012, Oct. 2022. 
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
@@ -811,11 +811,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NDI3NTQ1LC00ODcxNDE5MDIsMjEyOD
-Y2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUs
-LTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMz
-cwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3
-MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0OTMxMDc5LC
-03NjQ3NzE3MywtMjkwMjM2NDM5LC0xNzM4ODAyOTgxLC04NTIw
-OTExNzNdfQ==
+eyJoaXN0b3J5IjpbMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLTQ4Nz
+E0MTkwMiwyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIw
+LDEwMTk4NjAzNSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLTE4OD
+UxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEwNTA2
+MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3NDYsLT
+E3MDQ5MzEwNzksLTc2NDc3MTczLC0yOTAyMzY0MzksLTE3Mzg4
+MDI5ODFdfQ==
 -->
