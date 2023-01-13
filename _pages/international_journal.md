@@ -12,19 +12,12 @@ nav: false
 
 
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recogjnition Letters</i></font>, Nov. 2022. (in revision)  
-
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, Taebum Lee, Guee-Sang Lee, Hyung-Jeong Yang, “Federated Learning for Individual Survival Time Prediction of Early-Stage Lung Adenocarcinoma via Pathology Images,”  <font color="ff00ff"><i>Americal Journal of Pathology</i></font>, Nov. 2022. (submitted)
-
-<li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, Ngumimi-Karen Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang, “Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,”  <font color="ff00ff"><i>IEEE Journal of Biomedical and Health Informatics</i></font>, July 2022. (submitted)
-
-
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recogjnition Letters</i></font>, Dec. 2022. (submitted)  
 
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in 2 collaborative robot programming,”  <i>Journal of 
 Integrated Design and Process Science</i>, March 2022. (accepted)
-
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
@@ -812,7 +805,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3ODE1NDYyLC00ODcxNDE5MDIsMjEyOD
+eyJoaXN0b3J5IjpbODQ5ODU2NDkzLC00ODcxNDE5MDIsMjEyOD
 Y2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUs
 LTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMz
 cwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NCwxNTM5MTE3
