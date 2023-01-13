@@ -25,6 +25,10 @@ nav: false
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in collaborative robot programming,”  <font color="0000ff"><i>Journal of 
 Integrated Design and Process Science</i>, March 2022. (accepted)
 
+
+Prioli, Joao & Liu, Shengyu & Shen, Yinfeng & Huynh, Van Thong & Rickli, Jeremy & Yang, Hyung-Jeong & Kim, S.H. & Kim, Kyoung-Yun. (2022). Empirical study for human engagement in collaborative robot programming. Journal of Integrated Design and Process Science. 1-23. 10.3233/JID-221012. 
+
+
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
 
@@ -811,11 +815,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU3MTY2MzEsLTQ4NzE0MTkwMiwyMT
-I4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAz
-NSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLT
-EzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LDE1Mzkx
-MTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MDQ5MzEwNz
-ksLTc2NDc3MTczLC0yOTAyMzY0MzksLTE3Mzg4MDI5ODEsLTg1
-MjA5MTE3M119
+eyJoaXN0b3J5IjpbMTQ4MzMwODk2MywtNDg3MTQxOTAyLDIxMj
+g2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1
+LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMT
+M3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTEx
+NzE1Niw3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OS
+wtNzY0NzcxNzMsLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtODUy
+MDkxMTczXX0=
 -->
