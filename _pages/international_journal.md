@@ -10,8 +10,6 @@ nav: false
 <ol class=space_list>
 
 
-<![endif]-->
-
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
 "A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, Jan. 2023. (의사과학자/AI-Hub) (accepted)
