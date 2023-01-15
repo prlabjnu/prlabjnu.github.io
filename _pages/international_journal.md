@@ -21,7 +21,7 @@ nav: false
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in collaborative robot programming,”  <font color="0000ff"><i>Journal of 
-Integrated Design and Process Science</i>, . pp. 1-23. DOI: 10.3233/JID-221012, Oct. 2022. 
+Integrated Design and Process Science</i></font>, . pp. 1-23. DOI: 10.3233/JID-221012, Oct. 2022. 
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
