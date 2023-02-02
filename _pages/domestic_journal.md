@@ -10,6 +10,12 @@ nav: false
 
 <ol class=space_list_kr>
 
+
+
+
+<li>임지영, 도탄콩, 김수형, 이귀상, 이민희, 민정준, 범희승, 김현식, 강세령, 양형정, “Classification of Whole Body Bone Scan Image with Bone Metastasis using CNN-based Transfer Learning,” 멀티미디어학회논문지, 제25권 8호, pp. 1224-1232, 2022년 8월. (의사과학자)
+</li>
+
 <li>장진, 김수형,
 "Skeleton Keypoints를 활용한 CNN3D 기반의 자율주행 버스의 승객 승하차 예측모델,"
 스마트미디어저널, 제11권 제3호, pp. 90-101, 2022년 4월 (지역우수3/BRL2)
@@ -505,6 +511,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMT
-QyNDcyLC0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbMTcwOTg0MjkwNiwtODc1NzkxMDA4LC01Nz
+k0MTQ1MzEsMTIxNDI0NzIsLTIzNzI5NjM5NF19
 -->
