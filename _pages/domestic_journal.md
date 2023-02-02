@@ -10,7 +10,7 @@ nav: false
 
 <ol class=space_list_kr>
 
-
+<li>최은빈, 김수형, "소프트 보팅을 이용한 합성곱 오토인코더 기반 스트레스 탐지," 스마트미디어저널,
 
 
 <li>임지영, 도탄콩, 김수형, 이귀상, 이민희, 민정준, 범희승, 김현식, 강세령, 양형정, “Classification of Whole Body Bone Scan Image with Bone Metastasis using CNN-based Transfer Learning,” 멀티미디어학회논문지, 제25권 8호, pp. 1224-1232, 2022년 8월. (의사과학자)
@@ -511,6 +511,6 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTg0MjkwNiwtODc1NzkxMDA4LC01Nz
-k0MTQ1MzEsMTIxNDI0NzIsLTIzNzI5NjM5NF19
+eyJoaXN0b3J5IjpbLTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwtNT
+c5NDE0NTMxLDEyMTQyNDcyLC0yMzcyOTYzOTRdfQ==
 -->
