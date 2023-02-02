@@ -16,7 +16,7 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recogjnition Letters</i></font>, Dec. 2022. (submitted)  
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Dec. 2022. (submitted)  
 
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
@@ -812,11 +812,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNz
-QyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2
-MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NT
-YxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0
-NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAwMjksLT
-IzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIz
-NjQzOV19
+eyJoaXN0b3J5IjpbLTIwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOT
+c2NzIxNTk2LDYxNzQyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5
+ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02Nz
+gyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIy
+MTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Ni
+w3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0
+NzcxNzNdfQ==
 -->
