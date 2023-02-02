@@ -390,14 +390,23 @@ Block Clustering을 이용한 관심영역기반 자동객체분할방법 및 �
 <ol class=space_list_kr>
 
 
+
+<li>양형정, 박진주, 김수형, 이귀상, 유석봉
+
+감정 훈련 모바일 애플리케이션
+
+등록번호: C-2023-005452 (2022.12.02.) (BRL2)
+
+<![if !supportEmptyParas]> <![endif]>
+
 <li>김수형, 트롱기아, 고보건, 김애라, <br>
 생체신호 기반의 응급환자 신속대응 프로그램<br>
-2022년 9월. (의사과학자) (신청)
+등록번호: C-2022-034973 (2022.09.08.) (의사과학자)  
 </li>
 
 <li>김수형, 보티트어비, 이태범, 김애라, <br>
 병리영상 기반의 폐선암 환자 생존시간 예측 프로그램<br>
-2022년 9월. (의사과학자) (신청)
+등록번호: C-2022-034972 (2022.09.08.). (의사과학자)
 </li>
 
 
@@ -695,6 +704,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzQ0MTAyNSw3NTUxNTYwNTcsLTEyND
-YzMDgzODUsMTA2NzI2NTMwMiwtNDgwOTA3MDk4XX0=
+eyJoaXN0b3J5IjpbMTIwMDkxODQyOCwtNzIzNDQxMDI1LDc1NT
+E1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1MzAyLC00ODA5MDcw
+OThdfQ==
 -->
