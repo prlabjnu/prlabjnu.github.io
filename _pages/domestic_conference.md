@@ -30,7 +30,8 @@ nav: false
 2022 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 80-81, 한남대학교, 2022년 6월. (ICT융합보안) 
 </li>
 
-<li>Trong–Nghia Nguyen, SooHyung Kim, Nhu-Tai Do, Thai-Thi Ngoc Hong, Hyung Jeong Yang, Guee Sang Lee, “A TabNet-Based System for Water Quality Prediction in Aquaculture,” 2022 한국스마트미디어학회, pp. 39-52, 2022년 3월. (AI-Hub)
+<li>Trong–Nghia Nguyen, SooHyung Kim, Nhu-Tai Do, Thai-Thi Ngoc Hong, Hyung Jeong Yang, Guee Sang Lee, “A TabNet-Based System for Water Quality Prediction in Aquaculture,” 2022 한국스마트미디어학회 춘계학술발표논문집, pp. 39-52, 2022년 3월. (AI-Hub)
+</li>
 
 <li>보티트엉비, 김애라, 이태범, 김수형, 
 "폐암 선암 생존시간 예측을 위한 병리학적 영상분석,"
@@ -1312,6 +1313,6 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY1NzUzODUsLTY1NjczMjA2NSwtNT
-k5MDk0OTQxLDI5Nzc2Njk0MiwxNjg5MjQ1NjQxXX0=
+eyJoaXN0b3J5IjpbLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OT
+kwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
