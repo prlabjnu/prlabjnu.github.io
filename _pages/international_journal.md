@@ -23,7 +23,7 @@ nav: false
 <li>J.P.J. Prioli, S. Liu, Y. Shen, Van Thong Huynh, J. Rickli , Hyung-Jeong Yang, Soo-Hyung Kim, Kyoung-Yun Kim, “Empirical study for worker engagement in collaborative robot programming,”  <font color="0000ff"><i>Journal of 
 Integrated Design and Process Science</i></font>, . pp. 1-23. DOI: 10.3233/JID-221012, Oct. 2022. 
 
-<li>Tien-Bach-Thanh Do, Dang-Linh Trinh, Minh-Trieu Tran, Guee-Sang Lee*, Soo-Hyung Kim, and Hyung-Jeong Yang,“Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation,” LNCS, Vol. 12963, pp.210-221, July 2022. (의사과학자)
+<li>Tien-Bach-Thanh Do, Dang-Linh Trinh, Minh-Trieu Tran, Guee-Sang Lee*, Soo-Hyung Kim, and Hyung-Jeong Yang,“Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation,” <font color="ff00ff"><i>LNCS</i></font>, Vol. 12963, pp.210-221, July 2022. (의사과학자)
 
 <li>Dang-Linh Trinh, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, “The Efficacy of Shape Radiomics and Deep Features for Glioblastoma Survival Prediction by Deep Learning,”  <font color="ff00ff"><i>Electronics</i></font>, 11, 1038, pp. 1-13, March 2022. (IF: 2.412) (의사과학자/BRL2)
 
@@ -31,10 +31,8 @@ Integrated Design and Process Science</i></font>, . pp. 1-23. DOI: 10.3233/JID-2
 <li>Hai-Duong Nguyen, Sun-Hee Kim, Guee-Sang Lee, Hyung-Jeong Yang, In-Seop Na, and Soo-Hyung Kim,
 "Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks,"
 <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, Vol. 13, No. 1, pp. 226-237, March 2022. (IF: 10.506, JCR10%) (BRL)
-</li>
 
-Tien-Bach-Thanh Do, Dang-Linh Trinh, Minh-Trieu Tran, Guee-Sang Lee*, Soo-Hyung Kim, and Hyung-Jeong Yang,“Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation,” LNCS, Vol. 12963, pp.210-221, July 2022. (의사과학자)
-
+<li>Tien-Bach-Thanh Do, Dang-Linh Trinh, Minh-Trieu Tran, Guee-Sang Lee*, Soo-Hyung Kim, and Hyung-Jeong Yang,“Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation,” <font color="ff00ff"><i>LNCS</i></font>, Vol. 12963, pp.210-221, July 2022. (의사과학자)
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
 "Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
@@ -814,11 +812,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NjAwNzUwLDE5NzY3MjE1OTYsNjE3ND
-I3NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2MjYw
-LDc2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtNDg1Nj
-E1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1
-MywtMTUxMDUwNjA4NCwxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMj
-M5MjYxNzQ2LC0xNzA0OTMxMDc5LC03NjQ3NzE3MywtMjkwMjM2
-NDM5XX0=
+eyJoaXN0b3J5IjpbMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNz
+QyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2
+MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NT
+YxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0
+NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAwMjksLT
+IzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0NzcxNzMsLTI5MDIz
+NjQzOV19
 -->
