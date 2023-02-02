@@ -19,9 +19,6 @@ nav: false
 "Deep learning-based model for rapid prediction of in-hospital clinical deterioration," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 81-88, Jeju, Korea, Nov. 2022. (의사과학자/BRL2)
 
 
-
-
-
 <li>Eun-Bin Choi, Hong-Hai Nguyen, Trong-Nghia Nguyen, Soo-Hyung Kim, 
 "Stress analysis based on feature late fusion strategy,"
 <i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  pp. 110-114, Saipan, USA, Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
@@ -1104,9 +1101,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4OD
-k0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0
-LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNj
-I4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAs
-LTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
+eyJoaXN0b3J5IjpbMTI3MzUxOTM1LC0xOTQ1NjYxNjIzLDExMj
+k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
+LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
+c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
+MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
 -->
