@@ -37,7 +37,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
-<li>Thong, "Facial Emotion Recognition Using Context-Aware Spatio-Temporal and Temporal-Pyramid Models,"
+<li>Thong, "....,"
 전남대학교 인공지능융합학과 박사학위논문, 2023년 2월. </li>
 
 <li>Do Nhu Tai, "Facial Emotion Recognition Using Context-Aware Spatio-Temporal and Temporal-Pyramid Models,"
@@ -83,11 +83,21 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
-<li>이기성
-<li>Hai,
-<li>Ngan
-<li>
 
+<li>최은빈
+전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
+
+<li>신태호
+전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
+
+<li>이기성
+전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
+
+<li>Hai,
+전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
+
+<li>Ngan
+전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
 
 <li>장진, "Skeleton Keypoints를 활용한 CNN3D 기반의 버스 승객 승하차 의도 예측모델,"
@@ -253,5 +263,5 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MjI0NTM4LC05NjYwMDg2ODJdfQ==
+eyJoaXN0b3J5IjpbMzE4MDA5ODgzLC05NjYwMDg2ODJdfQ==
 -->
