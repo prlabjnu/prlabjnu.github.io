@@ -84,19 +84,20 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <ol class=space_list_kr>
 
 
-<li>최은빈
+<li>최은빈,
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
-<li>신태호
+
+<li>이기성,
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
-<li>이기성
-전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
+<li>신태호,
+전남대학교 정보보안협동과정 석사학위논문, 2023년 2월. </li>
 
 <li>Hai,
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
-<li>Ngan
+<li>Ngan,
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
 
@@ -263,5 +264,5 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MDA5ODgzLC05NjYwMDg2ODJdfQ==
+eyJoaXN0b3J5IjpbMTQ4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
 -->
