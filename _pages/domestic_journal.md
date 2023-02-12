@@ -13,7 +13,7 @@ nav: false
 <li>최은빈, 김수형, "소프트 보팅을 이용한 합성곱 오토인코더 기반 스트레스 탐지," 스마트미디어저널, 제12권 제2호, 2023년2월 (BRL2/AI-Hub) (to appear)
 </li>
 
-<li>임지영, 도탄콩, 김수형, 이귀상, 이민희, 민정준, 범희승, 김현식, 강세령, 양형정, “Classification of Whole Body Bone Scan Image with Bone Metastasis using CNN-based Transfer Learning,” 멀티미디어학회논문지, 제25권 8호, pp. 1224-1232, 2022년 8월. (의사과학자)
+<li>임지영, 도탄콩, 김수형, 이귀상, 이민희, 민정준, 범희승, 김현식, 강세령, 양형정, “CNN 기반 전이학습을 이용한 뼈 전이가 존재하는 뼈 스캔 영상 분류,” 멀티미디어학회논문지, 제25권 8호, pp. 1224-1232, 2022년 8월. (의사과학자)
 </li>
 
 <li>장진, 김수형,
@@ -22,7 +22,7 @@ nav: false
 </li>
 
 <li>이기성, 김수형, 
-"블러링기법을 이용한 홍채인식정보 삭제 방법,"
+"블러링기법 기반의 홍채영역 마스킹 방법,"
 스마트미디어저널, 제11권 제2호, pp. 25-30, 2022년 3월. (지역우수3/AI-Hub)
 </li>
 
@@ -511,7 +511,7 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDczMDk5MzgsLTE5NjI1MTMzNDEsLT
-g3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcyOTYz
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjY5ODI1NDUsLTE0NDczMDk5MzgsLT
+E5NjI1MTMzNDEsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQy
+NDcyLC0yMzcyOTYzOTRdfQ==
 -->
