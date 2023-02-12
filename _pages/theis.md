@@ -36,6 +36,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 ### Doctoral Dissertation guidance 박사학위 논문지도
 
 <ol class=space_list_kr>
+<ol class=space_list>
 
 <li>Thong, "....,"
 전남대학교 인공지능융합학과 박사학위논문, 2023년 2월. </li>
@@ -264,5 +265,5 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbNTYwNDkzMzE1LC05NjYwMDg2ODJdfQ==
 -->
