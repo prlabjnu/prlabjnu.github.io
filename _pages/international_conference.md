@@ -40,7 +40,7 @@ nav: false
 
 <li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. CEUR Workshop - De-Factify: Multimodal Fake News and Hate-Speech Detection</i>, Vol. 3199, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
 
-<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Hiroshima, Feb. 2022. (BRL2/지역우수3)
+<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Hiroshima, Japan, Feb. 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
 "Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on Body Movement Data,"
@@ -51,7 +51,6 @@ nav: false
 "MAFCL: Multimodal Attention Fusion with Combined Loss for Sentiment Recognition in Stress-induced Circumstances,"
 <i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. 16-19, Sep. 2021. (BRL2/지역우수3) (<font color="0000ff">Best Paper Award</font>)
 </li>
-
 
 <li>Nhu-Tai Do, Hyung-Jeong Yang, Guee-Sang Lee and Soo-Hyung Kim,
 "Facial Emotion Recognition in video clips using 3D Face
@@ -1108,7 +1107,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzMxNzY2MywtMTk0NTY2MTYyMywxMT
+eyJoaXN0b3J5IjpbMTM1OTU0Mzc0MSwtMTk0NTY2MTYyMywxMT
 I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
 Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
 E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
