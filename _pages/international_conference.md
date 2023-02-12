@@ -23,6 +23,19 @@ nav: false
 "Stress analysis based on feature late fusion strategy,"
 <i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  pp. 110-114, Saipan, USA, Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
 
+
+
+Duy-Phuong Dao, Hyung-Jeong Yang, Ngoc-Huynh Ho, Sudarshan Pant, Soo-Hyung Kim, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang, “Survival Analysis based on Lung Tumor Segmentation using Global Context-aware Transformer in Multimodality,” Proc. 26th International Conference on Pattern Recognition (ICPR 2022), pp. 5162-5169, Canada, August 2022. (BRL2/의사과학자)
+
+<![if !supportEmptyParas]> <![endif]>
+
+Thanh-Cong Do, Hyung-Jeong Yang*, Sae-Ryung Kang*, Soo-Hyung Kim, Guee-Sang Lee, “Positional Multi-Cross-Attention for Bone Age Estimation Using Deep Multiple Instance Learning,” Proc. 26th International Conference on Pattern Recognition (ICPR 2022), pp. 4285-4291, Canada, August 2022. (BRL2/의사과학자)
+
+<![if !supportEmptyParas]> <![endif]>
+
+
+
+
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
 <i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild </i>(ABAW), pp. 2506-2510, June 2022. (BRL2/지역우수3/AI-Hub) 
@@ -1101,9 +1114,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzUxOTM1LC0xOTQ1NjYxNjIzLDExMj
-k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
-LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
-c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
-MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbLTE4NzY4NzAxNjQsLTE5NDU2NjE2MjMsMT
+EyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1
+MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2OD
+MxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkx
+LC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
 -->
