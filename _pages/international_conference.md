@@ -24,10 +24,11 @@ nav: false
 <i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2022),  pp. 110-114, Saipan, USA, Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
 
 
+<li>Thanh-Cong Do, Hyung-Jeong Yang*, Sae-Ryung Kang*, Soo-Hyung Kim, Guee-Sang Lee, “Positional Multi-Cross-Attention for Bone Age Estimation Using Deep Multiple Instance Learning,” <i><font color="ff00ff">Proc. 26th International Conference on Pattern Recognition</font></i> (ICPR 2022), pp. 4285-4291, Canada, August 2022. (BRL2/의사과학자)
 
-<li>Duy-Phuong Dao, Hyung-Jeong Yang, Ngoc-Huynh Ho, Sudarshan Pant, Soo-Hyung Kim, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang, “Survival Analysis based on Lung Tumor Segmentation using Global Context-aware Transformer in Multimodality,” <i<font color="ff00ff">Proc. 26th International Conference on Pattern Recognition</i> (ICPR 2022), pp. 5162-5169, Canada, August 2022. (BRL2/의사과학자)
 
-<li>Thanh-Cong Do, Hyung-Jeong Yang*, Sae-Ryung Kang*, Soo-Hyung Kim, Guee-Sang Lee, “Positional Multi-Cross-Attention for Bone Age Estimation Using Deep Multiple Instance Learning,” <i>Proc. 26th International Conference on Pattern Recognition</i> (ICPR 2022), pp. 4285-4291, Canada, August 2022. (BRL2/의사과학자)
+<li>Duy-Phuong Dao, Hyung-Jeong Yang, Ngoc-Huynh Ho, Sudarshan Pant, Soo-Hyung Kim, Guee-Sang Lee, In-Jae Oh, Sae-Ryung Kang, “Survival Analysis based on Lung Tumor Segmentation using Global Context-aware Transformer in Multimodality,” <i><font color="ff00ff">Proc. 26th International Conference on Pattern Recognition</font></i> (ICPR 2022), pp. 5162-5169, Canada, August 2022. (BRL2/의사과학자)
+
 
 <li>Kim Ngan Phan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim,
 "Facial Expression Classification using Fusion of Deep Neural Network in Video,"
@@ -1107,9 +1108,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzE1MDU5MywtMTk0NTY2MTYyMywxMT
-I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
-Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
-E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
-LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbNDE1NTk4NzcwLC0xOTQ1NjYxNjIzLDExMj
+k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
+LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
+c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
+MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
 -->
