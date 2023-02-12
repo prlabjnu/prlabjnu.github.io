@@ -38,9 +38,9 @@ nav: false
 "An Ensemble Approach for Facial Expression Analysis and Action Unit Detection in-the-wild Video,"
 <i>Proc. CVPR Workshop and Competition on Affective Behavior Analysis in-the-wild</i> (ABAW), pp. 2511-2516, June 2022. (BRL2/지역우수3)
 
-<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. CEUR Workshop - De-Factify: Multimodal Fact-Checking and Hate-Speech Detection</i>, Vol. 3199, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
+<li>Kim Ngan Phan, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, “Little Flower Team at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis,” <i>Proc. CEUR Workshop - De-Factify: Multimodal Fake News and Hate-Speech Detection</i>, Vol. 3199, Feb. 2022. (BRL2/지역우수3) (<font color="0000ff">Winner of Memotion 2022 Challenge</font>)
 
-<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Feb. 2022. (BRL2/지역우수3)
+<li>Hong-Hai Nguyen, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim and In-Seop Na, “Cognitive Load Classification Using Multimodal Transformer Encoder Fusion Combined with Gaussian Noise,” <i>Proc. Int. Workshop on Frontiers of Computer Vision</i>, pp. 481-488, Hiroshima, Feb. 2022. (BRL2/지역우수3)
 
 <li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
 "Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on Body Movement Data,"
@@ -1108,9 +1108,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTk4NzcwLC0xOTQ1NjYxNjIzLDExMj
-k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
-LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
-c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
-MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbMTE1MzMxNzY2MywtMTk0NTY2MTYyMywxMT
+I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
+Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
+E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
+LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
