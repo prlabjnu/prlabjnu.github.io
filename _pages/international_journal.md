@@ -14,7 +14,7 @@ nav: false
 <li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. xx, pp. xxxxxx-xxxxxx, DOI: 10.1109/ACCESS.2023.3248654, March. 2023. (NRF3/AI-Hub) (to appear)
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
-"A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, 11, 285, pp. 1-27, Jan. 2023. (의사과학자/AI-Hub)
+"A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, 11, 285, pp. 1-27, Jan. 2023. (BRL2/AI-Hub)
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)  
 
@@ -813,11 +813,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5Nzk4MzAwLDE3NDIwOTE2NzcsLTIwNz
-kzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0
-NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3Nj
-IwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4
-NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0NTMsLT
-E1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAwMjksLTIzOTI2
-MTc0Nl19
+eyJoaXN0b3J5IjpbMjAyNTU5Nzg4MSwxNzQyMDkxNjc3LC0yMD
+c5MzExNTMxLDE4MzY5Njc0MDUsMTk3NjcyMTU5Niw2MTc0Mjc1
+NDUsLTQ4NzE0MTkwMiwyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNz
+YyMDM1OTIwLDEwMTk4NjAzNSwtNjc4MjgwMTQzLC00ODU2MTU3
+ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC
+0xNTEwNTA2MDg0LDE1MzkxMTcxNTYsNzkxMDYwMDI5LC0yMzky
+NjE3NDZdfQ==
 -->
