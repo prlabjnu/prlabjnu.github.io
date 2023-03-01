@@ -9,15 +9,15 @@ nav: false
 
 <ol class=space_list>
 
+<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Dec. 2022. (submitted)  
+
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
 "A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, 11, 285, pp. 1-27, Jan. 2023. (의사과학자/AI-Hub)
-Healthcare 2023, 11, 285.
 
-<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)
+<li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)  
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Dec. 2022. (submitted)  
 
 <li> Sudarshan Pant, Eunchae Lim, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, Young-Shin Kang, Hyerim Jang, "Korean Drama Scene Transcript Dataset for Emotion Recognition in Conversations," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 10, pp. 119221-119231, Nov. 2022. (BRL2)
 
@@ -813,11 +813,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNzA0ODI0LC0yMDc5MzExNTMxLDE4Mz
-Y5Njc0MDUsMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkw
-MiwyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMT
-k4NjAzNSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2
-NTgsLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LD
-E1MzkxMTcxNTYsNzkxMDYwMDI5LC0yMzkyNjE3NDYsLTE3MDQ5
-MzEwNzldfQ==
+eyJoaXN0b3J5IjpbMTc0MjA5MTY3NywtMjA3OTMxMTUzMSwxOD
+M2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3NTQ1LC00ODcxNDE5
+MDIsMjEyODY2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMD
+E5ODYwMzUsLTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIx
+NjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NC
+wxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0
+OTMxMDc5XX0=
 -->
