@@ -88,7 +88,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
 
-<li>이기성,
+<li>이기성, ","
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
 
 <li>신태호, "딥러닝 기반 시스템 로그 이상 탐지에 대한 연합 학습 적용의 효용성 분석,"
@@ -264,6 +264,6 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzI2MDcyLDE0ODQ3MDc0MzAsLTk2Nj
+eyJoaXN0b3J5IjpbMTY4NTYwODc2LDE0ODQ3MDc0MzAsLTk2Nj
 AwODY4Ml19
 -->
