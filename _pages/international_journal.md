@@ -11,7 +11,7 @@ nav: false
 
 <li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Dec. 2022. (submitted)  
 
-<li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <i>IEEE Access</i></font>, Vol. xx, pp. xxxxxx-xxxxxx, March. 2023. (NRF3/AI-Hub)
+<li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. xx, pp. xxxxxx-xxxxxx, DOI: 10.1109/ACCESS.2023.3248654, March. 2023. (NRF3/AI-Hub) (to appear)
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
 "A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, 11, 285, pp. 1-27, Jan. 2023. (의사과학자/AI-Hub)
@@ -813,11 +813,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTczNDM4MzIsMTc0MjA5MTY3NywtMj
-A3OTMxMTUzMSwxODM2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3
-NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2MjYwLD
-c2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtNDg1NjE1
-Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1My
-wtMTUxMDUwNjA4NCwxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMjM5
-MjYxNzQ2XX0=
+eyJoaXN0b3J5IjpbMzg5Nzk4MzAwLDE3NDIwOTE2NzcsLTIwNz
+kzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0
+NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3Nj
+IwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4
+NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0NTMsLT
+E1MTA1MDYwODQsMTUzOTExNzE1Niw3OTEwNjAwMjksLTIzOTI2
+MTc0Nl19
 -->
