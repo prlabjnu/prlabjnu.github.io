@@ -12,7 +12,7 @@ nav: false
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
-"A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, Jan. 2023. (의사과학자/AI-Hub) (accepted)
+"A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, Jan. 2023. (의사과학자/AI-Hub)
 
 <li>Vi Thi-Tuong Vo, Soo-Hyung Kim, "Mulvernet: Nucleus Segmentation and Classification of Pathology Images Using the HoVer-Net and Multiple Filter Units," <font color="ff00ff"><i>Electronics</i></font>, 12, 355, pp. 1-12, Jan. 2023. (IF: 2.690) (의사과학자/AI-Hub)
 
@@ -812,11 +812,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOT
-c2NzIxNTk2LDYxNzQyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5
-ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02Nz
-gyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIy
-MTgyNSwzNDU3MzY0NTMsLTE1MTA1MDYwODQsMTUzOTExNzE1Ni
-w3OTEwNjAwMjksLTIzOTI2MTc0NiwtMTcwNDkzMTA3OSwtNzY0
-NzcxNzNdfQ==
+eyJoaXN0b3J5IjpbLTcxMTY3MDExMywtMjA3OTMxMTUzMSwxOD
+M2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3NTQ1LC00ODcxNDE5
+MDIsMjEyODY2OTk4MSwxNDc3NDI2MjYwLDc2MjAzNTkyMCwxMD
+E5ODYwMzUsLTY3ODI4MDE0MywtNDg1NjE1Nzg2LC0xODg1MTIx
+NjU4LC0xMzcwMjIxODI1LDM0NTczNjQ1MywtMTUxMDUwNjA4NC
+wxNTM5MTE3MTU2LDc5MTA2MDAyOSwtMjM5MjYxNzQ2LC0xNzA0
+OTMxMDc5XX0=
 -->
