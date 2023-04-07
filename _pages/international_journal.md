@@ -11,7 +11,7 @@ nav: false
 
 <li> Tae-Ho Shin and Soo-Hyung Kim,
 "Utility Analysis about Log Data Anomaly Detection Based on Federated Learning," 
-Applied Science, 13, 4495, pp. 1-13, April 2023. (IF: 2.838) (융합보안)
+<font color="ff00ff"><i>Applied Science</i></font>, 13, 4495, pp. 1-13, April 2023. (IF: 2.838) (융합보안)
 
 <li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 11, pp. 20114-20127, Feb. 2023. (NRF3/AI-Hub)
 
@@ -815,11 +815,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTA0MzY4OSwxNzI0ODg4NjMsLTgxND
-AyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1
-MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0NSwtND
-g3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5
-MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMT
-g4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1
-MDYwODRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTExNzE0MzksMTcyNDg4ODYzLC04MT
+QwMjA1NDUsMjAyNTU5Nzg4MSwxNzQyMDkxNjc3LC0yMDc5MzEx
+NTMxLDE4MzY5Njc0MDUsMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLT
+Q4NzE0MTkwMiwyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1
+OTIwLDEwMTk4NjAzNSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLT
+E4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEw
+NTA2MDg0XX0=
 -->
