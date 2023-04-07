@@ -9,14 +9,11 @@ nav: false
 
 <ol class=space_list>
 
-<li>Huynh, Van Thong, Lee, Guee-Sang, Yang, Hyung-Jeong, Kim, Soo Hyung, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Dec. 2022. (submitted)  
-
-
 <li> Tae-Ho Shin and Soo-Hyung Kim,
 "Utility Analysis about Log Data Anomaly Detection Based on Federated Learning," 
 Applied Science, 13, 4495, pp. 1-13, April 2023. (IF: 2.838) (융합보안)
 
-<li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 11, pp. xxxxxx-xxxxxx, Feb. 2023. (NRF3/AI-Hub)
+<li> Kim Ngan Phan, Ngumimi Karen Iyortsuun, Sudarshan Pant, Hyung-Jeong Yang, Soo-Hyung Kim, "Pain Recognition with Physiological Signals Using Multi-Level Context Information," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 11, pp. 20114-20127, Feb. 2023. (NRF3/AI-Hub)
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Min Jhon, Hyung-Jeong Yang, and Sudarshan Pant,
 "A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis," <font color="ff00ff"><i>Healthcare</i></font>, 11, 285, pp. 1-27, Jan. 2023. (BRL2/AI-Hub)
@@ -818,11 +815,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNT
-U5Nzg4MSwxNzQyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0
-MDUsMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkwMiwyMT
-I4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAz
-NSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLT
-EzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEwNTA2MDg0LDE1Mzkx
-MTcxNTZdfQ==
+eyJoaXN0b3J5IjpbMTk5NTA0MzY4OSwxNzI0ODg4NjMsLTgxND
+AyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1
+MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0NSwtND
+g3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5
+MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMT
+g4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3MzY0NTMsLTE1MTA1
+MDYwODRdfQ==
 -->
