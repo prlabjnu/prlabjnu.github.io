@@ -10,16 +10,17 @@ nav: false
 <ol class=space_list_kr>
 
 
-<li>하이더 이르판 , 이귀상, 김수형, "감정 인식을 위한 Convmixer 기술," 한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 40-42, 제주대학교, 2023년 4월. (★우수논문상)
+<li>하이더 이르판 , 이귀상, 김수형, 
+"감정 인식을 위한 Convmixer 기술," 
+한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 40-42, 제주대학교, 2023년 4월. (<font color="#ff00ff">★우수논문상</font>)
 
-<li>엄다은, 곽효정, 임규리, 김수형, "AI-OCR을 활용한 메뉴판 인식 및 개인화 음식 추천 서비스,"
-한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 66-67, 제주대학교, 2023년 4월. 
-(SW중심대학)
+<li>엄다은, 곽효정, 임규리, 김수형, 
+"AI-OCR을 활용한 메뉴판 인식 및 개인화 음식 추천 서비스," 
+한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 66-67, 제주대학교, 2023년 4월. (SW중심대학)
 
 <li>고건우, 정성현, 정희석, 김수형,
 "LLM을 이용한 게임 내 스토리텔링 NPC 구현에 관한 연구,"
-한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 68-69, 제주대학교, 2023년 4월. 
-(SW중심대학)
+한국스마트미디어학회 2023년도 종합학술대회 발표논문집, pp. 68-69, 제주대학교, 2023년 4월. (SW중심대학)
 
 <li>최은빈, 김수형,
 “음성 특징을 이용한 딥러닝 기반 감정인식,”
@@ -1324,7 +1325,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTU1MjEzOSwtNDk2MjQwNDQzLC02NT
-Y3MzIwNjUsLTU5OTA5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0
-MV19
+eyJoaXN0b3J5IjpbLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNj
+U2NzMyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2
+NDFdfQ==
 -->
