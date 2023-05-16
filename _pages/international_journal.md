@@ -9,6 +9,8 @@ nav: false
 
 <ol class=space_list>
 
+<li> Irfan Haider, Hyung-Jeong Yang , Guee-Sang Lee and Soo-Hyung Kim, "Robust Human Face Emotion Classification Using Triplet-Loss-Based Deep CNN Features and SVM," <font color="ff00ff"><i>Sensors</i></font> 23, 4770, pp. 1-19, May 2023. (IF: 3.847) (지역우수3)
+
 <li> Tae-Ho Shin and Soo-Hyung Kim,
 "Utility Analysis about Log Data Anomaly Detection Based on Federated Learning," 
 <font color="ff00ff"><i>Applied Science</i></font>, 13, 4495, pp. 1-13, April 2023. (IF: 2.838) (융합보안)
@@ -815,11 +817,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTExNzE0MzksMTcyNDg4ODYzLC04MT
-QwMjA1NDUsMjAyNTU5Nzg4MSwxNzQyMDkxNjc3LC0yMDc5MzEx
-NTMxLDE4MzY5Njc0MDUsMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLT
-Q4NzE0MTkwMiwyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1
-OTIwLDEwMTk4NjAzNSwtNjc4MjgwMTQzLC00ODU2MTU3ODYsLT
-E4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1NzM2NDUzLC0xNTEw
-NTA2MDg0XX0=
+eyJoaXN0b3J5IjpbOTE0OTcwNjM2LC0xMzUxMTcxNDM5LDE3Mj
+Q4ODg2MywtODE0MDIwNTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3
+NywtMjA3OTMxMTUzMSwxODM2OTY3NDA1LDE5NzY3MjE1OTYsNj
+E3NDI3NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2
+MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtND
+g1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTcz
+NjQ1M119
 -->
