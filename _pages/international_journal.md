@@ -37,8 +37,6 @@ Integrated Design and Process Science</i></font>, Vol. 26, pp. 159-181. Oct. 202
 "Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks,"
 <font color="ff00ff"><i>IEEE Transactions on Affective Computing</i></font>, Vol. 13, No. 1, pp. 226-237, March 2022. (IF: 10.506, JCR10%) (BRL)
 
-<li>Tien-Bach-Thanh Do, Dang-Linh Trinh, Minh-Trieu Tran, Guee-Sang Lee*, Soo-Hyung Kim, and Hyung-Jeong Yang,“Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation,” <font color="ff00ff"><i>LNCS</i></font>, Vol. 12963, pp.210-221, July 2022. (의사과학자)
-
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
 "Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
 <font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
@@ -817,11 +815,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5MTkzNDYsLTEzNTExNzE0MzksMT
-cyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNzQyMDkx
-Njc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMTk3NjcyMTU5Ni
-w2MTc0Mjc1NDUsLTQ4NzE0MTkwMiwyMTI4NjY5OTgxLDE0Nzc0
-MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4MjgwMTQzLC
-00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAyMjE4MjUsMzQ1
-NzM2NDUzXX0=
+eyJoaXN0b3J5IjpbOTc3NDg4NDkzLC0xMzUxMTcxNDM5LDE3Mj
+Q4ODg2MywtODE0MDIwNTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3
+NywtMjA3OTMxMTUzMSwxODM2OTY3NDA1LDE5NzY3MjE1OTYsNj
+E3NDI3NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2
+MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtND
+g1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTcz
+NjQ1M119
 -->
