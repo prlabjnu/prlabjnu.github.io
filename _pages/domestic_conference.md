@@ -17,15 +17,15 @@ nav: false
 
 <li>하이더 이르판, 김애라, 이귀상, 김수형,
 "감정 인식을 위해 CNN을 사용한 최적화된 패치 특징 추출," 
-정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx, 서울대학교, 2023년 5월.
+정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx, 서울대학교, 2023년 5월. (지역우수3)
 
 <li>Minh-Hai Tran, Tram-Tran Nguyen Quynh, Nhu-Tai Do, 김수형,
 "얼굴 감정 인식을 위한 로컬 및 글로벌 어텐션 퓨전 네트워크," 
-정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx,  서울대학교, 2023년 5월.
+정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx,  서울대학교, 2023년 5월. (지역우수3)
 
 <li>Hoang-Son Vo-Thanh, Tram-Tran Nguyen Quynh, Nhu-Tai Do, 김수형,
 "뇌종양 분할을 위한 3D 이중 융합 주의 네트워크,"
-정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx,  서울대학교, 2023년 5월.
+정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx,  서울대학교, 2023년 5월. (지역우수3)
 
 
 <li>하이더 이르판 , 이귀상, 김수형, 
@@ -1343,7 +1343,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzM1NTMxNCwtMTQ0NzY5MTI5OSwtND
-k2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOTc3NjY5
-NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbLTU1NzUyNDQzLC0xNDQ3NjkxMjk5LC00OT
+YyNDA0NDMsLTY1NjczMjA2NSwtNTk5MDk0OTQxLDI5Nzc2Njk0
+MiwxNjg5MjQ1NjQxXX0=
 -->
