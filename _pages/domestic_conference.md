@@ -10,22 +10,26 @@ nav: false
 <ol class=space_list_kr>
 
 
+
 <li>Vu Ngoc Tu, Huynh Van Thong, 김애라, 김수형,
 "Prompt Tuning for Facial Action Unit Detection in the Wild," 
 정보처리학회 ASK 2023 학술발표논문집, pp. 732-734,  서울대학교, 2023년 5월.
 (지역우수3/AI-Hub) (<font color="#ff00ff">★최우수논문상</font>)
 
+
 <li>하이더 이르판, 김애라, 이귀상, 김수형,
 "감정 인식을 위해 CNN을 사용한 최적화된 패치 특징 추출," 
 정보처리학회 ASK 2023 학술발표논문집, pp. 510-512, 서울대학교, 2023년 5월. (지역우수3)
+
 
 <li>Minh-Hai Tran, Tram-Tran Nguyen Quynh, Nhu-Tai Do, 김수형,
 "얼굴 감정 인식을 위한 로컬 및 글로벌 어텐션 퓨전 네트워크," 
 정보처리학회 ASK 2023 학술발표논문집, pp. 493-495, 서울대학교, 2023년 5월. (지역우수3/AI-Hub)
 
+
 <li>Hoang-Son Vo-Thanh, Tram-Tran Nguyen Quynh, Nhu-Tai Do, 김수형,
 "뇌종양 분할을 위한 3D 이중 융합 주의 네트워크,"
-정보처리학회 ASK 2023 학술발표논문집, pp. xxx-xxx,  서울대학교, 2023년 5월. (지역우수3)
+정보처리학회 ASK 2023 학술발표논문집, pp. 496-498, 서울대학교, 2023년 5월. (지역우수3/AI-Hub)
 
 
 <li>하이더 이르판 , 이귀상, 김수형, 
@@ -1343,7 +1347,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMzU1OTM1LC01NTc1MjQ0MywtMTQ0Nz
-Y5MTI5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0
-MSwyOTc3NjY5NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbMTI2MzYzNjA3NCwtNTU3NTI0NDMsLTE0ND
+c2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OTkwOTQ5
+NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
