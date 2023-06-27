@@ -13,7 +13,7 @@ nav: false
 <ol class=space_list>
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
-"3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i>Proc. 2023 IEEE International Conference on Image Processing</i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (acceped) (BRL3/AI-Hub)
+"3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (acceped) (BRL3/AI-Hub)
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
 "Ensemble Spatial and Temporal Vision Transformer for Action Units Detection,"
@@ -1114,9 +1114,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzODE0OTIxLC0xOTQ1NjYxNjIzLDExMj
-k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
-LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
-c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
-MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbLTM1NjEzMDYwNCwtMTk0NTY2MTYyMywxMT
+I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
+Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
+E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
+LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
