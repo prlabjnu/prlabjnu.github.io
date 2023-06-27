@@ -12,6 +12,12 @@ nav: false
 
 <ol class=space_list>
 
+<li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
+"Ensemble Spatial and Temporal Vision Transformer for Action Units Detection,"
+CVPR 2023  Workshop, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
+
+<li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, "3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," Proc. 2023 IEEE International Conference on Image Processing (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (acceped) (BRL3/AI-Hub)
+
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
 
@@ -1107,9 +1113,9 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTU0Mzc0MSwtMTk0NTY2MTYyMywxMT
-I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
-Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
-E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
-LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbODQzNzUwNDEzLC0xOTQ1NjYxNjIzLDExMj
+k2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEz
+LDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMT
+c4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwt
+MTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
 -->
