@@ -17,7 +17,8 @@ nav: false
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
 "Ensemble Spatial and Temporal Vision Transformer for Action Units Detection,"
-<i>Proc. CVPR 2023  Workshop on Affective Behavior Analysis in the Wild</i>, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
+<i>Proc. CVPR 2023  Workshop and Competition on Affective Behavior Analysis in-the-wild</i>, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
+
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
@@ -1114,10 +1115,10 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNjgyOTMwLC0zNTYxMzA2MDQsLTE5ND
-U2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNzQ0NzE2
-Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MD
-E4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0x
-MDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4Nj
-Y4ODg2XX0=
+eyJoaXN0b3J5IjpbMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1Nj
+EzMDYwNCwtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYy
+NiwtMjE3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMTE2MD
+Q3MzY1NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEs
+LTg2OTg2MTksLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOT
+MwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
