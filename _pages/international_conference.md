@@ -13,11 +13,11 @@ nav: false
 <ol class=space_list>
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
-"3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (acceped) (BRL3/AI-Hub)
+"3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
 "Ensemble Spatial and Temporal Vision Transformer for Action Units Detection,"
-<i>Proc. CVPR 2023  Workshop</i>, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
+<i>Proc. CVPR 2023  Workshop on Affective Behavior Analysis in the Wild</i>, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
@@ -1114,9 +1114,10 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjEzMDYwNCwtMTk0NTY2MTYyMywxMT
-I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
-Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
-E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTEs
-LTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbMzgxNjgyOTMwLC0zNTYxMzA2MDQsLTE5ND
+U2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNzQ0NzE2
+Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MD
+E4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0x
+MDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMCwxNzg4Nj
+Y4ODg2XX0=
 -->
