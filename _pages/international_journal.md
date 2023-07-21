@@ -9,6 +9,9 @@ nav: false
 
 <ol class=space_list>
 
+
+<li> Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Vol. 172, pp. 245-251, August 2023. (IF: 5.1) (NRF3/AI-Hub)
+
 <li> Irfan Haider, Hyung-Jeong Yang, Guee-Sang Lee and Soo-Hyung Kim, "Robust Human Face Emotion Classification Using Triplet-Loss-Based Deep CNN Features and SVM," <font color="ff00ff"><i>Sensors</i></font>, 23, 4770, pp. 1-19, May 2023. (IF: 3.847) (지역우수3)
 
 <li> Tae-Ho Shin and Soo-Hyung Kim,
@@ -815,11 +818,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NDg4NDkzLC0xMzUxMTcxNDM5LDE3Mj
-Q4ODg2MywtODE0MDIwNTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3
-NywtMjA3OTMxMTUzMSwxODM2OTY3NDA1LDE5NzY3MjE1OTYsNj
-E3NDI3NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2
-MjYwLDc2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtND
-g1NjE1Nzg2LC0xODg1MTIxNjU4LC0xMzcwMjIxODI1LDM0NTcz
-NjQ1M119
+eyJoaXN0b3J5IjpbLTU5NTE0MDAzOCwtMTM1MTE3MTQzOSwxNz
+I0ODg4NjMsLTgxNDAyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2
+NzcsLTIwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LD
+YxNzQyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMTQ3NzQy
+NjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAxNDMsLT
+Q4NTYxNTc4NiwtMTg4NTEyMTY1OCwtMTM3MDIyMTgyNSwzNDU3
+MzY0NTNdfQ==
 -->
