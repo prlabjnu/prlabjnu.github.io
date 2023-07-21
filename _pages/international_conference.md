@@ -14,13 +14,15 @@ nav: false
 
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
-"3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
 
+","
+, 
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
 "3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
 
-<li>M. Mujibur Rahman, Mohammad Mustaneer Rahman, Soonja Yeom, Md Badiuzzaman, Hassan A. Al Salem, Soo-Hyung Kim, Muhammad Umair Munir, "A Framework of Quality-Aware Personalized Task Matching For Mobile Crowdsensing," Proc. IEEE 13th Symposium on Computer Applications & Industrial Electronics (ISCAIE), pp. 309-314, Penang Island, Malaysia, May 2023.
+<li>M. Mujibur Rahman, Mohammad Mustaneer Rahman, Soonja Yeom, Md Badiuzzaman, Hassan A. Al Salem, Soo-Hyung Kim, Muhammad Umair Munir, "A Framework of Quality-Aware Personalized Task Matching For Mobile Crowdsensing," <i> Proc. IEEE 13th Symposium on Computer Applications & Industrial Electronics</i> (ISCAIE), pp. 309-314, Penang Island, Malaysia, May 2023.
 
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
@@ -1123,10 +1125,10 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTg1ODYxMCwxOTA1MjU0MTE2LDM4MT
-Y4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNjIzLDExMjk2MjUz
-NjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEzLDUwOD
-k4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMTc4MjMz
-LDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3NjE5MSwtMTExND
-A1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbNTYzOTYwMjc2LDE5MDUyNTQxMTYsMzgxNj
+gyOTMwLC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMsMTEyOTYyNTM2
+Miw4ODk0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OT
+g4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMs
+NTczNjI4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MD
+UzMTAsLTY4MjkzMDUyMCwxNzg4NjY4ODg2XX0=
 -->
