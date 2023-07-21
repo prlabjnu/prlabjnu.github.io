@@ -14,10 +14,7 @@ nav: false
 
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
-"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
-
-","
-, 
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
 "3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
@@ -1125,7 +1122,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzOTYwMjc2LDE5MDUyNTQxMTYsMzgxNj
+eyJoaXN0b3J5IjpbMzk4NzA4MDg5LDE5MDUyNTQxMTYsMzgxNj
 gyOTMwLC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMsMTEyOTYyNTM2
 Miw4ODk0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OT
 g4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMs
