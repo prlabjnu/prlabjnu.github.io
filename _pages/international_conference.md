@@ -16,9 +16,9 @@ nav: false
 
 Edge based architecture for total energy regression models for computational materials science
 
-Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals
+"Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals,"
+ <i><font color="ff00ff">Proc. 2023 Asian Conference on Pattern Recognition</font></i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)()
 
-(ACPR 2023)
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
 
@@ -1131,11 +1131,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjMwMzY5LC02MjYxNzA3OTgsMzk4Nz
-A4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQs
-LTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNz
-Q0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQs
-MjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4Nj
-E5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMF19
-
+eyJoaXN0b3J5IjpbLTEzNjY5NTg1MTcsLTYyNjE3MDc5OCwzOT
+g3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYw
+NCwtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMj
+E3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1
+NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OT
+g2MTksLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIw
+XX0=
 -->
