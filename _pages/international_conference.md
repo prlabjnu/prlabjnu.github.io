@@ -13,7 +13,11 @@ nav: false
 <ol class=space_list>
 
 
-<li>
+ <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+
+
+<li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
 "Edge based architecture for total energy regression models for computational materials science,"
  <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)()
 
@@ -22,10 +26,8 @@ nav: false
 <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)()
 
 
-<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
 
- <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
-"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
 "3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), Kuala Lumpur, Malaysia, Oct. 2023. (accepted) (AI융합대학원/AI-Hub)
@@ -1133,11 +1135,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMTE3Mjk1LC02MjYxNzA3OTgsMzk4Nz
-A4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQs
-LTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNz
-Q0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQs
-MjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4Nj
-E5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMF19
-
+eyJoaXN0b3J5IjpbMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5OD
+cwODA4OSwxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0
+LC0xOTQ1NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMT
+c0NDcxNjYsOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0
+LDIwOTAxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwtODY5OD
+YxOSwtMTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5MzA1MjBd
+fQ==
 -->
