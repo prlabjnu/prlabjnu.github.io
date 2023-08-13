@@ -13,12 +13,9 @@ nav: false
 <ol class=space_list>
 
 
+<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
 
-<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” Proc. 31st ACM Int. Conf. Multimedia, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
-
- "Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," Proc. 2023 Britich Machine Vision Conference (BMVC 2023), Aberdeen, UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
-
-<li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
+ <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
 "Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
@@ -1127,11 +1124,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjE2NzA0LDM5ODcwODA4OSwxOTA1Mj
-U0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNjIz
-LDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNz
-E3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEs
-NjgzMTc4MjMzLDU3MzYyODU3MSwtODY5ODYxOSwtMTA5MTQ3Nj
-E5MSwtMTExNDA1MzEwLC02ODI5MzA1MjAsMTc4ODY2ODg4Nl19
-
+eyJoaXN0b3J5IjpbLTYyNjE3MDc5OCwzOTg3MDgwODksMTkwNT
+I1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MTYy
+MywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5Mz
+cxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIx
+LDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0Nz
+YxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZd
+fQ==
 -->
