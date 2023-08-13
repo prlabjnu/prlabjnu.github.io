@@ -19,12 +19,11 @@ nav: false
 
 <li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
 "Edge based architecture for total energy regression models for computational materials science,"
- <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)()
+ <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(지역우수/AI-Hub)
 
 <li>Tu Vu, Van Thong Huynh and Soo-Hyung Kim, 
 "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals,"
-<i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)()
-
+<i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(BRL3/AI융합대학원)
 
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
@@ -1135,11 +1134,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5OD
-cwODA4OSwxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0
-LC0xOTQ1NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMT
-c0NDcxNjYsOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0
-LDIwOTAxODA2MjEsNjgzMTc4MjMzLDU3MzYyODU3MSwtODY5OD
-YxOSwtMTA5MTQ3NjE5MSwtMTExNDA1MzEwLC02ODI5MzA1MjBd
+eyJoaXN0b3J5IjpbLTM1MjkwMDc4MywyMDU3NzgyNDM4LC02Mj
+YxNzA3OTgsMzk4NzA4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMw
+LC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4OD
+k0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0
+LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNj
+I4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTBd
 fQ==
 -->
