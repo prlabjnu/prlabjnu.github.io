@@ -21,7 +21,7 @@ nav: false
 "Edge based architecture for total energy regression models for computational materials science,"
  <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(NRF3/AI-Hub)
 
-<li>Tu Vu, Van Thong Huynh and Soo-Hyung Kim, 
+<li>Ngoc Tu Vu, Van Thong Huynh and Soo-Hyung Kim, 
 "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals,"
 <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(BRL3/AI융합대학원)
 
@@ -1134,11 +1134,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTQwNzk4MSwtMzUyOTAwNzgzLDIwNT
-c3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgwODksMTkwNTI1NDEx
-NiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MTYyMywxMT
-I5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUx
-Myw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4Mz
-E3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0NzYxOTFd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNDcwODY2MTAsLTM1MjkwMDc4MywyMD
+U3NzgyNDM4LC02MjYxNzA3OTgsMzk4NzA4MDg5LDE5MDUyNTQx
+MTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMsMT
+EyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNzQ0NzE2Niw5OTM3MTc1
+MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MDE4MDYyMSw2OD
+MxNzgyMzMsNTczNjI4NTcxLC04Njk4NjE5LC0xMDkxNDc2MTkx
+XX0=
 -->
