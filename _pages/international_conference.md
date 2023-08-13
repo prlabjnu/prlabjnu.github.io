@@ -13,6 +13,13 @@ nav: false
 <ol class=space_list>
 
 
+
+Edge based architecture for total energy regression models for computational materials science
+
+Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals
+
+(ACPR 2023)
+
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
 
  <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
@@ -1124,11 +1131,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjE3MDc5OCwzOTg3MDgwODksMTkwNT
-I1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MTYy
-MywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5Mz
-cxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMDkwMTgwNjIx
-LDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTksLTEwOTE0Nz
-YxOTEsLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZd
-fQ==
+eyJoaXN0b3J5IjpbMzgyNjMwMzY5LC02MjYxNzA3OTgsMzk4Nz
+A4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQs
+LTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNz
+Q0NzE2Niw5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQs
+MjA5MDE4MDYyMSw2ODMxNzgyMzMsNTczNjI4NTcxLC04Njk4Nj
+E5LC0xMDkxNDc2MTkxLC0xMTE0MDUzMTAsLTY4MjkzMDUyMF19
+
 -->
