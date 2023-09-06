@@ -3,10 +3,10 @@ layout: meminfo
 title: Trung-Le Phan
 lastname: Phan
 description: PhD student
-importance: 3
+importance: 5
 category: work
 group: PhD Students
-group_rank: 3
+group_rank: 5
 teaser: My research interests medical image processing. I am currently working on STAPLE-based ROI segmentation & Labeling Tool, prognosis with image registration.
 profile:
   name: Trung-Le Phan
