@@ -4,10 +4,10 @@ title: Nhu-Tai Do
 lastname: Do
 alumni: false
 description:
-importance: 2
+importance: 5
 category: work
 group: Researchers
-group_rank: 2
+group_rank: 5
 teaser: My research interests computer vision, pattern recognition, and medical image analysis. I am currently working on knee bone tumor prognosis and context-aware emotion recognition.
 profile:
   name: Nhu-Tai Do
