@@ -3,10 +3,10 @@ layout: meminfo
 title: Thanh-Hung Vo
 lastname: Vo
 description: PhD student
-importance: 3
+importance: 5
 category: work
 group: PhD Students
-group_rank: 3
+group_rank: 5
 teaser: My research interests natural language processing, pattern recognition, and medical image processing. I am currently working on lung cancer prognosis and emotion recognition from EEG signals.
 profile:
   name: Thanh-Hung Vo
