@@ -15,8 +15,8 @@ display_categories: [work]
 
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
-    {% if member.alumni %}
-    {% assign num_alumni = num_alumni | plus: 1 %}
+    {% if member.group_rank == 5 %}
+    {% continue %}
     {% else %}
     {% assign num = num | plus: 1 %}
     {% if num == 1 %}
