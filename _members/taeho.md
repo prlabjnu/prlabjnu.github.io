@@ -3,10 +3,10 @@ layout: meminfo
 title: Taeho Shin
 lastname: Shin
 description:
-importance: 4
+importance: 5
 category: work
 group: Master Students
-group_rank: 4
+group_rank: 5
 teaser: My research interests include physical security and pattern recognition.
 profile:
   name: Taeho Shin
