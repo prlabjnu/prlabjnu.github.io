@@ -3,10 +3,10 @@ layout: meminfo
 title: Eunbin Choi
 lastname: Choi
 description:
-importance: 3
+importance: 5
 category: work
 group: Master Students
-group_rank: 4
+group_rank: 5
 teaser: My research interests pattern recognition and image processing.
 profile:
   name: Eunbin Choi
