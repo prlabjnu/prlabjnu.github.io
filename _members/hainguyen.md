@@ -3,10 +3,10 @@ layout: meminfo
 title: Hong-Hai Nguyen
 lastname: Nguyen
 description:
-importance: 4
+importance: 5
 category: work
 group: Master Students
-group_rank: 4
+group_rank: 5
 teaser: My research interests include pattern recognition and sentiment analysis.
 profile:
   name: Hong-Hai Nguyen
