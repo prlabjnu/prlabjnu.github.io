@@ -3,11 +3,11 @@ layout: meminfo
 title: Ngumimi Karen Iyortsuun
 lastname: Iyortsuun
 description:
-importance: 4
+importance: 3
 category: work
-group: Master Students
-group_rank: 4
-teaser: My research interest is in medical image analysis and pattern recognition.
+group: Integrated student
+group_rank: 3
+teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference, and pattern recognition.
 profile:
   name: Ngumimi Karen Iyortsuun
   email: kareniyortsuun(at)gmail.com
@@ -22,6 +22,6 @@ profile:
 ---
 
 
-I obtained my BSc degree from the Department of Mathematics and Computer science, University of Mkar, Nigeria in 2019. I am currently pursuing my Masters degree at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea, and I joined the Pattern Recognition Lab in March 2022. My research interest is in Medical Image analysis and Pattern Recognition.
+I received my B.S. degree from the Department of Mathematics and Computer Science, University of Mkar, Nigeria, in 2019. I am currently an Integrated M.S./Ph.D. student with the Department of Artificial Intelligence Convergence, at Chonnam National University, South Korea. I joined the Pattern Recognition Laboratory in March 2022, and my research interests include depression intensity and treatment outcome estimation, Emotion inference, and pattern recognition.
 
 
