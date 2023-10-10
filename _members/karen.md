@@ -5,7 +5,7 @@ lastname: Iyortsuun
 description:
 importance: 3
 category: work
-group: Integrated student
+group: Integrated students
 group_rank: 3
 teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference, and pattern recognition.
 profile:
