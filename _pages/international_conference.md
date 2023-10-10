@@ -13,8 +13,8 @@ nav: false
 <ol class=space_list>
 
 
- <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,
-"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+ <li>Quang Vinh Nguyen, Van Thong Huynh, Soo-Hyung Kim,
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
 
 
 <li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
