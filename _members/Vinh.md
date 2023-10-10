@@ -1,6 +1,6 @@
 ---
 layout: meminfo
-title: Nguyen Quang Vinh 
+title: Nguyen Quang Vinh
 lastname: Nguyen
 description: Masters student at PRLab
 importance: 4
@@ -22,7 +22,7 @@ profile:
 ---
 
 
-I obtained my BSc degree from the Department of Control Engineering and Automation, Hanoi University of Science and Technology, Viet Nam in 2022.
+I obtained my BSc degree from the Department of Control Engineering and Automation, Hanoi University of Science and Technology, Viet Nam, in 2022.
 I am currently pursuing my master’s degree at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea, and I joined the Pattern Recognition Lab in March 2023.
 My research interest is in medical image analysis and pattern recognition.
 
