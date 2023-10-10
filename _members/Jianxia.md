@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Jianxia.jpg
+  image: Jianxia (1).jpg
 ---
 
 
