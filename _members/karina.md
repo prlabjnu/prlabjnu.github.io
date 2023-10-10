@@ -5,7 +5,7 @@ lastname: Kolmogortseva
 description: Masters Student at PRLab
 importance: 4
 category: work
-group: Masters students
+group: Masters Students
 group_rank: 4
 teaser: My research interest is the intersection of AI and emotional recognition, with a strong focus on improving public well-being.
 profile:
