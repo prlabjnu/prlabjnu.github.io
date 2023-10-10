@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Karina.jpg
+  image: Karina (1).jpg
 ---
 
 
