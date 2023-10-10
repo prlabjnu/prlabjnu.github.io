@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Tulga.jpg
+  image: Tulga (1).jpg
 ---
 
 
