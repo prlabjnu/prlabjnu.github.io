@@ -5,7 +5,7 @@ lastname: Xue
 description: PhD Student at PRLab
 importance: 3
 category: work
-group: PhD students
+group: PhD Students
 group_rank: 3
 teaser: My research interest is in hyperspectral medical image recognition.
 profile:
