@@ -3,10 +3,10 @@ layout: meminfo
 title: Taeho Shin
 lastname: Shin
 description:
-importance: 5
+importance: 54
 category: work
 group: Master Students
-group_rank: 5
+group_rank: 54
 teaser: My research interests include physical security and pattern recognition.
 profile:
   name: Taeho Shin
@@ -32,3 +32,6 @@ I received the B.S. degree from the Department of Physics, Chonnam National Univ
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5ODAyMDY5NV19
+-->
