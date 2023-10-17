@@ -16,17 +16,18 @@ nav: false
 
 <ol class=space_list>
 
+<li>Quang Vinh Nguyen, Van Thong Huynh, Soo-Hyung Kim,
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+
+
+
+<li>Tran Minh Hai, Tran Nguyen Quynh Tram, Nguyen Quoc Huy, Do Nhu Tai, Kim Soo-Hyung,
+"Embracing Context-Aware Emotion Recognition: A Feature Relevance-Based Strategy," 
+<i>Proc. VNICT</i> 2023, pp.xxx-xxxx, Bac Ninh, Vietnam, Oct. 2023. (AI융합대학원)
 
 <li>Tai Do Nhu, Son Vo Thanh Hoang, Hai Tran Minh, Tram Tran Nguyen Quynh, Huy Nguyen Thanh, Thanh Nguyen Thi Ngoc, Huy Nguyen Quoc, Soo-Hyung Kim,
 "Brain Tumor Segmentation Based on Deep Supervision and Context Feature Fusion,"
-pp. xxx-xxx, <i>Proc. 16th National Scientific Conf. Fundamental and Applied IT Research</i (FAIR 2023), Vietnam, Sep. 2023. (AI융합대학원)
-
-<li>Tran Minh Hai, Tran Nguyen Quynh Tram, Nguyen Quoc Huy, Do Nhu Tai, Kim Soo-Hyung,
-"Embracing Context-Aware Emotion Recognition: A Feature Relevance-Based Strategy," pp.xxx-xxxx,
-Proc. VNICT 2023, Bac Ninh, Vietnam, Oct. 2023. (AI융합대학원)
-
-<li>Quang Vinh Nguyen, Van Thong Huynh, Soo-Hyung Kim,
-"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+<i>Proc. 16th National Scientific Conf. Fundamental and Applied IT Research</i> (FAIR 2023), pp. xxx-xxx, Vietnam, Sep. 2023. (AI융합대학원)
 
 
 <li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
@@ -1146,7 +1147,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzcwOTg5MywtMTI0NzA4NjYxMCwtMz
+eyJoaXN0b3J5IjpbLTMwNDkwMDIxNiwtMTI0NzA4NjYxMCwtMz
 UyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgw
 ODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMT
 k0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3
