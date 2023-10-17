@@ -3,10 +3,10 @@ layout: meminfo
 title: Hong-Hai Nguyen
 lastname: Nguyen
 description:
-importance: 5
+importance: 54
 category: work
 group: Master Students
-group_rank: 5
+group_rank: 54
 teaser: My research interests include pattern recognition and sentiment analysis.
 profile:
   name: Hong-Hai Nguyen
@@ -24,3 +24,6 @@ profile:
 
 I received the B.S. degree from the Department of Mathematics and Computer Science, Ho Chi Minh City University of Science (VNUHCM), Vietnam, in 2018. I joined the PR lab in March 2021. I am currently working toward the M.S. degree from the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea. My research interests include pattern recognition and sentiment analysis.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzA2OTYwNDMzXX0=
+-->
