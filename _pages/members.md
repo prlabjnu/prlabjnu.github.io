@@ -16,7 +16,8 @@ display_categories: [work]
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
     {% if member.group_rank == 5 %}
-    {% continue %}
+    {% continuealumni %}
+    {% assign num_alumni = num_alumni | plus: 1 %}
     {% else %}
     {% assign num = num | plus: 1 %}
     {% if num == 1 %}
@@ -139,3 +140,6 @@ display_categories: [work]
 <!-- </div> -->
 {% endif %}
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5Njk5ODQ5OF19
+-->
