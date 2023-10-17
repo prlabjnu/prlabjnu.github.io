@@ -72,7 +72,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <li> 김수형, 트롱기아, 고보건, 이귀상, 양형정, <br>
 생체신호 모니터링에 의한 병원응급환자 신속대응 방법 및 장치<br>
-출원번호: 10-2022-0187771 (2022.12.28) (의사과학자)<br>
+출원번호: 10-2022-0187771 (2022.12.28) (의사과학자/AI-Hub)<br>
 </li>
 
 <li> 김수형, 보티트어비, 이태범, 이귀상, 양형정, <br>
@@ -700,7 +700,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjEyNDY0OSwtNzIzNDQxMDI1LDc1NT
-E1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1MzAyLC00ODA5MDcw
-OThdfQ==
+eyJoaXN0b3J5IjpbMTA1MDI4MTg4NCwxNTk2MTI0NjQ5LC03Mj
+M0NDEwMjUsNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1LDEwNjcyNjUz
+MDIsLTQ4MDkwNzA5OF19
 -->
