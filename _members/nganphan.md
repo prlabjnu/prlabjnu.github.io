@@ -3,10 +3,10 @@ layout: meminfo
 title: Kim Ngan Phan
 lastname: Phan
 description:
-importance: 5
+importance: 54
 category: work
 group: Master Students
-group_rank: 5
+group_rank: 54
 teaser: My research interest lies in emotion recognition applications for education and health. I am currently working on multimodal bio-signals and video fusion for complex emotions at the PR Laboratory.
 profile:
   name: Kim Ngan Phan
@@ -22,3 +22,6 @@ profile:
 
 I am currently working toward the master degree from the Department of Artificial Intelligence Convergence at Chonnam National University in South Korea.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAwMDc2NzM4MV19
+-->
