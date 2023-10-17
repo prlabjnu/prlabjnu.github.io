@@ -3,10 +3,10 @@ layout: meminfo
 title: Eunbin Choi
 lastname: Choi
 description:
-importance: 5
+importance: 53
 category: work
 group: Master Students
-group_rank: 5
+group_rank: 54
 teaser: My research interests pattern recognition and image processing.
 profile:
   name: Eunbin Choi
@@ -26,3 +26,6 @@ I received the B.S. degree from the Department of Industrial Engineering and the
 My research interests pattern recognition and image processing.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2NzI4ODk2MF19
+-->
