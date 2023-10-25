@@ -3,10 +3,10 @@ layout: meminfo
 title: Van-Thong Huynh
 lastname: Huynh
 description: PhD student at PRLab@JNU
-importance: 5
+importance: 54
 category: work
 group: PhD Students
-group_rank: 5
+group_rank: 54
 teaser: My research interests are video understanding, human computer interaction.
 profile:
   name: Van-Thong Huynh
