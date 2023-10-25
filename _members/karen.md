@@ -18,7 +18,7 @@ profile:
   linkedin:
   website: https://symplykaren.github.io/webpage/
   align: right
-  image: Ksymplykaren.JPEGjpg
+  image: Ksymplykaren.JPEG
 ---
 
 
