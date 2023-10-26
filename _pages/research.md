@@ -41,6 +41,12 @@ sortedIndex: 3
 
     Achievements in the past few years:
 
+* :3rd_place_medal: 3rd place in the **Engagement Estimation Challenge** - _MultiMediate: Multi-modal Group Behaviour Analysis for Artificial Mediation_ Grand Challenge at ACM Multimedia, 2023.
+
+    Team **SML**: _Vu Ngoc Tu_, _Van Thong Huynh_, Hyung-Jeong Yang, M. Zaigham Zaheer, Shah Nawaz, Karthik Nandakumar, _Soo-Hyung Kim_.
+  
+  <img class="rounded mx-auto d-block" src="/assets/img/emopain2020.jpg" alt="EMOPAIN 2020 - FG Certificate" width="80%" height="auto"/>
+  
 * :1st_place_medal: Winner of the **Evoked Expressions from Videos (EEV) Challenge** - [Affective Understanding in Video Workshop @ CVPR 2021](https://sites.google.com/view/auvi-cvpr2021/challenge?authuser=0).
 
     Team **SML**: _Van-Thong Huynh_, _Soo-Hyung Kim_, Guee-Sang Lee, Hyung-Jeong Yang.
