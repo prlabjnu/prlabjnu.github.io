@@ -25,6 +25,6 @@ I received the B.S. degree from the Department of Information Technology, Hue Un
 
 
 #### Achievements
-* :2nd_place_medal: Rank 2nd Korean Emotion Recognition Challenge 2021 (KERC). Team NTN.
+* :2nd_place_medal: Rank 2nd in the Korean Emotion Recognition Challenge 2021 (KERC). Team NTN.
 * :1st_place_medal: Winner of the 2021 Aquaculture Artificial Intelligence Model Contest.
 
