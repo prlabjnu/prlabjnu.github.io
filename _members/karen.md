@@ -5,9 +5,9 @@ lastname: Iyortsuun
 description:
 importance: 34
 category: work
-group: IntegraMastedr Students
+group: Integrated Students
 group_rank: 34
-teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference,medical image analysis and pattern recognition.
+teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference, and pattern recognition.
 profile:
   name: Ngumimi Karen Iyortsuun
   email: kareniyortsuun(at)gmail.com
@@ -18,11 +18,11 @@ profile:
   linkedin:
   website: https://symplykaren.github.io/webpage/
   align: right
-  image: Ksymplykaren.JPEG
+  image: Karen.JPEG
 ---
 
 
-I receivobtained my B.S.Sc degree from the Department of Mathematics and Computer Sscience, University of Mkar, Nigeria, in 2019. I am currently an integrated M.S./Ph.D. student withpursuing my Masters degree at the Department of Artificial Intelligence Convergence at, Chonnam National University, South Korea., and I joined the Pattern Recognition Laboratory in March 2022, and m. My research interests include depression intensity and treatment outcome estimation, emotion inference,s in Medical Image analysis and pPattern rRecognition.
+I received my B.Sc. degree from the Department of Mathematics and Computer Science, University of Mkar, Nigeria, in 2019. I am currently an integrated M.S./Ph.D. student at the Department of Artificial Intelligence Convergence at Chonnam National University, South Korea, and I joined the Pattern Recognition Laboratory in March 2022. My research interests include depression intensity and treatment outcome estimation, emotion inference, and pattern recognition.
 
 
 <!--stackedit_data:
