@@ -41,7 +41,7 @@ sortedIndex: 3
 
     Achievements in the past few years:
 
-* :3rd_place_medal: 3rd place in the **Engagement Estimation Challenge** - _MultiMediate: Multi-modal Group Behaviour Analysis for Artificial Mediation_ Grand Challenge at ACM Multimedia, 2023.
+* :3rd_place_medal: 3rd place in the **Engagement Estimation Challenge** - _MultiMediate: Multi-modal Group Behaviour Analysis for Artificial Mediation Grand Challenge at ACM Multimedia, 2023_.
 
     Team **SML**: _Vu Ngoc Tu_, _Van Thong Huynh_, Hyung-Jeong Yang, M. Zaigham Zaheer, Shah Nawaz, Karthik Nandakumar, _Soo-Hyung Kim_.
   
