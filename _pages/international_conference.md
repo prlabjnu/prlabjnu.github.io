@@ -38,13 +38,12 @@ nav: false
 "Brain Tumor Segmentation Based on Deep Supervision and Context Feature Fusion,"
 <i>Proc. 16th National Scientific Conf. Fundamental and Applied IT Research</i> (FAIR 2023), pp. xxx-xxx, Vietnam, Sep. 2023. (AI융합대학원)
 
-<li>M. Mujibur Rahman, Mohammad Mustaneer Rahman, Soonja Yeom, Md Badiuzzaman, Hassan A. Al Salem, Soo-Hyung Kim, Muhammad Umair Munir, "A Framework of Quality-Aware Personalized Task Matching For Mobile Crowdsensing," <i> Proc. IEEE 13th Symposium on Computer Applications & Industrial Electronics</i> (ISCAIE), pp. 309-314, Penang Island, Malaysia, May 2023.
-
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Trong Nghia Nguyen, Soo-Hyung Kim,
 "Ensemble Spatial and Temporal Vision Transformer for Action Units Detection,"
 <i>Proc. CVPR 2023  Workshop and Competition on Affective Behavior Analysis in-the-wild</i>, pp. 5769-5775, Vancouver, Canada, June 2023. (MDPhD/NRF3)
 
+<li>M. Mujibur Rahman, Mohammad Mustaneer Rahman, Soonja Yeom, Md Badiuzzaman, Hassan A. Al Salem, Soo-Hyung Kim, Muhammad Umair Munir, "A Framework of Quality-Aware Personalized Task Matching For Mobile Crowdsensing," <i> Proc. IEEE 13th Symposium on Computer Applications & Industrial Electronics</i> (ISCAIE), pp. 309-314, Penang Island, Malaysia, May 2023.
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
@@ -1141,11 +1140,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMT
-I0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3
-MDc5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLT
-M1NjEzMDYwNCwtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5
-MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMT
-E2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1
-NzFdfQ==
+eyJoaXN0b3J5IjpbMTY1MjI1MzE2OSwtMTczNTYxNTE2OSwxNj
+AwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3ODMsMjA1Nzc4
+MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1MjU0MTE2LD
+M4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNjIzLDExMjk2
+MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEzLD
+UwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMTc4
+MjMzXX0=
 -->
