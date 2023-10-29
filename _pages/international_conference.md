@@ -24,7 +24,7 @@ nav: false
 <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(BRL3/AI융합대학원)
 
 
-<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, Ottawa, Canada, Oct. 2023. (accepted) (BRL3/AI융합대학원/AI-Hub)
+<li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, pp. 9521-9525, Ottawa, Canada, Oct. 2023.  (BRL3/AI-Hub/AI융합대학원)
 
 <li>Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, 
 "3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation," <i><font color="ff00ff">Proc. 2023 IEEE International Conference on Image Processing</font></i> (ICIP 2023), pp. 3215-3219, Kuala Lumpur, Malaysia, Oct. 2023. (AI융합대학원/AI-Hub)
@@ -1141,11 +1141,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDA0NzQzMywtMTI0NzA4NjYxMCwtMz
-UyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgw
-ODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMT
-k0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3
-MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3MzY1NCwyMD
-kwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1NzEsLTg2OTg2MTld
-fQ==
+eyJoaXN0b3J5IjpbLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMT
+I0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3
+MDc5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLT
+M1NjEzMDYwNCwtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5
+MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMT
+E2MDQ3MzY1NCwyMDkwMTgwNjIxLDY4MzE3ODIzMyw1NzM2Mjg1
+NzFdfQ==
 -->
