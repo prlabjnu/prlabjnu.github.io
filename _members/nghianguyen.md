@@ -17,7 +17,7 @@ profile:
   github: nghianguyen7171
   website:
   align: right
-  image: Nnghia.jpg
+  image: Nghia.jpg
 ---
 
 
