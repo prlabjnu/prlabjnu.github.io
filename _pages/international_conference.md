@@ -36,7 +36,7 @@ pp. 113-122, Nov. 2023. (BRL/AI융합대학원)
 
 <li>Tran Minh Hai, Tran Nguyen Quynh Tram, Nguyen Quoc Huy, Do Nhu Tai, Kim Soo-Hyung,
 "Embracing Context-Aware Emotion Recognition: A Feature Relevance-Based Strategy," 
-<i>Proc. VNICT</i> 2023, pp.xxx-xxxx, Bac Ninh, Vietnam, Oct. 2023. (AI융합대학원)
+<i>Proc. VNICT</i> 2023, pp.138-143, Bac Ninh, Vietnam, Oct. 2023. (AI융합대학원)
 
 <li>Tai Do Nhu, Son Vo Thanh Hoang, Hai Tran Minh, Tram Tran Nguyen Quynh, Huy Nguyen Thanh, Thanh Nguyen Thi Ngoc, Huy Nguyen Quoc, Soo-Hyung Kim,
 "Brain Tumor Segmentation Based on Deep Supervision and Context Feature Fusion,"
@@ -1144,7 +1144,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIzMzU0MzYsMTY1MjI1MzE2OSwtMT
+eyJoaXN0b3J5IjpbLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMT
 czNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5
 MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OS
 wxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1
