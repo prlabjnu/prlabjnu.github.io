@@ -8,6 +8,10 @@ nav: false
 ---
 
 <ul class=space_list_kr>
+
+<li>   조완현, 이명은, 박종현, <i>김수형</i>, 박순영, Book Chapter, "Extraction and Visualization of Anatomical Structures from Medical Volumetric Images," <i>Sequence and Genome Analysis: Method and Application II </i>, CreateSpace, Oct. 2011. </li>
+
+
 <li>   조완현, 이명은, 박종현, <i>김수형</i>, 박순영, Book Chapter, "Extraction and Visualization of Anatomical Structures from Medical Volumetric Images," <i>Sequence and Genome Analysis: Method and Application II </i>, CreateSpace, Oct. 2011. </li>
 <li>   <i>김수형</i> 외 9인, 컴퓨터 정보학, 정익사, 2003년 2월. </li>
 <li>   <i>김수형</i> 외 8인, 컴퓨터 정보학(개정판), 정익사, 2000년 1월. </li>
@@ -15,3 +19,6 @@ nav: false
 <li>   <i>김수형</i> 외 2인, 과학영재교육 교재: 정보과학반, 도서출판 영기획, 1998년 12월. </li>
 <li>   <i>김수형</i> 외 2인, 과학영재교육 교재: 정보과학반 교사용, 도서출판 영기획, 1998년 12월. </li>
 <li>   <i>김수형</i> 외 8인, PC 활용 도우미, 정익사, 1997년 11월. </li>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5MTgzMTQ2OF19
+-->
