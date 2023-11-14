@@ -18,12 +18,14 @@ nav: false
 <li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
 "Edge based architecture for total energy regression models for computational materials science,"
 <i>Proc. 7th Asian Conference on Pattern Recognition</i> 2023, Part III, Kitakyushu, Japan, 
-<i>Lecture Notes in Computer Science</i>, vol. 14408, pp. 106-112, Nov. 2023. (지역우수3/AI-Hub)
-
+<i>Lecture Notes in Computer Science</i>, vol. 14408, 
+pp. 106-112, Nov. 2023. (지역우수3/AI-Hub)
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang and Soo-Hyung Kim, 
 "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals,"
-<i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(BRL3/AI융합대학원)
+<i>Proc. 7th Asian Conference on Pattern Recognition</i> 2023, Part III, Kitakyushu, Japan, 
+<i>Lecture Notes in Computer Science</i>, vol. 14408, 
+pp. 113-122, Nov. 2023. (BRL/AI융합대학원)
 
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, “DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation,” <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, pp. 9521-9525, Ottawa, Canada, Oct. 2023.  (BRL3/AI-Hub/AI융합대학원)
@@ -1142,11 +1144,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjU5NDc1MSwxNjUyMjUzMTY5LC0xNz
-M1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2MTAsLTM1Mjkw
-MDc4MywyMDU3NzgyNDM4LC02MjYxNzA3OTgsMzk4NzA4MDg5LD
-E5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQsLTE5NDU2
-NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIxNzQ0NzE2Ni
-w5OTM3MTc1MTMsNTA4OTg4NzU0LDExNjA0NzM2NTQsMjA5MDE4
-MDYyMV19
+eyJoaXN0b3J5IjpbLTE3MTIzMzU0MzYsMTY1MjI1MzE2OSwtMT
+czNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5
+MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OS
+wxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1
+NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNj
+YsOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAx
+ODA2MjFdfQ==
 -->
