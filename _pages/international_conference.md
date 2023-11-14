@@ -19,6 +19,14 @@ nav: false
 "Edge based architecture for total energy regression models for computational materials science,"
  <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(NRF3/AI-Hub)
 
+
+Kangmo Yeo, Sukmin Jeong, Soo-Hyung Kim,
+"Edge Based Architecture for Total Energy Regression Models for Computational Materials Science,"
+Proc. 7th Asian Conference on Pattern Recognition 2023, Part III, Kitakyushu, Japan, Lecture Notes in Computer Science, vol. 14408, 
+pp. 106-112, Nov. 2023. (지역우수3/AI-Hub)
+
+
+
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang and Soo-Hyung Kim, 
 "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals,"
 <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. (accepted)(BRL3/AI융합대학원)
@@ -1140,11 +1148,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjI1MzE2OSwtMTczNTYxNTE2OSwxNj
-AwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3ODMsMjA1Nzc4
-MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1MjU0MTE2LD
-M4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNjIzLDExMjk2
-MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkzNzE3NTEzLD
-UwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAxODA2MjEsNjgzMTc4
-MjMzXX0=
+eyJoaXN0b3J5IjpbLTExOTEwMTAyMDAsMTY1MjI1MzE2OSwtMT
+czNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5
+MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OS
+wxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1
+NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNj
+YsOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAx
+ODA2MjFdfQ==
 -->
