@@ -9,6 +9,10 @@ nav: false
 
 <ol class=space_list>
 
+<li>Suyeon Park, Gayun Suh, Soo-Hyung Kim, Hyung-Jeong Yang, Gun Lee, Seungwon Kim,
+"Effect of Auto-Erased Sketch Cue in Multiuser Surgical Planning Virtual Reality Collaboration,"
+IEEE Access, Vol. 11, pp. xxxxx-xxxxx, Nov. 2023.
+
 <li> Ledan Qian, Caiyun Wen, Yi Li, Zhongyi Hu, Xiao Zhou, Xiaonyu Xia and Soo-Hyung Kim,
 "Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 243, DOI: https://doi.org/10.1016/j.cmpb.2023.107885, pp. 1-16, Available online, October 2023. (IF: 6.1)
 
@@ -820,11 +824,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNT
-ExNzE0MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4
-MSwxNzQyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMT
-k3NjcyMTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkwMiwyMTI4NjY5
-OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAzNSwtNj
-c4MjgwMTQzLC00ODU2MTU3ODYsLTE4ODUxMjE2NTgsLTEzNzAy
-MjE4MjVdfQ==
+eyJoaXN0b3J5IjpbMTAxMDY5MzE4Miw5ODM1MzAxNjQsLTU5NT
+E0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4NjMsLTgxNDAyMDU0
+NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1MzEsMT
+gzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0NSwtNDg3MTQx
+OTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMT
+AxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEy
+MTY1OF19
 -->
