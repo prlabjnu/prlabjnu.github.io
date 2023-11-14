@@ -11,7 +11,7 @@ nav: false
 
 <li>Suyeon Park, Gayun Suh, Soo-Hyung Kim, Hyung-Jeong Yang, Gun Lee, Seungwon Kim,
 "Effect of Auto-Erased Sketch Cue in Multiuser Surgical Planning Virtual Reality Collaboration,"
-<i>IEEE Access</i>, Vol. 11, pp. 123565-123576, Nov. 2023.
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 11, pp. 123565-123576, Nov. 2023.
 
 <li> Ledan Qian, Caiyun Wen, Yi Li, Zhongyi Hu, Xiao Zhou, Xiaonyu Xia and Soo-Hyung Kim,
 "Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 243, DOI: https://doi.org/10.1016/j.cmpb.2023.107885, pp. 1-16, Available online, October 2023. (IF: 6.1)
@@ -824,7 +824,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTU0NDY5Nyw5ODM1MzAxNjQsLTU5NT
+eyJoaXN0b3J5IjpbMTI3ODQ0MDA4NCw5ODM1MzAxNjQsLTU5NT
 E0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4NjMsLTgxNDAyMDU0
 NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1MzEsMT
 gzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0NSwtNDg3MTQx
