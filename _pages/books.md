@@ -9,11 +9,9 @@ nav: false
 
 <ul class=space_list_kr>
 
-<li>   조완현, 이명은, 박종현, <i>김수형</i>, 박순영, Book Chapter, "Extraction and Visualization of Anatomical Structures from Medical Volumetric Images," <i>Sequence and Genome Analysis: Method and Application II </i>, CreateSpace, Oct. 2011. </li>
-
-Chunping Li, Mingxi Li, Chuan-Liang Huang , Yi-Tong Tseng, Soo-Hyung Kim, and Soonja Yeom,
+<li>Chunping Li, Mingxi Li, Chuan-Liang Huang , Yi-Tong Tseng, Soo-Hyung Kim, and Soonja Yeom,
 Book Chapter, "Educational Data Mining in Prediction of Students’ Learning Performance: A Scoping Review,"
-T. Keane et al. (Eds.): WCCE 2022, IFIP AICT 685, pp. 361–372, 2023.
+T. Keane et al. (Eds.): WCCE 2022, IFIP AICT 685, Published by Springer Nature Switzerland, pp. 361–372, 2023.
 
 
 <li>   조완현, 이명은, 박종현, <i>김수형</i>, 박순영, Book Chapter, "Extraction and Visualization of Anatomical Structures from Medical Volumetric Images," <i>Sequence and Genome Analysis: Method and Application II </i>, CreateSpace, Oct. 2011. </li>
@@ -24,5 +22,5 @@ T. Keane et al. (Eds.): WCCE 2022, IFIP AICT 685, pp. 361–372, 2023.
 <li>   <i>김수형</i> 외 2인, 과학영재교육 교재: 정보과학반 교사용, 도서출판 영기획, 1998년 12월. </li>
 <li>   <i>김수형</i> 외 8인, PC 활용 도우미, 정익사, 1997년 11월. </li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MTY5MjI3LC01OTE4MzE0NjhdfQ==
+eyJoaXN0b3J5IjpbLTEzNjQwNDg3NjAsLTU5MTgzMTQ2OF19
 -->
