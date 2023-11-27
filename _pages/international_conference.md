@@ -13,7 +13,7 @@ nav: false
 <ol class=space_list>
 
 <li>Quang Vinh Nguyen, Van Thong Huynh, Soo-Hyung Kim,
-"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (accepted) (AI융합대학원/AI-Hub)
+"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (AI융합대학원/AI-Hub)
 
 <li>Kangmo Yeo, Sukmin Jeong and Soo-Hyung Kim,
 "Edge based architecture for total energy regression models for computational materials science,"
@@ -1144,11 +1144,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMT
-czNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5
-MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OS
-wxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1
-NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNj
-YsOTkzNzE3NTEzLDUwODk4ODc1NCwxMTYwNDczNjU0LDIwOTAx
-ODA2MjFdfQ==
+eyJoaXN0b3J5IjpbNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NT
+IyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4
+NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OC
+wzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEz
+MDYwNCwtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNi
+wtMjE3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5ODg3NTQsMTE2MDQ3
+MzY1NF19
 -->
