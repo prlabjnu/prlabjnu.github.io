@@ -96,6 +96,7 @@ Glioblastoma 뇌암 환자의 생존시간 예측 방법 및 장치<br>
 <li> 김수형, 도누따이, 양형정, 오아란, <br>
 X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
 출원번호: 10-2021-0083706 (2021.06.28) (의사과학자)<br>
+<font color="ff00ff">등록번호: 10-2467062 (2022.11.09.) </font>(BRL2/지역우수2)<br>
 </li>
 
 
@@ -700,7 +701,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDI4MTg4NCwxNTk2MTI0NjQ5LC03Mj
+eyJoaXN0b3J5IjpbLTg1MDQ1NDQ3OSwxNTk2MTI0NjQ5LC03Mj
 M0NDEwMjUsNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1LDEwNjcyNjUz
 MDIsLTQ4MDkwNzA5OF19
 -->
