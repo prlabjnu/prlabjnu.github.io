@@ -39,8 +39,6 @@ Patent Application No.: 12/705,238(2010-02-12)
 </li>
 
 
-
-
 <li>(<b>China</b>) S.H. Kim, J.I. Doh, J. Kim, S. Lee,<br>
 <i>Method and apparatus for recognizing handwritten characters</i>,<br>
 Patent Application No.: 95107775.9('95. 6. 28),
@@ -701,7 +699,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3OTc0NjMsMTU5NjEyNDY0OSwtNzIzND
-QxMDI1LDc1NTE1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1MzAy
-LC00ODA5MDcwOThdfQ==
+eyJoaXN0b3J5IjpbLTgwNjg2MjQwNSw5MDc5NzQ2MywxNTk2MT
+I0NjQ5LC03MjM0NDEwMjUsNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1
+LDEwNjcyNjUzMDIsLTQ4MDkwNzA5OF19
 -->
