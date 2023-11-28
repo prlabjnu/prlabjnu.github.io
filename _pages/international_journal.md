@@ -14,7 +14,7 @@ nav: false
 <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 11, pp. 123565-123576, Nov. 2023. (BRL3/AI융합대학원)
 
 <li> Ledan Qian, Caiyun Wen, Yi Li, Zhongyi Hu, Xiao Zhou, Xiaonyu Xia and Soo-Hyung Kim,
-"Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 243, DOI: https://doi.org/10.1016/j.cmpb.2023.107885, pp. 1-16, Available online, October 2023. (IF: 6.1)
+"Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>,  243, 107885, pp. 1-16, Jan. 2024. (IF: 6.1)
 
 <li> Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Prediction of Evoked Expression from Videos with Temporal Position Fusion," <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Vol. 172, pp. 245-251, August 2023. (IF: 5.1) (NRF3/AI-Hub)
 
@@ -824,11 +824,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODIwOTUzNiw5ODM1MzAxNjQsLTU5NT
-E0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4NjMsLTgxNDAyMDU0
-NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1MzEsMT
-gzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQyNzU0NSwtNDg3MTQx
-OTAyLDIxMjg2Njk5ODEsMTQ3NzQyNjI2MCw3NjIwMzU5MjAsMT
-AxOTg2MDM1LC02NzgyODAxNDMsLTQ4NTYxNTc4NiwtMTg4NTEy
-MTY1OF19
+eyJoaXN0b3J5IjpbLTg2MDcxNTYzOSwtOTM4MjA5NTM2LDk4Mz
+UzMDE2NCwtNTk1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2
+MywtODE0MDIwNTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3NywtMj
+A3OTMxMTUzMSwxODM2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3
+NTQ1LC00ODcxNDE5MDIsMjEyODY2OTk4MSwxNDc3NDI2MjYwLD
+c2MjAzNTkyMCwxMDE5ODYwMzUsLTY3ODI4MDE0MywtNDg1NjE1
+Nzg2XX0=
 -->
