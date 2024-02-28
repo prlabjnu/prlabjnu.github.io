@@ -388,6 +388,15 @@ Block Clustering을 이용한 관심영역기반 자동객체분할방법 및 �
 
 <ol class=space_list_kr>
 
+<li>김수형, 양형정, 구미미카렌이요춘<br>
+신분증 마스킹 시스템<br>
+등록번호: C-2024-002641 (2024.01.17) (AI융합대학원)
+</li>
+
+<li>김수형, 양형정, Tu Ngoc Vu<br>
+환자 낙상 사전 예측을 위한 인공지능 시스템<br>
+등록번호: C-2024-002643 (2024.01.17) (AI융합대학원)
+</li>
 
 <li>양형정, 박진주, 김수형, 이귀상, 유석봉<br>
 감정 훈련 모바일 애플리케이션<br>
@@ -699,7 +708,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjg2MjQwNSw5MDc5NzQ2MywxNTk2MT
-I0NjQ5LC03MjM0NDEwMjUsNzU1MTU2MDU3LC0xMjQ2MzA4Mzg1
-LDEwNjcyNjUzMDIsLTQ4MDkwNzA5OF19
+eyJoaXN0b3J5IjpbMTAwNDE4MzMyNywtODA2ODYyNDA1LDkwNz
+k3NDYzLDE1OTYxMjQ2NDksLTcyMzQ0MTAyNSw3NTUxNTYwNTcs
+LTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtNDgwOTA3MDk4XX0=
 -->
