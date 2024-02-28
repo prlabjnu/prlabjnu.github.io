@@ -19,6 +19,9 @@ nav: false
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
  <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, published online on Feb. 10th, 2024. (IF: 3.6, JCR Q2) (BRL3/AI융합대학원)
 
+
+
+
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Min Jhon, 
 "Additive Cross-Modal Attention Network (ACMA) for Depression Detection Based on Audio and Textual Features," 
  <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 12, pp. 20479-20489, Feb. 2024. (IF: 4.1, JCR Q2) (BRL3/AI융합대학원/HCRI).
@@ -838,11 +841,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDMwMDkzNSwyMzQyOTAzMTksLTkzOD
-IwOTUzNiw5ODM1MzAxNjQsLTU5NTE0MDAzOCwtMTM1MTE3MTQz
-OSwxNzI0ODg4NjMsLTgxNDAyMDU0NSwyMDI1NTk3ODgxLDE3ND
-IwOTE2NzcsLTIwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIx
-NTk2LDYxNzQyNzU0NSwtNDg3MTQxOTAyLDIxMjg2Njk5ODEsMT
-Q3NzQyNjI2MCw3NjIwMzU5MjAsMTAxOTg2MDM1LC02NzgyODAx
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC05Mz
+gyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTExNzE0
+MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNz
+QyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMTk3Njcy
+MTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkwMiwyMTI4NjY5OTgxLD
+E0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4Mjgw
+MTQzXX0=
 -->
