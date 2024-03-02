@@ -10,7 +10,7 @@ nav: false
 
 <ol class=space_list_kr>
 
-<li>최은빈, 김수형, "소프트 보팅을 이용한 합성곱 오토인코더 기반 스트레스 탐지," 스마트미디어저널, 제12권 제2호, 2023년12월 (BRL2/AI-Hub) (to appear)
+<li>최은빈, 김수형, "소프트 보팅을 이용한 합성곱 오토인코더 기반 스트레스 탐지," 스마트미디어저널, 제12권 제11호, pp. 9-17, 2023년12월 (BRL3/NRF3)
 </li>
 
 <li>임지영, 도탄콩, 김수형, 이귀상, 이민희, 민정준, 범희승, 김현식, 강세령, 양형정, “CNN 기반 전이학습을 이용한 뼈 전이가 존재하는 뼈 스캔 영상 분류,” 멀티미디어학회논문지, 제25권 8호, pp. 1224-1232, 2022년 8월. (의사과학자)
@@ -511,7 +511,8 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzY5OTUwNiwtMTg2Njk4MjU0NSwtMT
-Q0NzMwOTkzOCwtMTk2MjUxMzM0MSwtODc1NzkxMDA4LC01Nzk0
-MTQ1MzEsMTIxNDI0NzIsLTIzNzI5NjM5NF19
+eyJoaXN0b3J5IjpbLTgyOTYxMjg3MSwxNjYzNjk5NTA2LC0xOD
+Y2OTgyNTQ1LC0xNDQ3MzA5OTM4LC0xOTYyNTEzMzQxLC04NzU3
+OTEwMDgsLTU3OTQxNDUzMSwxMjE0MjQ3MiwtMjM3Mjk2Mzk0XX
+0=
 -->
