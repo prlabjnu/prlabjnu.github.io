@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Tulga.jpg
+  image: Tulga (1).jpg
 ---
 
 
@@ -26,3 +26,6 @@ I earned my BSc and MSc degrees from the Department of Electronics, Mongolian Un
 My research interest is in image processing and pattern recognition.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM1MDMzOTM4MF19
+-->
