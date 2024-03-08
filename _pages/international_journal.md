@@ -13,7 +13,7 @@ nav: false
 
 <li>Vi Thi-Tuong Vo, Tae-ho Shin, Hyung-Jeong Yang, Sae-Ryung Kang, Soo-Hyung Kim,
 "A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients,"
- <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, accepted on Feb. 26, 2024. (IF: 6.1, JCR Q1) (NRF3/AI융합대학원).
+ <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 248, 108104, pp. 1-12, accepted on Feb. 26, 2024. (IF: 6.1, JCR Q1) (NRF3/AI융합대학원).
 
 <li>Vi Thi‑Tuong Vo, Myung‑Giun Noh, Soo‑Hyung Kim,
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
@@ -841,11 +841,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC05Mz
-gyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTExNzE0
-MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNz
-QyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMTk3Njcy
-MTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkwMiwyMTI4NjY5OTgxLD
-E0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4NjAzNSwtNjc4Mjgw
-MTQzXX0=
+eyJoaXN0b3J5IjpbLTEyOTM3MDg2NDIsLTEzMDUxNjgwMDMsMj
+M0MjkwMzE5LC05MzgyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAw
+MzgsLTEzNTExNzE0MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMj
+AyNTU5Nzg4MSwxNzQyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5
+Njc0MDUsMTk3NjcyMTU5Niw2MTc0Mjc1NDUsLTQ4NzE0MTkwMi
+wyMTI4NjY5OTgxLDE0Nzc0MjYyNjAsNzYyMDM1OTIwLDEwMTk4
+NjAzNV19
 -->
