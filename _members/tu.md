@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Tu (1)1.png
+  image: Tu (1).png
 ---
 
 
