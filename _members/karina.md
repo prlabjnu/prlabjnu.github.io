@@ -7,7 +7,7 @@ importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser: My research interest is the intersection of AI and emotional recognition, with a strong focus on improving public well-being.
+teaser: My research interest is the intersection of AI and emotional recognition, with a strong focus on improving public well-being...
 profile:
   name: Karina Kolmogortseva
   email: karina.kolm@mail.ru
@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Karina (1).jpg
+  image: karina.jpg
 ---
 
 
