@@ -7,7 +7,7 @@ importance: 3
 category: work
 group: PhD Students
 group_rank: 3
-teaser: My research interests medical image analysis. I am currently working on ADC lung cancer prognosis from pathology images.
+teaser: My research interests medical image analysis. I am currently working on ADC lung cancer prognosis from pathology images...
 profile:
   name: Tuong Vi Vo
   email: vothituongvi.mk(at)gmail.com
