@@ -2,7 +2,7 @@
 layout: meminfo
 title: Ngumimi Karen Iyortsuun
 lastname: Iyortsuun
-description:
+description: PhD Student at PRLab
 importance: 3
 category: work
 group: Integrated Students
