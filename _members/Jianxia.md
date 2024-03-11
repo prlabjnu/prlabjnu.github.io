@@ -7,7 +7,7 @@ importance: 3
 category: work
 group: PhD Students
 group_rank: 3
-teaser: My research interest is in hyperspectral medical image recognition.
+teaser: My research interest is in hyperspectral medical image recognition...
 profile:
   name: Jianxia Xue
   email: xuejx7890@163.com
