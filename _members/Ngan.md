@@ -2,7 +2,7 @@
 layout: meminfo
 title: Kim Ngan Phan
 lastname: Phan
-description:
+description: PhD Student at PRLab
 importance: 3
 category: work
 group: PhD Students
