@@ -7,7 +7,7 @@ importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser: My research interest is in hyperspectral medical image recognition.
+teaser: My research interest is in hyperspectral medical image recognition...
 profile:
   name: Vu Ngoc Tu
   email: tuvungocnd@gmail.com
@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Tu (1).png
+  image: tu.jpg
 ---
 
 
