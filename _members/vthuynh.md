@@ -7,7 +7,7 @@ importance: 54
 category: work
 group: PhD Students
 group_rank: 54
-teaser: My research interests are video understanding, human computer interaction.
+teaser: My research interests are video understanding, human computer interaction...
 profile:
   name: Van-Thong Huynh
   email: vthuynh(at)ieee.org
