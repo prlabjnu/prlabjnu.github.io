@@ -2,7 +2,7 @@
 layout: meminfo
 title: Battulga Ulziisaikhan 
 lastname: Ulziisaikhan
-description:
+description: Masters Student at PRLab
 importance: 4
 category: work
 group: Masters Students
@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Tulga.jpg
+  image: tulga.jpg
 ---
 
 
