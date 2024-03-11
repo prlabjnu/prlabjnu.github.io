@@ -7,7 +7,7 @@ importance: 3
 category: work
 group: PhD Students
 group_rank: 3
-teaser: My research interest is in text and physiological signal-based emotion recognition.
+teaser: My research interest is in text and physiological signal-based emotion recognition...
 profile:
   name: Kim Ngan Phan
   email: kimngan260997@gmail.com
