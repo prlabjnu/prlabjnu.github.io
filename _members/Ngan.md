@@ -18,7 +18,7 @@ profile:
   linkedin: 
   website: 
   align: right
-  image: Ngan.jpg
+  image: Ngann.jpg
 ---
 
 
