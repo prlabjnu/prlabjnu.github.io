@@ -7,7 +7,7 @@ importance: 3
 category: work
 group: Integrated Students
 group_rank: 3
-teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference, and pattern recognition.
+teaser: My research interest is in depression intensity and treatment outcome estimation, emotion inference, and pattern recognition...
 profile:
   name: Ngumimi Karen Iyortsuun
   email: kareniyortsuun(at)gmail.com
@@ -18,7 +18,7 @@ profile:
   linkedin:
   website: https://symplykaren.github.io/webpage/
   align: right
-  image: Karen.JPEG
+  image: karen.jpg
 ---
 
 
