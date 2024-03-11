@@ -26,7 +26,10 @@ We are looking for highly motivated and willing students who are interested in d
 
 **Application:** send an email to *shkim (at) jnu.ac.kr*, enclosing a *short CV* (including educational background, research working experiences, publications/patents, if applicable), *academic transcript*, relevant certificates, if any.
 
-**The accepted candidate** (after the interview) will have to finish the formal process of [admission at Chonnam National University](https://international.jnu.ac.kr/Admission/Graduateuser/indexSub.action?codyMenuSeq=19476&siteId=international&menuUIType=top).
+**The accepted candidate** (after the interview) will have to finish the formal process of [admission at Chonnam National University](https://international.jnu.ac.kr/Admission/Graduate).
+
+<!-- **The accepted candidate** (after the interview) will have to finish the formal process of [graduate admission at Chonnam National University](https://international.jnu.ac.kr/Admission/Graduateuser/indexSub.action?codyMenuSeq=19476&siteId=international&menuUIType=top). -->
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM1NzUyNzk4NF19
 -->
