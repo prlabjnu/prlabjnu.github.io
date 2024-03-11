@@ -7,7 +7,7 @@ importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser: My research interest is in image processing and pattern recognition.
+teaser: My research interest is in image processing and pattern recognition...
 profile:
   name: Battulga Ulziisaikhan
   email: Tulgaa.ulziisaikhan@gmail.com
