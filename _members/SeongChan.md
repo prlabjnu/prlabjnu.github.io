@@ -7,7 +7,7 @@ importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser:
+teaser: I am currently studying for a master's degree in the information security cooperation program at Chonnam National University...
 profile:
   name: Seong Chan Seo
   email: gogopall@naver.com
