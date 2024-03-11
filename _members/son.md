@@ -2,12 +2,12 @@
 layout: meminfo
 title: Vo Thanh Hoang Son
 lastname: Vo
-description:
+description: Masters Student at PRLab
 importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser: I am an AI Researcher from Vietnam.
+teaser: I am an AI Researcher from Vietnam...
 profile:
   name: Thanh Hoang Son
   email: hoangsonvothanh@jnu.ac.kr
@@ -18,7 +18,7 @@ profile:
   linkedin: https://www.linkedin.com/in/sowwn/
   website: https://www.sowwn.dev
   align: right
-  image: Son.jpg
+  image: son.jpg
 ---
 
 
