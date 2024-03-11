@@ -7,7 +7,7 @@ importance: 4
 category: work
 group: Masters Students
 group_rank: 4
-teaser: My research interest is in medical image analysis and pattern recognition.
+teaser: My research interest is in medical image analysis and pattern recognition...
 profile:
   name: Nguyen Quang Vinh
   email: vinhbn28@gmail.com
