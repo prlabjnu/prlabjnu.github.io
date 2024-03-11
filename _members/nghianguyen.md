@@ -2,12 +2,12 @@
 layout: meminfo
 title: Nghia Nguyen
 lastname: Nguyen
-description:
+description: PhD Student at PRLab
 importance: 3
 category: work
 group: PhD Students
 group_rank: 3
-teaser: My research interests include pattern recognition, and medical image processing, and time series data analysis.
+teaser: My research interests include pattern recognition, and medical image processing, and time series data analysis...
 profile:
   name: Trong-Nghia Nguyen
   email: trongnghia7171(at)gmail.com
