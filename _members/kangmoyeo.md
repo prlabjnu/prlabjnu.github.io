@@ -18,7 +18,7 @@ profile:
   linkedin:
   website: 
   align: right
-  image: KangmoYeo.jpg
+  image: kangmoyeo.jpg
 ---
 
 
