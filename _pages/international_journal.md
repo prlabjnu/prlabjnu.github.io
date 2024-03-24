@@ -9,9 +9,9 @@ nav: false
 
 <ol class=space_list>
 
-<li>Hong-Hai Nguyen, Ngumimi Karen Iyortsuun, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim
-Biomedical Signal Processing and Control  
-Title: Mental Workload Estimation with Electroencephalogram Signals by Combining Multi-Space Deep Models  
+<li>Hong-Hai Nguyen, Ngumimi Karen Iyortsuun, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
+"Mental Workload Estimation with Electroencephalogram Signals by Combining Multi-Space Deep Models,"  
+<font color="ff00ff"><i>Biomedical Signal Processing and Control </i></font>, accepted in March 2024. (IF: 5.1, JCR Q2) (BRL3/AI융합대학원)
 
 <li>Vi Thi-Tuong Vo, Tae-ho Shin, Hyung-Jeong Yang, Sae-Ryung Kang, Soo-Hyung Kim,
 "A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients,"
@@ -843,7 +843,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc5ODExMDQsNzkwNzIwNTg4LC0xMz
+eyJoaXN0b3J5IjpbLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMz
 A1MTY4MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2
 NCwtNTk1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2MywtOD
 E0MDIwNTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3NywtMjA3OTMx
