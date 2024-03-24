@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: karina.jpg
+  image: kKarina (1).jpg
 ---
 
 
@@ -28,3 +28,6 @@ My research focuses on the synergetic collaboration of artificial intelligence a
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMDk4MzMyMzZdfQ==
+-->
