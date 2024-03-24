@@ -18,9 +18,12 @@ profile:
   linkedin:
   website:
   align: right
-  image: seongchan.jpg
+  image: sSeongc Chan (1).jpg
 ---
 
 
 I graduated from Methodist Theological University with an undergraduate degree, and I am currently studying for a master's course in the information security cooperation program at Chonnam National University.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjk4MDY1MDNdfQ==
+-->
