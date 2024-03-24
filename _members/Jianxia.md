@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: xiajian.jpg
+  image: xJiajiannxia (1).jpg
 ---
 
 
@@ -27,3 +27,6 @@ I received a master’s degree in electrical engineering from the Department of 
 Currently, I am pursuing a PhD in artificial intelligence, and my research interest is in hyperspectral medical image recognition.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MTc1MDkyNzFdfQ==
+-->
