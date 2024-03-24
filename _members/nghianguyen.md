@@ -17,7 +17,7 @@ profile:
   github: nghianguyen7171
   website:
   align: right
-  image: Nghia.jpg
+  image: Nghi.jpg
 ---
 
 
@@ -29,5 +29,5 @@ I received the B.S. degree from the Department of Information Technology, Hue Un
 * :1st_place_medal: Winner of the 2021 Aquaculture Artificial Intelligence Model Contest.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3ODE5MTAwXX0=
+eyJoaXN0b3J5IjpbMTQyNDA1MDg5Niw5NDc4MTkxMDBdfQ==
 -->
