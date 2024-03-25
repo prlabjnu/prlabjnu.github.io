@@ -12,7 +12,7 @@ profile:
   name: Aera Kim
   position:
   align: right
-  image: avatar_df.png
+  image: AeraKim.jpg
   email:
   orcid:
 ---
