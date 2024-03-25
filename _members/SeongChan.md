@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: sSeongc Chan (1).jpg
+  image: seongchan.jpg
 ---
 
 
