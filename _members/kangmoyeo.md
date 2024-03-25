@@ -3,10 +3,10 @@ layout: meminfo
 title: Kangmo Yeo
 lastname: Yeo
 description: Postdoctoral Researcher at PRLab
-importance: 2
+importance: 52
 category: work
 group: Postdoctoral Researchers
-group_rank: 2
+group_rank: 52
 teaser: 
 profile:
   name: Kangmo Yeo
