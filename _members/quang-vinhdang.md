@@ -7,7 +7,7 @@ importance: 2
 category: work
 group: Postdoctoral Researchers
 group_rank: 2
-teaser: My research interest is centered around Multimodal Deep Learning, Generative AI technologies, Optical Character Recognition (OCR), and the enhancement and restoration of images.
+teaser: My research interest is centered around Multimodal Deep Learning, Generative AI technologies, Optical Character Recognition (OCR), and the enhancement and restoration of images...
 profile:
   name: Dang Quang-Vinh
   email: quangvinh242003@yahoo.com
