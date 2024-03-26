@@ -21,7 +21,7 @@ profile:
   image: dr_vinh.jpg
 ---
 
-I hold a Doctorate in the field of Artificial Intelligence Convergence, where my primary focus lies in utilizing image synthesis techniques to overcome issues related to data scarcity. 
+I hold a Doctorate degree in the field of Artificial Intelligence Convergence. My primary focus lies in utilizing image synthesis techniques to overcome issues related to data scarcity. 
 My expertise covers an array of AI-related tasks, including classification, detection, segmentation, recognition, and spotting. 
 My research interests are centered around Multimodal Deep Learning, Generative AI technologies, Optical Character Recognition (OCR), and the enhancement and restoration of images.
 
