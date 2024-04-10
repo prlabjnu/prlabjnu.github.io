@@ -148,7 +148,7 @@ CT 스캔 영상에서 간 종양 검출을 위한 딥러닝 방법 및 장치 ,
 <li> 백으뜸, 양형정, 김수형, 이귀상, 오인재, 강세령,<br>
 딥러닝 기반의 생존시간 예측 시스템 및 방법,<br>
 <font color="0000ff">출원번호: 10-2020-0141199  (2020. 10. 28).</font>
-등록번호: 10- (20xx. xx. xx.)  (의사과학자)
+<font color="ff00ff">등록번호: 10-2512674 (2023. 03. 17.)  (의사과학자)
 </li>
 
 
@@ -708,7 +708,8 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDE4MzMyNywtODA2ODYyNDA1LDkwNz
-k3NDYzLDE1OTYxMjQ2NDksLTcyMzQ0MTAyNSw3NTUxNTYwNTcs
-LTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtNDgwOTA3MDk4XX0=
+eyJoaXN0b3J5IjpbLTY1NDY2MjU4OSwxMDA0MTgzMzI3LC04MD
+Y4NjI0MDUsOTA3OTc0NjMsMTU5NjEyNDY0OSwtNzIzNDQxMDI1
+LDc1NTE1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1MzAyLC00OD
+A5MDcwOThdfQ==
 -->
