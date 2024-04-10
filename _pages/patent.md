@@ -98,6 +98,14 @@ X-ray 이미지를 이용한 무릎 골 종양 검출 시스템 및 방법 <br>
 </li>
 
 
+<li> 백으뜸, 양형정, 김수형, 이귀상, 오인재, 강세령,<br>
+딥러닝 기반의 생존시간 예측 시스템 및 방법,<br>
+출원번호: 10-2020-0141199  (2020. 10. 28).
+<font color="ff00ff">등록번호: 10-2512674 (2023. 03. 17.)</font>  (의사과학자)
+</li>
+
+
+
 <li>김수형, 트란응우옌퀸트램, 두누따이, 오아란,<br>
 흑백 이미지 자동 채색 시스템 및 방법<br>
 출원번호: 10-2021-0059216  (2021.05.07). 
@@ -138,18 +146,12 @@ CT 스캔 영상에서 간 종양 검출을 위한 딥러닝 방법 및 장치 ,
 
 <li>양형정, 김수형, 정성택, 주상돈, 호넉휜, 트란딘썬, <br>
 골 종양 탐지 시스템,<br>
-<font color="0000ff">출원번호: 10-2019-0002323 (2019. 1. 8).</font>
+출원번호: 10-2019-0002323 (2019. 1. 8).
 <font color="ff00ff">등록번호: 10-2202361 (2021. 01. 07.)  (LINC+)</font>
 </li>
 
 
 
-
-<li> 백으뜸, 양형정, 김수형, 이귀상, 오인재, 강세령,<br>
-딥러닝 기반의 생존시간 예측 시스템 및 방법,<br>
-<font color="0000ff">출원번호: 10-2020-0141199  (2020. 10. 28).</font>
-<font color="ff00ff">등록번호: 10-2512674 (2023. 03. 17.)  (의사과학자)
-</li>
 
 
 <li>양형정, 김수형, 이귀상, Trinh, <br>
@@ -708,8 +710,8 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDY2MjU4OSwxMDA0MTgzMzI3LC04MD
-Y4NjI0MDUsOTA3OTc0NjMsMTU5NjEyNDY0OSwtNzIzNDQxMDI1
-LDc1NTE1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1MzAyLC00OD
-A5MDcwOThdfQ==
+eyJoaXN0b3J5IjpbLTEzNDM3NDg1NzUsMTAwNDE4MzMyNywtOD
+A2ODYyNDA1LDkwNzk3NDYzLDE1OTYxMjQ2NDksLTcyMzQ0MTAy
+NSw3NTUxNTYwNTcsLTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtND
+gwOTA3MDk4XX0=
 -->
