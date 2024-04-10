@@ -13,15 +13,16 @@ nav: false
 "Mental Workload Estimation with Electroencephalogram Signals by Combining Multi-Space Deep Models,"  
 <font color="ff00ff"><i>Biomedical Signal Processing and Control </i></font>, accepted in March 2024. (IF: 5.1, JCR Q2) (BRL3/AI융합대학원)
 
-<li>Vi Thi-Tuong Vo, Tae-ho Shin, Hyung-Jeong Yang, Sae-Ryung Kang, Soo-Hyung Kim,
-"A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients,"
- <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 248, 108104, pp. 1-12, May 2024. (IF: 6.1, JCR Q1) (NRF3/AI융합대학원/의사과하).
 
 <li>Vi Thi‑Tuong Vo, Myung‑Giun Noh, Soo‑Hyung Kim,
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
  <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, published online in Feb. 10th, 2024. (IF: 3.6, JCR Q2) (BRL3/AI융합대학원)
 
 
+
+<li>Vi Thi-Tuong Vo, Tae-ho Shin, Hyung-Jeong Yang, Sae-Ryung Kang, Soo-Hyung Kim,
+"A Comparison between Centralized and Asynchronous Federated Learning Approaches for Survival Outcome Prediction using Clinical and PET Data from Non-small Cell Lung Cancer Patients,"
+ <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>, 248, 108104, pp. 1-12, May 2024. (IF: 6.1, JCR Q1) (NRF3/AI융합대학원/의사과학자).
 
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Min Jhon, 
@@ -843,7 +844,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxOTY4MiwtMTI1MjgwNDYwOSw3OT
+eyJoaXN0b3J5IjpbLTg3NTI2NTEyOSwtMTI1MjgwNDYwOSw3OT
 A3MjA1ODgsLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC05MzgyMDk1
 MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTExNzE0MzksMT
 cyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNzQyMDkx
