@@ -12,6 +12,11 @@ nav: false
 
 <ol class=space_list>
 
+
+<li>Sei Kang, Jaejoon Jeong, Gun A. Lee, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim,
+"The RayHand Navigation: A Virtual Navigation Method with Relative Position between Hand and Gaze-Ray,"
+<i><font color="ff00ff">Proc. ACM Computer Human Interaction Conference</font></i> (CHI 2024), Honolulu, USA, May 13th, 2024. (BRL3)
+
 <li>Quang Vinh Nguyen, Van Thong Huynh, Soo-Hyung Kim,
 "Adaptation of Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 British Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. (AI융합대학원/AI-Hub)
 
@@ -1144,11 +1149,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0xMz
-c4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0
-NzQzMywtMTI0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0Mz
-gsLTYyNjE3MDc5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2
-ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MTYyMywxMTI5NjI1Mz
-YyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5MzcxNzUxMyw1MDg5
-ODg3NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjIyNjE2MTIsLTExNDcyNzQ0NjIsNz
+I0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2
+MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4NjYxMCwtMzUyOTAwNz
+gzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgwODksMTkw
+NTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MT
+YyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5
+MzcxNzUxM119
 -->
