@@ -9,6 +9,13 @@ nav: false
 
 <ol class=space_list_kr>
 
+1. Battulga Ulziisaikhan, 김수형, 김애라, Otgonsuvd Badrakh, “초음파영상에서 태아 대칭 진행 각도 측정을 위한 SAM 영상분할 모델,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, Vol. x, No. x, pp. xxx-xxx, 2024년 5월. (BRL3/NRF3/인공지능융합대학원)
+
+2. Kolmogortseva Karina, 김수형, 김애라, “키보드 입력패턴 기반의 감정 감지를 위한 데이터셋 분석,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, Vol. x, No. x, pp. xxx-xxx, (BRL3/NRF3/인공지능융합대학원)
+
+3. Ngumimi Karen Iyortsuun, 김수형, 김애라, “디지털 시대의 개인 정보 보호: 한국 신분증 익명화를 위한 새로운 접근 방식,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, Vol. x, No. x, pp. xxx-xxx, (BRL3/NRF3/인공지능융합대학원)
+
+4. Jianxia Xue, 김수형, 김애라, “초분광 이미지 분류를 위한 전이 학습 방법,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, Vol. x, No. x, pp. xxx-xxx, (BRL3/NRF3/인공지능융합대학원)
 
 
 <li>Vu Ngoc Tu, Huynh Van Thong, 김애라, 김수형,
@@ -1347,7 +1354,8 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzYzNjA3NCwtNTU3NTI0NDMsLTE0ND
-c2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OTkwOTQ5
-NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTUyMzMxOTEsMTI2MzYzNjA3NCwtNT
+U3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMy
+MDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ
+==
 -->
