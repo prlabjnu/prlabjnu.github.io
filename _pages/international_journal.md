@@ -17,12 +17,12 @@ nav: false
 
 <li>Hong-Hai Nguyen, Ngumimi Karen Iyortsuun, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Mental Workload Estimation with Electroencephalogram Signals by Combining Multi-Space Deep Models,"  
-<font color="ff00ff"><i>Biomedical Signal Processing and Control </i></font>, accepted in March 2024. (IF: 5.1, JCR Q2) (BRL3/AI융합대학원)
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted in March 2024. (IF: 5.1, JCR Q2) (BRL3/AI융합대학원)
 
 
 <li>Vi Thi‑Tuong Vo, Myung‑Giun Noh, Soo‑Hyung Kim,
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
- <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, published online in Feb. 10th, 2024. (IF: 3.6, JCR Q2) (BRL3/AI융합대학원)
+ <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, published online, https://doi.org/10.1007/s11042-024-18386-7, Feb. 2024. (IF: 3.6, JCR Q2) (BRL3/AI융합대학원)
 
 
 
@@ -850,11 +850,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0MDk5OTksODMxNDg5MzU3LC04Nz
-UyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4
-MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNT
-k1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2MywtODE0MDIw
-NTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3NywtMjA3OTMxMTUzMS
-wxODM2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3NTQ1LC00ODcx
-NDE5MDJdfQ==
+eyJoaXN0b3J5IjpbMTgxMjAyNzgsODMxNDg5MzU3LC04NzUyNj
+UxMjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4MDAz
+LDIzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNTk1MT
+QwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2MywtODE0MDIwNTQ1
+LDIwMjU1OTc4ODEsMTc0MjA5MTY3NywtMjA3OTMxMTUzMSwxOD
+M2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3NTQ1LC00ODcxNDE5
+MDJdfQ==
 -->
