@@ -17,12 +17,11 @@ We are looking for highly motivated and willing students who are interested in d
 
 **Support:**
 
- - Free tuition fee for the first semester.
- - Support: **1.000.000 – 1.800.000** *KRW/month*, depends on the contribution of students.
+ - Support: **1.200.000 – 2.000.000** *KRW/month*, depends on the contribution of students.
  - Additional support for National Health Insurance.
  - Opportunity to attend domestic/international conferences.
  - Brand-new facilities: RTX 2080Ti, RTX 3080/3090, Tesla P100…
- - Papers incentive: **600,000~1,500,000 KRW**, depending on the paper quality - SCIE journal or Top-tier Conference.
+
 
 **Application:** send an email to *shkim (at) jnu.ac.kr*, enclosing a *short CV* (including educational background, research working experiences, publications/patents, if applicable), *academic transcript*, relevant certificates, if any.
 
@@ -31,5 +30,5 @@ We are looking for highly motivated and willing students who are interested in d
 <!-- **The accepted candidate** (after the interview) will have to finish the formal process of [admission at Chonnam National University](https://international.jnu.ac.kr/Admission/Graduateuser/indexSub.action?codyMenuSeq=19476&siteId=international&menuUIType=top). -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzUyNzk4NF19
+eyJoaXN0b3J5IjpbLTE5NTQ2NTc1MTUsLTM1NzUyNzk4NF19
 -->
