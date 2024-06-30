@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /open_positions/
+permalink: /open_positions_ended/
 title: Open Positions
 sortedIndex: 1000
-nav: true
+nav: false
 ---
 
 We are looking for highly motivated and willing students who are interested in doing research on understanding emotions in video/biological signals, medical image analysis. At the moment, **Master positions**, **PhD positions** are available.
