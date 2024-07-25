@@ -22,4 +22,4 @@ profile:
 ---
 
 
-I received the B.S. degree of E-Commerce, Faculty of Commerce and Tourism, Industrial University of Ho Chi Minh City, Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 09-2018. My research is focused on medical image analysis.
+I received the B.S. degree in E-Commerce, Faculty of Commerce and Tourism, Industrial University of Ho Chi Minh City, Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I joined Pattern Recognition Lab in September 2018. My research focuses on medical image analysis.
