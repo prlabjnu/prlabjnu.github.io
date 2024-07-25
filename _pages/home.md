@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to the Pattern Recognition Lab, led by [Prof. Soo-Hyung Kim](/members/shkim), located at [Chonnam National University](https://www.jnu.ac.kr/jnumain.aspx), South Korea.
 
-[Our research](/research) focuses on affective understanding in video and biological signals, as well as medical image analysis. If you are interested in joining our lab, please check our [Open Positions](/open_positions) .
+[Our research](/research) focuses on affective understanding in video and biological signals, as well as medical image analysis. If you are interested in joining our lab, please check our [Open Positions](/open_positions).
 
 
 ### Visiting Us at
