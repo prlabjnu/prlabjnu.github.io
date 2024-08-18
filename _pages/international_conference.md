@@ -12,7 +12,8 @@ nav: false
 
 <ol class=space_list>
 
-<li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
+<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL3/AI-Hub)
+
 
 
 
@@ -1153,11 +1154,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3Mj
-Q4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYx
-NTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3OD
-MsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1
-MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNj
-IzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkz
-NzE3NTEzXX0=
+eyJoaXN0b3J5IjpbNzAwOTkyMzAsMTE4OTY4NTY3NSwtMTE0Nz
+I3NDQ2Miw3MjQ4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2
+OSwtMTczNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC
+0zNTI5MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcw
+ODA4OSwxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC
+0xOTQ1NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0
+NDcxNjZdfQ==
 -->
