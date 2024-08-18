@@ -21,7 +21,7 @@ profile:
 ---
 
 
-I received the B.S. degree from the Department of Information Technology, Hue University of Science and Technology, Vietnam, in 2018 and the M.S. degree from the Department of Computer Vision, MICA, Hanoi University of Science and Technology, Vietnam, in 2020. Currently, I am pursuing my Ph.D. degree with the Department of Artificial Intelligence Convergence. I joined the Pattern Recognition Lab in April 2021. My research is focused on medical image processing, rapid response systems, and treatment recommendations.
+I received the B.S. degree from the Department of Information Technology, Hue University of Science and Technology, Vietnam, in 2018 and the M.S. degree from the Department of Computer Vision, MICA, Hanoi University of Science and Technology, Vietnam, in 2020. Currently, I am pursuing myathe Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the Pattern RecognitionR Lab sin April ce 04-2021. My research is focused on medical image processing, rapid response systems, and treatment recommendations.
 
 
 #### Achievements
@@ -29,5 +29,6 @@ I received the B.S. degree from the Department of Information Technology, Hue Un
 * :1st_place_medal: Winner of the 2021 Aquaculture Artificial Intelligence Model Contest.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDA1MDg5Niw5NDc4MTkxMDBdfQ==
+eyJoaXN0b3J5IjpbMTg2MzkyNTA2MCwxNDI0MDUwODk2LDk0Nz
+gxOTEwMF19
 -->
