@@ -12,8 +12,9 @@ nav: false
 
 <ol class=space_list>
 
-<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL3/AI-Hub)
+<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
 
+<li>Quang-Vinh Dang and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
 
 
 
@@ -1154,11 +1155,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwOTkyMzAsMTE4OTY4NTY3NSwtMTE0Nz
-I3NDQ2Miw3MjQ4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2
-OSwtMTczNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC
-0zNTI5MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcw
-ODA4OSwxOTA1MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC
-0xOTQ1NjYxNjIzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0
-NDcxNjZdfQ==
+eyJoaXN0b3J5IjpbOTQ3ODI3MDg5LDExODk2ODU2NzUsLTExND
+cyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMx
+NjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4NjYxMC
+wtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3
+MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNC
+wtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3
+NDQ3MTY2XX0=
 -->
