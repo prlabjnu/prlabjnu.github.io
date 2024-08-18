@@ -12,6 +12,10 @@ nav: false
 
 <ol class=space_list>
 
+<li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Hyung-Jeong Yang, and Aera Kim, "Artificial Intelligence Techniques in Mental Healthcare: A Systematic Mapping Study," <i>Proc. 10th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. 131-136, Jeju, Korea, Nov. 2022. (BRL2/AI-Hub)
+
+
+
 
 <li>Sei Kang, Jaejoon Jeong, Gun A. Lee, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim,
 "The RayHand Navigation: A Virtual Navigation Method with Relative Position between Hand and Gaze-Ray,"
@@ -1149,11 +1153,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIyNjE2MTIsLTExNDcyNzQ0NjIsNz
-I0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2
-MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4NjYxMCwtMzUyOTAwNz
-gzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgwODksMTkw
-NTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNCwtMTk0NTY2MT
-YyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3NDQ3MTY2LDk5
-MzcxNzUxM119
+eyJoaXN0b3J5IjpbMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3Mj
+Q4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYx
+NTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3OD
+MsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1
+MjU0MTE2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNj
+IzLDExMjk2MjUzNjIsODg5NDkzNjI2LC0yMTc0NDcxNjYsOTkz
+NzE3NTEzXX0=
 -->
