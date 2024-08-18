@@ -12,11 +12,9 @@ nav: false
 
 <ol class=space_list>
 
-<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
+<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
 
-<li>Quang-Vinh Dang and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2022), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
-
-
+<li>Quang-Vinh Dang and Soo-Hyung Kim, "Efficient Audio and Visual Stream Fusion in Multi-task Emotional Recognition," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
 
 
 <li>Sei Kang, Jaejoon Jeong, Gun A. Lee, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim,
@@ -1155,11 +1153,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3ODI3MDg5LDExODk2ODU2NzUsLTExND
-cyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMx
-NjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4NjYxMC
-wtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3
-MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1NjEzMDYwNC
-wtMTk0NTY2MTYyMywxMTI5NjI1MzYyLDg4OTQ5MzYyNiwtMjE3
-NDQ3MTY2XX0=
+eyJoaXN0b3J5IjpbLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0xMT
+Q3Mjc0NDYyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMjUz
+MTY5LC0xNzM1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2MT
+AsLTM1MjkwMDc4MywyMDU3NzgyNDM4LC02MjYxNzA3OTgsMzk4
+NzA4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MD
+QsLTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4ODk0OTM2MjYsLTIx
+NzQ0NzE2Nl19
 -->
