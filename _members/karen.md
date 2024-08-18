@@ -22,9 +22,10 @@ profile:
 ---
 
 
-I received my B.Sc. degree from the Department of Mathematics and Computer Science, University of Mkar, Nigeria, in 2019. I am currently an integrated M.S./Ph.D. student at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea. I joined the Pattern Recognition Laboratory in March 2022. My research interests include depression intensity and treatment outcome estimation, emotion inference, an patter recognition.
+I received my B.Sc. degree from the Department of Mathematics and Computer Science, University of Mkar, Nigeria, in 2019. I am currently an integrated M.S./Ph.D. student at the Department of Artificial Intelligence Convergence, at Chonnam National University, South Korea., and I joined the Pattern Recognition Laboratory in March 2022. My research interests include depression intensity and treatment outcome estimation, emotion inference, an patter recognition.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjA3MDk4LC0xOTg0Mzc1ODc4XX0=
+eyJoaXN0b3J5IjpbNTEyMTA3MDYsMjE0NjA3MDk4LC0xOTg0Mz
+c1ODc4XX0=
 -->
