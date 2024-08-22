@@ -9,6 +9,10 @@ nav: false
 
 <ol class=space_list>
 
+<li>Trong Nghia Nguyen, Hyung-Jeong Yang, Bo-Gun Kho, Sae-Ryung Kang, and Soo-Hyung Kim,
+"Explainable Deep Contrastive Federated Learning System for Early Prediction of Clinical Status in-Intensive Care Unit,"
+
+
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
 "Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems,"
@@ -852,11 +856,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04Nz
-UyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4
-MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNT
-k1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2MywtODE0MDIw
-NTQ1LDIwMjU1OTc4ODEsMTc0MjA5MTY3NywtMjA3OTMxMTUzMS
-wxODM2OTY3NDA1LDE5NzY3MjE1OTYsNjE3NDI3NTQ1LC00ODcx
-NDE5MDJdfQ==
+eyJoaXN0b3J5IjpbMTA3Mjk3NjQ0LC0xNzkxNDgxOTI2LDgzMT
+Q4OTM1NywtODc1MjY1MTI5LC0xMjUyODA0NjA5LDc5MDcyMDU4
+OCwtMTMwNTE2ODAwMywyMzQyOTAzMTksLTkzODIwOTUzNiw5OD
+M1MzAxNjQsLTU5NTE0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4
+NjMsLTgxNDAyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLT
+IwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQy
+NzU0NV19
 -->
