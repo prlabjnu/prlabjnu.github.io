@@ -10,8 +10,8 @@ nav: false
 <ol class=space_list>
 
 <li>Trong Nghia Nguyen, Hyung-Jeong Yang, Bo-Gun Kho, Sae-Ryung Kang, and Soo-Hyung Kim,
-"Explainable Deep Contrastive Federated Learning System for Early Prediction of Clinical Status in-Intensive Care Unit,"
- <font color="ff00ff"><i>IEEE Access</i></font>, DOI: 10.1109/ACCESS.2017.DOI, accepted in Aug. 2024. (IF: 4.1, JCR Q2) (HCRI/AI융합대학원).
+"Explainable Deep Contrastive Federated Learning System for Early Prediction of Clinical Status in-Intensive Care Unit," 
+<font color="ff00ff"><i>IEEE Access</i></font>, DOI: 10.1109/ACCESS.2017.DOI, accepted in Aug. 2024. (IF: 4.1, JCR Q2) (HCRI/AI융합대학원).
 
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
@@ -856,11 +856,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NzU5NTYwLDExNDMwMTYxOCwtMTc5MT
-Q4MTkyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1MjgwNDYw
-OSw3OTA3MjA1ODgsLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC05Mz
-gyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTExNzE0
-MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNz
-QyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMTk3Njcy
-MTU5Nl19
+eyJoaXN0b3J5IjpbMTg2NzM0NDE2NCw0ODY3NTk1NjAsMTE0Mz
+AxNjE4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1NywtODc1MjY1MTI5
+LC0xMjUyODA0NjA5LDc5MDcyMDU4OCwtMTMwNTE2ODAwMywyMz
+QyOTAzMTksLTkzODIwOTUzNiw5ODM1MzAxNjQsLTU5NTE0MDAz
+OCwtMTM1MTE3MTQzOSwxNzI0ODg4NjMsLTgxNDAyMDU0NSwyMD
+I1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkzMTE1MzEsMTgzNjk2
+NzQwNV19
 -->
