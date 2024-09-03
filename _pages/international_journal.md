@@ -22,8 +22,8 @@ nav: false
 
 <li>Vi Thi‑Tuong Vo, Myung‑Giun Noh, Soo‑Hyung Kim,
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
- <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, published online, https://doi.org/10.1007/s11042-024-18386-7, Feb. 2024. (IF: 3.6, JCR Q2) (BRL3/AI융합대학원)
-
+ <font color="ff00ff"><i>Multimedia Tools and Applications</i></font>, 
+ Vol. 83, Issue 29, pp. 73031–73053, Sep. 2024. (IF: 3.0, JCR Q2) (BRL3/AI융합대학원)
 
 
 <li>Hong-Hai Nguyen, Ngumimi Karen Iyortsuun, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
@@ -856,11 +856,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzAxNjE4LC0xNzkxNDgxOTI2LDgzMT
-Q4OTM1NywtODc1MjY1MTI5LC0xMjUyODA0NjA5LDc5MDcyMDU4
-OCwtMTMwNTE2ODAwMywyMzQyOTAzMTksLTkzODIwOTUzNiw5OD
-M1MzAxNjQsLTU5NTE0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4
-NjMsLTgxNDAyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLT
-IwNzkzMTE1MzEsMTgzNjk2NzQwNSwxOTc2NzIxNTk2LDYxNzQy
-NzU0NV19
+eyJoaXN0b3J5IjpbNDg2NzU5NTYwLDExNDMwMTYxOCwtMTc5MT
+Q4MTkyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1MjgwNDYw
+OSw3OTA3MjA1ODgsLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC05Mz
+gyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTExNzE0
+MzksMTcyNDg4ODYzLC04MTQwMjA1NDUsMjAyNTU5Nzg4MSwxNz
+QyMDkxNjc3LC0yMDc5MzExNTMxLDE4MzY5Njc0MDUsMTk3Njcy
+MTU5Nl19
 -->
