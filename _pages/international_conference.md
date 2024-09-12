@@ -12,7 +12,7 @@ nav: false
 
 <ol class=space_list>
 
-<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)  (<font color="0000ff">Best Paper Award</font>)
+<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. 103-112, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)  (<font color="0000ff">Best Paper Award</font>)
 
 <li>Quang-Vinh Dang and Soo-Hyung Kim, "Efficient Audio and Visual Stream Fusion in Multi-task Emotional Recognition," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. xxx-xxx, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
 
@@ -1153,11 +1153,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY5ODc3MzAsLTU4NDkzOTYyMywxMT
-g5Njg1Njc1LC0xMTQ3Mjc0NDYyLDcyNDg3NDY5MiwtMTM3ODAx
-Njk3NCwxNjUyMjUzMTY5LC0xNzM1NjE1MTY5LDE2MDAwNDc0Mz
-MsLTEyNDcwODY2MTAsLTM1MjkwMDc4MywyMDU3NzgyNDM4LC02
-MjYxNzA3OTgsMzk4NzA4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOT
-MwLC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMsMTEyOTYyNTM2Miw4
-ODk0OTM2MjZdfQ==
+eyJoaXN0b3J5IjpbMzI2OTI2NDA0LC0xMTg2OTg3NzMwLC01OD
+Q5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4NzQ2
+OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2OS
+wxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3ODMsMjA1
+Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1MjU0MT
+E2LDM4MTY4MjkzMCwtMzU2MTMwNjA0LC0xOTQ1NjYxNjIzLDEx
+Mjk2MjUzNjJdfQ==
 -->
