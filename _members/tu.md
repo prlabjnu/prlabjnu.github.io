@@ -3,10 +3,10 @@ layout: meminfo
 title: Vu Ngoc Tu
 lastname: Vu
 description: Master Student at PRLab
-importance: 4
+importance: 54
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: My research interest is in multi-modal, computer vision, and time series processing...
 profile:
   name: Vu Ngoc Tu
