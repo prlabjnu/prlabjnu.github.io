@@ -3,10 +3,10 @@ layout: meminfo
 title: Tuong Vi Vo
 lastname: Vo
 description: PhD student at PRLab@JNU
-importance: 3
+importance: 53
 category: work
 group: PhD Students
-group_rank: 3
+group_rank: 53
 teaser: My research interests medical image analysis. I am currently working on ADC lung cancer prognosis from pathology images...
 profile:
   name: Tuong Vi Vo
