@@ -9,15 +9,18 @@ nav: false
 
 <ol class=space_list>
 
-<li>Trong Nghia Nguyen, Hyung-Jeong Yang, Bo-Gun Kho, Sae-Ryung Kang, and Soo-Hyung Kim,
-"Explainable Deep Contrastive Federated Learning System for Early Prediction of Clinical Status in-Intensive Care Unit," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 12, pp. 117176-117202, Sep. 2024. (IF: 4.1, JCR Q2) (HCRI/AI융합대학원).
-
+<li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, N.K. Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang,
+"Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,"
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted in Sep. 2024. (
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
 "Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems,"
 <font color="ff00ff"><i>IEEE Intelligent Systems</i></font>, published online, DOI 10.1109/MIS.2024.3408290, June 2024. (IF: 6.4, Q1) (BRL3/AI융합대학원/HCRI)
 
 
+
+<li>Trong Nghia Nguyen, Hyung-Jeong Yang, Bo-Gun Kho, Sae-Ryung Kang, and Soo-Hyung Kim,
+"Explainable Deep Contrastive Federated Learning System for Early Prediction of Clinical Status in-Intensive Care Unit," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 12, pp. 117176-117202, Sep. 2024. (IF: 4.1, JCR Q2) (HCRI/AI융합대학원).
 
 <li>Vi Thi‑Tuong Vo, Myung‑Giun Noh, Soo‑Hyung Kim,
 "4T‑Net: Multitask deep learning for nuclear analysis from pathology image,"
@@ -855,11 +858,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3OTcxNTEsMTMwODgyMzA5NCw0OD
-Y3NTk1NjAsMTE0MzAxNjE4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1
-NywtODc1MjY1MTI5LC0xMjUyODA0NjA5LDc5MDcyMDU4OCwtMT
-MwNTE2ODAwMywyMzQyOTAzMTksLTkzODIwOTUzNiw5ODM1MzAx
-NjQsLTU5NTE0MDAzOCwtMTM1MTE3MTQzOSwxNzI0ODg4NjMsLT
-gxNDAyMDU0NSwyMDI1NTk3ODgxLDE3NDIwOTE2NzcsLTIwNzkz
-MTE1MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjE5ODYyMDIsLTE5NzU3OTcxNTEsMT
+MwODgyMzA5NCw0ODY3NTk1NjAsMTE0MzAxNjE4LC0xNzkxNDgx
+OTI2LDgzMTQ4OTM1NywtODc1MjY1MTI5LC0xMjUyODA0NjA5LD
+c5MDcyMDU4OCwtMTMwNTE2ODAwMywyMzQyOTAzMTksLTkzODIw
+OTUzNiw5ODM1MzAxNjQsLTU5NTE0MDAzOCwtMTM1MTE3MTQzOS
+wxNzI0ODg4NjMsLTgxNDAyMDU0NSwyMDI1NTk3ODgxLDE3NDIw
+OTE2NzddfQ==
 -->
