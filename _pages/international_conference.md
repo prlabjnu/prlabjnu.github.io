@@ -12,6 +12,11 @@ nav: false
 
 <ol class=space_list>
 
+
+<li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Sae-Ryung Kang and Soo-Hyung Kim,
+"Automatic Polyp Segmentation with Self-Enriched Semantic Model,"
+
+
 <li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. 103-112, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)  (<font color="0000ff">Best Paper Award</font>)
 
 <li>Quang-Vinh Dang and Soo-Hyung Kim, "Efficient Audio and Visual Stream Fusion in Multi-task Emotional Recognition," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. 194-201, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)
@@ -1153,11 +1158,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLT
-U4NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3Mjc0NDYyLDcyNDg3
-NDY5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMTY5LC0xNzM1NjE1MT
-Y5LDE2MDAwNDc0MzMsLTEyNDcwODY2MTAsLTM1MjkwMDc4Mywy
-MDU3NzgyNDM4LC02MjYxNzA3OTgsMzk4NzA4MDg5LDE5MDUyNT
-QxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQsLTE5NDU2NjE2MjMs
-MTEyOTYyNTM2Ml19
+eyJoaXN0b3J5IjpbLTE5NDM0NTE1NDQsLTE5MjM3MDg5MDksLT
+ExODY5ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3
+Mjc0NDYyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMT
+Y5LC0xNzM1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2MTAs
+LTM1MjkwMDc4MywyMDU3NzgyNDM4LC02MjYxNzA3OTgsMzk4Nz
+A4MDg5LDE5MDUyNTQxMTYsMzgxNjgyOTMwLC0zNTYxMzA2MDQs
+LTE5NDU2NjE2MjNdfQ==
 -->
