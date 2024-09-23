@@ -11,7 +11,8 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, N.K. Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang,
 "Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,"
-<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted in Sep. 2024. (BRL3/AI융합대학원/HCRI)
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted in Sep. 2024. (IF: 4.9, Q1) (BRL3/AI융합대학원/HCRI)
+
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
 "Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems,"
@@ -858,7 +859,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDc0NjI1NywtMTk3NTc5NzE1MSwxMz
+eyJoaXN0b3J5IjpbLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMz
 A4ODIzMDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5
 MjYsODMxNDg5MzU3LC04NzUyNjUxMjksLTEyNTI4MDQ2MDksNz
 kwNzIwNTg4LC0xMzA1MTY4MDAzLDIzNDI5MDMxOSwtOTM4MjA5
