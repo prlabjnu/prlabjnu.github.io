@@ -41,7 +41,7 @@ sortedIndex: 3
 
     Achievements in the past few years:
 
-* **Best Paper Award** for the Paper "Rethinking Top Probability from Multi-view for Distracted Driver Behaviour Localization" - _12th International Conference on BIG DATA APPLICATIONS AND SERVICES (BIGDAS2024).
+* **Best Paper Award** for the Paper "Rethinking Top Probability from Multi-view for Distracted Driver Behaviour Localization" - _12th International Conference on BIG DATA APPLICATIONS AND SERVICES (BIGDAS2024)_.
   <img class="rounded mx-auto d-block" src="/assets/img/Vihn_best_paper_award.jpg" alt="BIGDAS2024_best paper award - Certificate" width="80%" height="auto"/>
   
 * :3rd_place_medal: 3rd place in the **Engagement Estimation Challenge** - _MultiMediate: Multi-modal Group Behaviour Analysis for Artificial Mediation Grand Challenge at ACM Multimedia, 2023_.
