@@ -22,7 +22,7 @@ profile:
 ---
 
 
-I obtained my BSc degree from the Department of Control Engineering and Automation, Hanoi University of Science and Technology, Viet Nam, in 2022.
-I am currently pursuing my master’s degree at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea, and I joined the Pattern Recognition Lab in March 2023.
-My research interest is in medical image analysis and pattern recognition.
+I obtained my BSc degree in Control Engineering and Automation from Hanoi University of Science and Technology, Vietnam, in 2022. Currently, I am pursuing an MSc degree at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea.
+
+Aspiring AI researcher with a strong foundation in computer vision and natural language processing (NLP). Passionate about advancing AI technologies, particularly in the domains of medical image analysis and mental health detection. Eager to contribute to cutting-edge research and innovation, leveraging interdisciplinary knowledge to solve complex challenges in artificial intelligence.
 
