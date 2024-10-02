@@ -14,7 +14,7 @@ nav: false
 
 
 <li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Sae-Ryung Kang and Soo-Hyung Kim,
-"Automatic Polyp Segmentation with Self-Enriched Semantic Model,"
+"Polyp-SES: Automatic Polyp Segmentation with Self-Enriched Semantic Model,"
 <i><font color="ff00ff">Proc. Asian Conf. Computer Vision</font></i> (ACCV 2024), accepted for presentation,
 National Convention Center, Hanoi, Vietnam, Dec. 2024. (AI융합대학원/ITRC/HCRI)
 
