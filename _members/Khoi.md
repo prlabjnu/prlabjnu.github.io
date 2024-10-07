@@ -10,7 +10,7 @@ group_rank: 4
 teaser: My research interest is in thermal imaging for facial recognition...
 profile:
   name: Tran Tuan Khoi
-  email: ttk1205tn@gmail.com, khoi2024@jnu.ac.kr
+  email: ttk1205tn@gmail.com
   twitter: 
   facebook:
   orcid: 0009-0004-0520-806X
@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: Khoi.jpg
+  image: Khoi_Tran.jpg
 ---
 
 
