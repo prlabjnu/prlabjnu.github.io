@@ -15,7 +15,7 @@ profile:
   facebook:
   orcid: 0000-0003-1888-0117
   github: nghianguyen7171
-  website:
+  website: https://nghianguyen7171.github.io/
   align: right
   image: Nghia.jpg
 ---
