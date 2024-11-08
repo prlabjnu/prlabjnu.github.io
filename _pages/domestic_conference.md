@@ -9,6 +9,27 @@ nav: false
 
 <ol class=space_list_kr>
 
+ <li>Kim Ngan Phan, Hyung-Jeong Yang, Jieun Shin, Seungwon Kim, Soo-Hyung Kim,
+"A Review of Text Generation Models for Empathic Responses,"
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 545-548, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+
+<li>Ngumimi Karen Iyortsuun, 염순자, 김수형, 김애라,
+"EEG 우울증 분류를 위한 위상 잠금 값 기반 샴 네트워크,"
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 549-552, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+
+<li>Son Thanh-Hoang Vo, Quang-Vinh Nguyen, 양형정, 신지은, 김승원, 김수형
+"랜드마크 시퀀스를 기반으로 한 개별 오디오 구동 화자 생성,"
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 553-556, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+
+<li>Battulga Ulziisaikhan, Nguyen Trong Nghia, Soo-Hyung Kim,
+"A Hybrid CNN-LSTM Approach for Effective Denoising of EEG Signals Contaminated by EOG Artifacts,"
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 573-576, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+
+<li>Quang-Vinh Dang, Hyung-Jeong Yang, Soo-Hyung Kim,
+"실제 장면 이미지에서 포맷 제어 가능한 텍스트 편집,"
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 644-646, 전남대학교, 2024. 11월. (IITP대학원/BRL3)
+
+
 
 <li>Kolmogortseva Karina, 김수형, 김애라, “키보드 입력패턴 기반의 감정 감지를 위한 데이터셋 분석,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 99-100,  광주CGI센터, 2024년 5월. (BRL3/NRF3/인공지능융합대학원)  (<font color="#ff00ff">★최우수논문상</font>)
 
@@ -1355,8 +1376,8 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2Mz
-YzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0
-MywtNjU2NzMyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2OD
-kyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbMzY4MTU1MTQzLC04NjQ2OTU5ODAsNjU2Nz
+E0NzcwLDEyNjM2MzYwNzQsLTU1NzUyNDQzLC0xNDQ3NjkxMjk5
+LC00OTYyNDA0NDMsLTY1NjczMjA2NSwtNTk5MDk0OTQxLDI5Nz
+c2Njk0MiwxNjg5MjQ1NjQxXX0=
 -->
