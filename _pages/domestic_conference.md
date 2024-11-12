@@ -29,12 +29,11 @@ ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 573-576, 전남대학교
 "실제 장면 이미지에서 포맷 제어 가능한 텍스트 편집,"
 ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 644-646, 전남대학교, 2024. 11월. (IITP대학원/BRL3)
 
-<li>Quang-Vinh Dang, Hyung-Jeong Yang, Soo-Hyung Kim,
-"실제 장면 이미지에서 포맷 제어 가능한 텍스트 편집,"
-ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 644-646, 전남대학교, 2024. 11월. (IITP대학원/BRL3)
-김단빈, 김아현, 정다은, 김수형, 
+<li>김단빈, 김아현, 정다은, 김수형, 
 "올바른 요가 자세 교정 및 사용자 맞춤 동작 추천 웹서비스 개발,"
-pp. 1142-1143
+ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 1142-1143, 전남대학교, 2024. 11월.
+
+
 
 <li>Kolmogortseva Karina, 김수형, 김애라, “키보드 입력패턴 기반의 감정 감지를 위한 데이터셋 분석,” 2024 한국스마트미디어학회 춘계학술대회 발표논문집, pp. 99-100,  광주CGI센터, 2024년 5월. (BRL3/NRF3/인공지능융합대학원)  (<font color="#ff00ff">★최우수논문상</font>)
 
@@ -1381,7 +1380,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NTc4OTA0LDM2ODE1NTE0MywtODY0Nj
+eyJoaXN0b3J5IjpbNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Nj
 k1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0Mywt
 MTQ0NzY5MTI5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OT
 A5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0MV19
