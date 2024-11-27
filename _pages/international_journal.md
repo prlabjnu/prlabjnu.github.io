@@ -33,7 +33,7 @@ nav: false
 
 <li>Hong-Hai Nguyen, Ngumimi Karen Iyortsuun, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Mental Workload Estimation with Electroencephalogram Signals by Combining Multi-Space Deep Models,"  
-<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, Volume 94, 106284, pp. 1-8, August 2024. (IF: 5.1, JCR Q2) (BRL3/AI융합대학원)
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, Volume 94, 106284, pp. 1-8, August 2024. (IF: 5.1, JCR Q1) (BRL3/AI융합대학원)
 
 
 
@@ -861,11 +861,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMD
-g5NDM5NiwtMTk3NTc5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2
-MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04Nz
-UyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4
-MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNT
-k1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4ODg2MywtODE0MDIw
-NTQ1XX0=
+eyJoaXN0b3J5IjpbLTIwODUxOTkwMTAsMTgxNDgyNzM4OSw5OT
+cxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4ODIz
+MDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYsOD
+MxNDg5MzU3LC04NzUyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIw
+NTg4LC0xMzA1MTY4MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LD
+k4MzUzMDE2NCwtNTk1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4
+ODg2M119
 -->
