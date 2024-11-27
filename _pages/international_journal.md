@@ -47,7 +47,7 @@ nav: false
  <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 12, pp. 20479-20489, Feb. 2024. (IF: 4.1, JCR Q2) (BRL3/AI융합대학원/HCRI).
 
 <li> Ledan Qian, Caiyun Wen, Yi Li, Zhongyi Hu, Xiao Zhou, Xiaonyu Xia and Soo-Hyung Kim,
-"Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>,  243, 107885, pp. 1-16, Jan. 2024. (IF: 6.1)
+"Multi-scale context UNet-like network with redesigned skip connections for medical image segmentation," <font color="ff00ff"><i>Computer Methods and Programs in Biomedicine</i></font>,  243, 107885, pp. 1-16, Jan. 2024. (IF: 6.1, JCR Q1)
 
 <li>Suyeon Park, Gayun Suh, Soo-Hyung Kim, Hyung-Jeong Yang, Gun Lee, Seungwon Kim,
 "Effect of Auto-Erased Sketch Cue in Multiuser Surgical Planning Virtual Reality Collaboration,"
@@ -861,7 +861,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUxOTkwMTAsMTgxNDgyNzM4OSw5OT
+eyJoaXN0b3J5IjpbLTEwMjAyNzM4NTMsMTgxNDgyNzM4OSw5OT
 cxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4ODIz
 MDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYsOD
 MxNDg5MzU3LC04NzUyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIw
