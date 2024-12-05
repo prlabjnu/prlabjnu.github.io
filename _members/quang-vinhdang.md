@@ -3,10 +3,10 @@ layout: meminfo
 title: Quang-Vinh
 lastname: Dang
 description: Postdoctoral Researcher at PRLab
-importance: 2
+importance: 52
 category: work
 group: Postdoctoral Researchers
-group_rank: 2
+group_rank: 52
 teaser: My research interest is centered around Multimodal Deep Learning, Generative AI technologies, Optical Character Recognition (OCR), and the enhancement and restoration of images...
 profile:
   name: Dang Quang-Vinh
