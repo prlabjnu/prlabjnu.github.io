@@ -15,9 +15,11 @@ nav: false
 "Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,"
 <font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, published online (to appear at Vol. 100, 106975, pp. 1- 17, Feb. 2025).  (IF: 4.9, Q1) (BRL3/AI융합대학원/HCRI) 
 
+
+
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
 "Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems,"
-<font color="ff00ff"><i>IEEE Intelligent Systems</i></font>, published online, DOI 10.1109/MIS.2024.3408290, June 2024. (IF: 6.4, Q1) (BRL3/AI융합대학원/HCRI)
+<font color="ff00ff"><i>IEEE Intelligent Systems</i></font>, vol. 39, no. 6, pp. 58-69, Nov.-Dec. 2024. (IF: 6.4, Q1) (AI융합대학원/ITRC/HCRI)
 
 
 
@@ -861,11 +863,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAyNzM4NTMsMTgxNDgyNzM4OSw5OT
-cxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4ODIz
-MDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYsOD
-MxNDg5MzU3LC04NzUyNjUxMjksLTEyNTI4MDQ2MDksNzkwNzIw
-NTg4LC0xMzA1MTY4MDAzLDIzNDI5MDMxOSwtOTM4MjA5NTM2LD
-k4MzUzMDE2NCwtNTk1MTQwMDM4LC0xMzUxMTcxNDM5LDE3MjQ4
-ODg2M119
+eyJoaXN0b3J5IjpbLTE2MjY5MjI0NCwtMTAyMDI3Mzg1MywxOD
+E0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2LC0xOTc1Nzk3
+MTUxLDEzMDg4MjMwOTQsNDg2NzU5NTYwLDExNDMwMTYxOCwtMT
+c5MTQ4MTkyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1Mjgw
+NDYwOSw3OTA3MjA1ODgsLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC
+05MzgyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTEx
+NzE0MzldfQ==
 -->
