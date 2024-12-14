@@ -16,7 +16,7 @@ nav: false
 <li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Sae-Ryung Kang and Soo-Hyung Kim,
 "Polyp-SES: Automatic Polyp Segmentation with Self-Enriched Semantic Model,"
 <i><font color="ff00ff">Proc. Asian Conf. Computer Vision</font></i> (ACCV 2024), 
-Hanoi, Vietnam, Dec. 2024. (AI융합대학원/ITRC/HCRI)
+pp. 2803-2819, Hanoi, Vietnam, Dec. 2024. (AI융합대학원/ITRC/HCRI)
 
 <li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Hoang Chau Truong Vinh, Duc Duy Nguyen, Nhat Huy Nguyen Minh and Soo-Hyung Kim, "Rethinking Top Probability from Multi-view for Distracted Driver Behavior Localization," <i>Proc. 12th Int. Conf. Bigdata Applications and Services </i>(BIGDAS 2024), pp. 103-112, Jeju, Korea, Aug. 2024. (BRL3/AI융합대학원)  (<font color="0000ff">Best Paper Award</font>)
 
@@ -1159,11 +1159,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4ODMyMjAsLTY1MjIxMDkwNiwtMTkyMz
-cwODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5NjIzLDExODk2ODU2
-NzUsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LD
-E2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0
-NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MD
-c5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAsLTM1
-NjEzMDYwNF19
+eyJoaXN0b3J5IjpbLTE4OTkwNjUxNjQsLTY1MjIxMDkwNiwtMT
+kyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5NjIzLDExODk2
+ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OT
+c0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywt
+MTI0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNj
+E3MDc5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAs
+LTM1NjEzMDYwNF19
 -->
