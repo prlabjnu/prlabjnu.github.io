@@ -92,6 +92,10 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <li>조경호, "2022 개정 교육과정에 따른 고등학교 인공지능 기초 교과서 분석," 
 전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2025년 2월.</li>
 
+<li>Vu Ngoc Tu, "Time-series regression for Emotion Regconition from Psychological Signal," 
+전남대학교 인공지능융합학과 석사학위논문, 2024년 8월.</li>
+
+
 <li>김민영, "파이썬을 활용한 <인공지능 기초> 교과 교수∙학습자료 개발 - 인공지능의 이해 단원을 중점으로," 
 전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2024년 8월.</li>
 
@@ -275,6 +279,6 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEyNDUzNDMsMTY5MjgzOTUxLDE0OD
-Q3MDc0MzAsLTk2NjAwODY4Ml19
+eyJoaXN0b3J5IjpbLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4ND
+cwNzQzMCwtOTY2MDA4NjgyXX0=
 -->
