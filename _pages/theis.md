@@ -98,7 +98,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <li>Vu Ngoc Tu, "Time-series regression for Emotion Regconition from Psychological Signal," 
 전남대학교 인공지능융합학과 석사학위논문, 2024년 8월.</li>
 
-<li>김민영, "파이썬을 활용한 인공지능 기초  교과 교수∙학습자료 개발 - 인공지능의 이해 단원을 중점으로," 
+<li>김민영, "파이썬을 활용한 "인공지능 기초"  교과 교수∙학습자료 개발 - 인공지능의 이해 단원을 중점으로," 
 전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2024년 8월.</li>
 
 
@@ -281,7 +281,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODI3ODY4OSwtMjMyODE4NjksODk0Mj
-E0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4NjQsLTM0MTI5MDU1
-NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbLTIwMTU0OTA3MTksLTIzMjgxODY5LDg5ND
+IxNDIwNSwxOTEzMTQxMjE1LC0xMzU5MTIyODY0LC0zNDEyOTA1
+NTUsMTY5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2NjAwODY4Ml19
 -->
