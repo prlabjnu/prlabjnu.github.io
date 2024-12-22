@@ -37,6 +37,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
+
+<li>Nguyen Trong Nghia, "Multi-Stage Deep Learning  Framework with Distributed  Contrastive Methods for Rapid Response System," 전남대학교 인공지능융합학과 박사학위논문, 2025년 2월.</li>
+
 <li>Huynh Van Thong, "Emotional Analysis of Video Clips by Utilizing Temporal Dependency Modeling,"
 전남대학교 인공지능융합학과 박사학위논문, 2023년 2월. </li>
 
@@ -83,6 +86,13 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
+<li>김민영, "파이썬을 활용한 <인공지능 기초> 교과 교수∙학습자료 개발 - 인공지능의 이해 단원을 중점으로," 
+전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2024년 8월.</li>
+
+<li>조경호, "2022 개정 교육과정에 따른 고등학교 인공지능 기초 교과서 분석," 
+전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2025년 2월.</li>
+
+<li>Vinh, " Automatic Polyp Segmentation with Self-Enriched Semantic Model," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
 
 <li>최은빈, "앙상블 학습을 이용한 합성곱 오토인코더 기반 스트레스 탐지,"
 전남대학교 인공지능융합학과 석사학위논문, 2023년 2월. </li>
@@ -263,6 +273,6 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2Nj
-AwODY4Ml19
+eyJoaXN0b3J5IjpbMTMwNDM1NzE3LDE2OTI4Mzk1MSwxNDg0Nz
+A3NDMwLC05NjYwMDg2ODJdfQ==
 -->
