@@ -88,7 +88,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <ol class=space_list_kr>
 
 
-<li>Vinh, "Automatic Polyp Segmentation with Self-Enriched Semantic Model," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
+<li>Vinh, "Enhancing Polyp Detection and Segmentation in Medical Imaging via Deep Learning," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
+
+
 
 <li>조경호, "2022 개정 교육과정에 따른 고등학교 인공지능 기초 교과서 분석," 
 전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2025년 2월.</li>
@@ -279,7 +281,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNT
-kxMjI4NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQz
-MCwtOTY2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbLTIzMjgxODY5LDg5NDIxNDIwNSwxOTEzMT
+QxMjE1LC0xMzU5MTIyODY0LC0zNDEyOTA1NTUsMTY5MjgzOTUx
+LDE0ODQ3MDc0MzAsLTk2NjAwODY4Ml19
 -->
