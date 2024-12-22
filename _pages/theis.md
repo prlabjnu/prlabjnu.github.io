@@ -40,6 +40,8 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <li>Nguyen Trong Nghia, "Multi-Stage Deep Learning  Framework with Distributed  Contrastive Methods for Rapid Response System," 전남대학교 인공지능융합학과 박사학위논문, 2025년 2월.</li>
 
+<li>Vo Thi Tuong Vi, 
+
 <li>Huynh Van Thong, "Emotional Analysis of Video Clips by Utilizing Temporal Dependency Modeling,"
 전남대학교 인공지능융합학과 박사학위논문, 2023년 2월. </li>
 
@@ -279,6 +281,6 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4ND
-cwNzQzMCwtOTY2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbLTEzNTkxMjI4NjQsLTM0MTI5MDU1NSwxNj
+kyODM5NTEsMTQ4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
 -->
