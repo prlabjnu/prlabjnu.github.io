@@ -12,6 +12,9 @@ nav: false
 
 <ol class=space_list>
 
+<li>Tuan-Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Xiaojing Chen, 
+"Emotion Recognition Using RGB and Thermal Image Fusion,"
+<i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2024),  pp. 40-44, Saipan, USA, Oct. 2022. (BRL2/지역우수3/AI-Hub) (<font color="0000ff">Best Paper Award</font>)
 
 <li>Quang Vinh Nguyen, Son Vo Thanh Hoang, Sae-Ryung Kang and Soo-Hyung Kim,
 "Polyp-SES: Automatic Polyp Segmentation with Self-Enriched Semantic Model,"
@@ -1159,11 +1162,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkwNjUxNjQsLTY1MjIxMDkwNiwtMT
-kyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5NjIzLDExODk2
-ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OT
-c0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywt
-MTI0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNj
-E3MDc5OCwzOTg3MDgwODksMTkwNTI1NDExNiwzODE2ODI5MzAs
-LTM1NjEzMDYwNF19
+eyJoaXN0b3J5IjpbNzA3NjUwMjY4LC0xODk5MDY1MTY0LC02NT
+IyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLTU4NDkz
+OTYyMywxMTg5Njg1Njc1LC0xMTQ3Mjc0NDYyLDcyNDg3NDY5Mi
+wtMTM3ODAxNjk3NCwxNjUyMjUzMTY5LC0xNzM1NjE1MTY5LDE2
+MDAwNDc0MzMsLTEyNDcwODY2MTAsLTM1MjkwMDc4MywyMDU3Nz
+gyNDM4LC02MjYxNzA3OTgsMzk4NzA4MDg5LDE5MDUyNTQxMTYs
+MzgxNjgyOTMwXX0=
 -->
