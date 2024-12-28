@@ -19,7 +19,7 @@ nav: false
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Hyung-Jeong Yang, 
 "Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems,"
-<font color="ff00ff"><i>IEEE Intelligent Systems</i></font>, vol. 39, no. 6, pp. 58-69, Nov.-Dec. 2024. (IF: 6.4, Q1) (AI융합대학원/ITRC/HCRI)
+<font color="ff00ff"><i>IEEE Intelligent Systems</i></font>, vol. 39, no. 6, pp. 58-69, Nov.-Dec. 2024. (IF: 6.4, Q1) (AI융합대학원/BRL3/HCRI)
 
 
 
@@ -863,11 +863,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5MjI0NCwtMTAyMDI3Mzg1MywxOD
-E0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2LC0xOTc1Nzk3
-MTUxLDEzMDg4MjMwOTQsNDg2NzU5NTYwLDExNDMwMTYxOCwtMT
-c5MTQ4MTkyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1Mjgw
-NDYwOSw3OTA3MjA1ODgsLTEzMDUxNjgwMDMsMjM0MjkwMzE5LC
-05MzgyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAwMzgsLTEzNTEx
-NzE0MzldfQ==
+eyJoaXN0b3J5IjpbNjEwOTkzMDk1LC0xNjI2OTIyNDQsLTEwMj
+AyNzM4NTMsMTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5
+NiwtMTk3NTc5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2MCwxMT
+QzMDE2MTgsLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04NzUyNjUx
+MjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4MDAzLD
+IzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNTk1MTQw
+MDM4XX0=
 -->
