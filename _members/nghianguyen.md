@@ -6,7 +6,7 @@ description: PhD Student at PRLab
 importance: 3
 category: work
 group: PhD Students
-group_rank: 3
+group_rank: 53
 teaser: My research interests include pattern recognition, and medical image processing, and time series data analysis...
 profile:
   name: Trong-Nghia Nguyen
