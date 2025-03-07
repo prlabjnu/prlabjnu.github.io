@@ -6,7 +6,7 @@ description: Masters student at PRLab
 importance: 4
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: My research interest is in medical image analysis and pattern recognition...
 profile:
   name: Nguyen Quang Vinh
