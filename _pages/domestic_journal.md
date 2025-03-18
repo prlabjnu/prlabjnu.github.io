@@ -11,6 +11,9 @@ nav: false
 <ol class=space_list_kr>
 
 
+딥러링 기반 실시간 불법 주·정차 운전자 하차 시점 판별 시스템
+
+
 <li>Kolmogortseva Karina, Soo-Hyung Kim, Aera Kim, "A Review of Public Datasets for Keystroke-based Behavior Analysis," 스마트미디어저널, 제13권 제7호, pp. 18-26, 2024년7월. (BRL3/AI융합대학원)
 </li>
 
@@ -515,8 +518,8 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjIyMzE5MSwtODI5NjEyODcxLDE2Nj
-M2OTk1MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5MzgsLTE5NjI1
-MTMzNDEsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQyNDcyLC
-0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbMzYyMjE2NDYwLC04Mjk2MTI4NzEsMTY2Mz
+Y5OTUwNiwtMTg2Njk4MjU0NSwtMTQ0NzMwOTkzOCwtMTk2MjUx
+MzM0MSwtODc1NzkxMDA4LC01Nzk0MTQ1MzEsMTIxNDI0NzIsLT
+IzNzI5NjM5NF19
 -->
