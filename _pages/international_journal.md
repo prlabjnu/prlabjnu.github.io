@@ -11,9 +11,9 @@ nav: false
 
 
 
-<li>, Ngoc Tu Vu, Van Thong Huynh, Seung-won Kim, Ji-eun Shin, Hyung-Jeong Yang, Soo Hyung Kim,
+<li>Ngoc Tu Vu, Van Thong Huynh, Seung-won Kim, Ji-eun Shin, Hyung-Jeong Yang, Soo Hyung Kim,
 "Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals_,"
-<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted.  (IF: 4.9, Q1) (BRL3/AI융합대학원/HCRI) 
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, accepted.  (IF: 4.9, Q1) (BRL3/AI융합대학원) 
 
 
 
@@ -869,11 +869,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTc3ODMxLC0xNjI2OTIyNDQsLTEwMj
-AyNzM4NTMsMTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5
-NiwtMTk3NTc5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2MCwxMT
-QzMDE2MTgsLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04NzUyNjUx
-MjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4MDAzLD
-IzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNTk1MTQw
-MDM4XX0=
+eyJoaXN0b3J5IjpbMTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMD
+IwMjczODUzLDE4MTQ4MjczODksOTk3MTM1NDEwLC01MzA4OTQz
+OTYsLTE5NzU3OTcxNTEsMTMwODgyMzA5NCw0ODY3NTk1NjAsMT
+E0MzAxNjE4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1NywtODc1MjY1
+MTI5LC0xMjUyODA0NjA5LDc5MDcyMDU4OCwtMTMwNTE2ODAwMy
+wyMzQyOTAzMTksLTkzODIwOTUzNiw5ODM1MzAxNjQsLTU5NTE0
+MDAzOF19
 -->
