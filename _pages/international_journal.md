@@ -11,6 +11,12 @@ nav: false
 
 
 
+<li>, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, N.K. Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang,
+"Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals_,"
+<font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, published online (to appear at Vol. 100, 106975, pp. 1- 17, Feb. 2025).  (IF: 4.9, Q1) (BRL3/AI융합대학원/HCRI) 
+
+
+
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, N.K. Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang,
 "Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,"
 <font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, published online (to appear at Vol. 100, 106975, pp. 1- 17, Feb. 2025).  (IF: 4.9, Q1) (BRL3/AI융합대학원/HCRI) 
@@ -863,11 +869,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTkzMDk1LC0xNjI2OTIyNDQsLTEwMj
-AyNzM4NTMsMTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5
-NiwtMTk3NTc5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2MCwxMT
-QzMDE2MTgsLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04NzUyNjUx
-MjksLTEyNTI4MDQ2MDksNzkwNzIwNTg4LC0xMzA1MTY4MDAzLD
-IzNDI5MDMxOSwtOTM4MjA5NTM2LDk4MzUzMDE2NCwtNTk1MTQw
-MDM4XX0=
+eyJoaXN0b3J5IjpbODIzNTYzMDYsLTE2MjY5MjI0NCwtMTAyMD
+I3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2
+LC0xOTc1Nzk3MTUxLDEzMDg4MjMwOTQsNDg2NzU5NTYwLDExND
+MwMTYxOCwtMTc5MTQ4MTkyNiw4MzE0ODkzNTcsLTg3NTI2NTEy
+OSwtMTI1MjgwNDYwOSw3OTA3MjA1ODgsLTEzMDUxNjgwMDMsMj
+M0MjkwMzE5LC05MzgyMDk1MzYsOTgzNTMwMTY0LC01OTUxNDAw
+MzhdfQ==
 -->
