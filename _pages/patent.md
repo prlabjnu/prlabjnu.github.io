@@ -67,6 +67,10 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <ol class=space_list_kr>
 
+<li>김승원, 강세이, 정재준, 김수형, 양형정<br>
+시선(Gaze) 및 손(Hand)를 결합한 RayHand 제어방법을 통해 동작하는 steering 기반 VR(virtual reality) 네비게이션(navigation) 환경을 제공하는 전자 장치 및 그 동작 방법<br>
+10-2783127 2025-03-13<br>
+</li>
 
 <li> 김수형, 트롱기아, 고보건, 이귀상, 양형정, <br>
 생체신호 모니터링에 의한 병원응급환자 신속대응 방법 및 장치<br>
@@ -710,8 +714,8 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM3NDg1NzUsMTAwNDE4MzMyNywtOD
-A2ODYyNDA1LDkwNzk3NDYzLDE1OTYxMjQ2NDksLTcyMzQ0MTAy
-NSw3NTUxNTYwNTcsLTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtND
-gwOTA3MDk4XX0=
+eyJoaXN0b3J5IjpbLTE3ODkwMTAzNTcsLTEzNDM3NDg1NzUsMT
+AwNDE4MzMyNywtODA2ODYyNDA1LDkwNzk3NDYzLDE1OTYxMjQ2
+NDksLTcyMzQ0MTAyNSw3NTUxNTYwNTcsLTEyNDYzMDgzODUsMT
+A2NzI2NTMwMiwtNDgwOTA3MDk4XX0=
 -->
