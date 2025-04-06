@@ -69,7 +69,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <li>김승원, 강세이, 정재준, 김수형, 양형정<br>
 시선(Gaze) 및 손(Hand)을 결합한 RayHand 제어방법을 통해 동작하는 steering 기반 VR(virtual reality) 네비게이션(navigation) 환경을 제공하는 전자 장치 및 그 동작 방법<br>
-<font color="ff00ff">등록번호: 10-2783127(2025-03-13) </font)<br>
+<font color="ff00ff">등록번호: 10-2783127(2025-03-13) </font><br>
 </li>
 
 <li> 김수형, 트롱기아, 고보건, 이귀상, 양형정, <br>
@@ -714,8 +714,8 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzgwNzk3NCwtMTM0Mzc0ODU3NSwxMD
-A0MTgzMzI3LC04MDY4NjI0MDUsOTA3OTc0NjMsMTU5NjEyNDY0
-OSwtNzIzNDQxMDI1LDc1NTE1NjA1NywtMTI0NjMwODM4NSwxMD
-Y3MjY1MzAyLC00ODA5MDcwOThdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQwOTcxNjcsMjA1NzgwNzk3NCwtMT
+M0Mzc0ODU3NSwxMDA0MTgzMzI3LC04MDY4NjI0MDUsOTA3OTc0
+NjMsMTU5NjEyNDY0OSwtNzIzNDQxMDI1LDc1NTE1NjA1NywtMT
+I0NjMwODM4NSwxMDY3MjY1MzAyLC00ODA5MDcwOThdfQ==
 -->
