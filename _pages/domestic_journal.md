@@ -12,7 +12,7 @@ nav: false
 
 
 
-<li>천승환, 김수형, "딥러닝 기반 실시간 불법 주·정차 운전자 하차 시점 판별 시스템," 스마트미디어저널, 제14권 제o호, pp. xx-xx, 2025년 6월. (to appear)
+<li>천승환, 김수형, "딥러닝 기반 실시간 불법 주·정차 운전자 하차 시점 판별 시스템," 스마트미디어저널, 제14권 제4호, pp. xx-xx, 2025년 6월. (게재예정)
 </li>
 
 <li>Kolmogortseva Karina, Soo-Hyung Kim, Aera Kim, "A Review of Public Datasets for Keystroke-based Behavior Analysis," 스마트미디어저널, 제13권 제7호, pp. 18-26, 2024년7월. (BRL3/AI융합대학원)
@@ -519,8 +519,8 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3NjU3MjQyLDIxMzYxOTA2NSwtODI5Nj
-EyODcxLDE2NjM2OTk1MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5
-MzgsLTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLD
-EyMTQyNDcyLC0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjQyMDU1MCwyMTM2MTkwNjUsLTgyOT
+YxMjg3MSwxNjYzNjk5NTA2LC0xODY2OTgyNTQ1LC0xNDQ3MzA5
+OTM4LC0xOTYyNTEzMzQxLC04NzU3OTEwMDgsLTU3OTQxNDUzMS
+wxMjE0MjQ3MiwtMjM3Mjk2Mzk0XX0=
 -->
