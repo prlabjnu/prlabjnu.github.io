@@ -14,7 +14,7 @@ nav: false
 "Emotion Recognition from Typing Patterns with Deep Learning,"
 2025 한국스마트미디어학회&한국전자거래학회 춘계학술대회 발표논문집, pp. 92-93, 
 중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
-(<font color="#ff00ff">★최우수논문상</font>)
+(<font color="#ff00ff">★우수논문상</font>)
 
 <li>Jianxia Xue, 김수형, 김애라, Ngumimi Karen Iyortsuun, 양형정,
 "Development of a Multi-modal Model for Mental Health Diagnosis,"
@@ -1393,9 +1393,9 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4OTUxMzkwLDc1NzQwMTI2OCwzNjgxNT
-UxNDMsLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwt
-NTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2Nz
-MyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFd
-fQ==
+eyJoaXN0b3J5IjpbMTk1MTYzNjQ3Miw3NTc0MDEyNjgsMzY4MT
+U1MTQzLC04NjQ2OTU5ODAsNjU2NzE0NzcwLDEyNjM2MzYwNzQs
+LTU1NzUyNDQzLC0xNDQ3NjkxMjk5LC00OTYyNDA0NDMsLTY1Nj
+czMjA2NSwtNTk5MDk0OTQxLDI5Nzc2Njk0MiwxNjg5MjQ1NjQx
+XX0=
 -->
