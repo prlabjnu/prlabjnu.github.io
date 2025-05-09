@@ -9,6 +9,19 @@ nav: false
 
 <ol class=space_list_kr>
 
+
+<li>Kolmogortseva Karina, 김수형, 김애라,
+"Emotion Recognition from Typing Patterns with Deep Learning,"
+2025 한국스마트미디어학회&한국전자거래학회 춘계학술대회 발표논문집, pp. 92-93, 
+중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
+(<font color="#ff00ff">★최우수논문상</font>)
+
+<li>Jianxia Xue, 김수형, 김애라, Ngumimi Karen Iyortsuun, 양형정
+"Development of a Multi-modal Model for Mental Health Diagnosis,"
+2025 한국스마트미디어학회&한국전자거래학회 춘계학술대회 발표논문집, pp. 88-89,
+중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
+
+
  <li>Kim Ngan Phan, Hyung-Jeong Yang, Jieun Shin, Seungwon Kim, Soo-Hyung Kim,
 "A Review of Text Generation Models for Empathic Responses,"
 ACK 2024 학술발표대회 논문집, 31권, 2호, pp. 545-548, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
@@ -1380,8 +1393,9 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Nj
-k1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0Mywt
-MTQ0NzY5MTI5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OT
-A5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbODE5MjU1NjQ4LDc1NzQwMTI2OCwzNjgxNT
+UxNDMsLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwt
+NTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2Nz
+MyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFd
+fQ==
 -->
