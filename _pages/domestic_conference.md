@@ -16,7 +16,7 @@ nav: false
 중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
 (<font color="#ff00ff">★최우수논문상</font>)
 
-<li>Jianxia Xue, 김수형, 김애라, Ngumimi Karen Iyortsuun, 양형정
+<li>Jianxia Xue, 김수형, 김애라, Ngumimi Karen Iyortsuun, 양형정,
 "Development of a Multi-modal Model for Mental Health Diagnosis,"
 2025 한국스마트미디어학회&한국전자거래학회 춘계학술대회 발표논문집, pp. 88-89,
 중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
@@ -1393,7 +1393,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5MjU1NjQ4LDc1NzQwMTI2OCwzNjgxNT
+eyJoaXN0b3J5IjpbOTg4OTUxMzkwLDc1NzQwMTI2OCwzNjgxNT
 UxNDMsLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwt
 NTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2Nz
 MyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFd
