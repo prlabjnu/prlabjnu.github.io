@@ -12,6 +12,20 @@ nav: false
 
 <ol class=space_list>
 
+<li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
+"Anatomical Attention Alignment Representation for Radiology Report Generation,"
+<i><font color="ff00ff">IEEE International Conference on Image Processing</font></i> (ICIP 2025), Anchorage, USA, Sep. 2025.
+
+
+<li>Thanh Hoang Son Vo, Quang Vinh Nguyen, Soonja Yeom, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
+"ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion,"
+<i><font color="ff00ff">IEEE International Conference on Advanced Visual and Signal-Based Systems</font></i> (AVSS 2025), Tainan, Taiwan, August 2025.
+
+<li>Quang Vinh Nguyen, Thanh Dong Nguyen, Duc Duy Nguyen, Doan Khai Ta, Hai Binh Nguyen, Ji-eun Shin, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
+"A Time-Aware Mental State Space for Multimodal Depression Detection on Social Media,"
+<i><font color="ff00ff">Cognitive Science</font></i> (CogSci 2025), San Francisco, USA, July 2025. (BRL3/AI융합대학원)
+
+
 <li>Tuan-Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Xiaojing Chen, 
 "Emotion Recognition Using RGB and Thermal Image Fusion,"
 <i>Proc. Int. Conf. Smart Media and Applications </i>(SMA2024),  pp. 40-44, Vientiane, Laos, Dec. 2024.  (AI융합대학원/ITRC/BRL3)
@@ -1162,11 +1176,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg1MzczMCwtMTg5OTA2NTE2NCwtNj
-UyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01ODQ5
-Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4NzQ2OT
-IsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2OSwx
-NjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3ODMsMjA1Nz
-c4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4OSwxOTA1MjU0MTE2
-LDM4MTY4MjkzMF19
+eyJoaXN0b3J5IjpbLTEyNjAyNDQ5MzUsMTQyMjg1MzczMCwtMT
+g5OTA2NTE2NCwtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2
+OTg3NzMwLC01ODQ5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3ND
+Q2Miw3MjQ4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwt
+MTczNTYxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNT
+I5MDA3ODMsMjA1Nzc4MjQzOCwtNjI2MTcwNzk4LDM5ODcwODA4
+OSwxOTA1MjU0MTE2XX0=
 -->
