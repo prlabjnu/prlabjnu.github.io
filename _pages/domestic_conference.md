@@ -11,9 +11,13 @@ nav: false
 
 
 
- <li>Kim Ngan Phan, Hyung-Jeong Yang, Jieun Shin, Seungwon Kim, Soo-Hyung Kim,
-"A Review of Text Generation Models for Empathic Responses,"
-ASK 2024 학술발표대회 논문집, 31권, 2호, pp. 545-548, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+ <li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
+"EEG Statistical Analysis of Coherence Patterns in Depression and Machine Classification,"
+ASK 2025 학술발표대회 논문집, 32권 1호, pp. 464-465, 경북대학교, 2025년 5월.
+(<font color="#ff00ff">★우수논문상</font>)
+
+
+
 
 <li>Kolmogortseva Karina, 김수형, 김애라,
 "Emotion Recognition from Typing Patterns with Deep Learning,"
@@ -1398,9 +1402,9 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3MzA4MTA3LDE5NTE2MzY0NzIsNzU3ND
-AxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1NjcxNDc3MCwx
-MjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MTI5OSwtNDk2Mj
-QwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOTc3NjY5NDIs
-MTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbNTAyMzIyMDcsNjk3MzA4MTA3LDE5NTE2Mz
+Y0NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1
+NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MT
+I5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwy
+OTc3NjY5NDIsMTY4OTI0NTY0MV19
 -->
