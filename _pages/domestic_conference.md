@@ -10,6 +10,11 @@ nav: false
 <ol class=space_list_kr>
 
 
+
+ <li>Kim Ngan Phan, Hyung-Jeong Yang, Jieun Shin, Seungwon Kim, Soo-Hyung Kim,
+"A Review of Text Generation Models for Empathic Responses,"
+ASK 2024 학술발표대회 논문집, 31권, 2호, pp. 545-548, 전남대학교, 2024. 11월. (IITP대학원/ITRC/BRL3)
+
 <li>Kolmogortseva Karina, 김수형, 김애라,
 "Emotion Recognition from Typing Patterns with Deep Learning,"
 2025 한국스마트미디어학회&한국전자거래학회 춘계학술대회 발표논문집, pp. 92-93, 
@@ -1393,9 +1398,9 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTYzNjQ3Miw3NTc0MDEyNjgsMzY4MT
-U1MTQzLC04NjQ2OTU5ODAsNjU2NzE0NzcwLDEyNjM2MzYwNzQs
-LTU1NzUyNDQzLC0xNDQ3NjkxMjk5LC00OTYyNDA0NDMsLTY1Nj
-czMjA2NSwtNTk5MDk0OTQxLDI5Nzc2Njk0MiwxNjg5MjQ1NjQx
-XX0=
+eyJoaXN0b3J5IjpbNjk3MzA4MTA3LDE5NTE2MzY0NzIsNzU3ND
+AxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1NjcxNDc3MCwx
+MjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MTI5OSwtNDk2Mj
+QwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOTc3NjY5NDIs
+MTY4OTI0NTY0MV19
 -->
