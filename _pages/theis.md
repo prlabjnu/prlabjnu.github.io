@@ -87,9 +87,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
-<li>Karina, "," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
+<li>Kolmogortseva Karina, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
 
-<li>Battulga, "," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
+<li>Ulziisaikhan Battulga, "Band Specific Denoising Technique," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
 
 
 <li>Quang Nguyen Vinh, "Polyp Detection and Segmentation in Medical Imaging via ADSNet and Polyp-SES Models," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
@@ -283,8 +283,8 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM4NTYxMzQsLTI4MDAwMzQ2NiwtMj
-AxNTQ5MDcxOSwtMjMyODE4NjksODk0MjE0MjA1LDE5MTMxNDEy
-MTUsLTEzNTkxMjI4NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMT
-Q4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbNzcwMDgyNDg3LC0xODIzODU2MTM0LC0yOD
+AwMDM0NjYsLTIwMTU0OTA3MTksLTIzMjgxODY5LDg5NDIxNDIw
+NSwxOTEzMTQxMjE1LC0xMzU5MTIyODY0LC0zNDEyOTA1NTUsMT
+Y5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2NjAwODY4Ml19
 -->
