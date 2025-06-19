@@ -87,8 +87,12 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
+<li>Karina, "," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
 
-<li>Vinh, "Polyp Detection and Segmentation in Medical Imaging via ADSNet and Polyp-SES Models," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
+<li>Battulga, "," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
+
+
+<li>Quang Nguyen Vinh, "Polyp Detection and Segmentation in Medical Imaging via ADSNet and Polyp-SES Models," 전남대학교 인공지능융합학과 석사학위논문, 2025년 2월.</li>
 
 <li>조경호, "2022 개정 교육과정에 따른 고등학교 인공지능 기초 교과서 분석," 
 전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2025년 2월.</li>
@@ -279,8 +283,8 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDAwMzQ2NiwtMjAxNTQ5MDcxOSwtMj
-MyODE4NjksODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4
-NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOT
-Y2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbLTE4MjM4NTYxMzQsLTI4MDAwMzQ2NiwtMj
+AxNTQ5MDcxOSwtMjMyODE4NjksODk0MjE0MjA1LDE5MTMxNDEy
+MTUsLTEzNTkxMjI4NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMT
+Q4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
 -->
