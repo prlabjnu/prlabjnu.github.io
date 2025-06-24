@@ -12,7 +12,7 @@ nav: false
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos,"
-<font color="ff00ff"><i>Computer Vision and Image Understanding</i></font>, Vol. 259, 104429, pp. 1-7, Sep. 2025. (BRL3/AI융합대학원)
+<font color="ff00ff"><i>Computer Vision and Image Understanding</i></font>, Vol. 259, 104429, pp. 1-7, Sep. 2025. (IF: 3.5, Q2) (BRL3/AI융합대학원)
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Seung-won Kim, Ji-eun Shin, Hyung-Jeong Yang, Soo Hyung Kim,
 "Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals,"
@@ -867,11 +867,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNz
-gwNTk4NjkxLC0xNTkyMjcyNzY3LDE1ODgzMDA0MzQsLTE2MjY5
-MjI0NCwtMTAyMDI3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMC
-wtNTMwODk0Mzk2LC0xOTc1Nzk3MTUxLDEzMDg4MjMwOTQsNDg2
-NzU5NTYwLDExNDMwMTYxOCwtMTc5MTQ4MTkyNiw4MzE0ODkzNT
-csLTg3NTI2NTEyOSwtMTI1MjgwNDYwOSw3OTA3MjA1ODgsLTEz
-MDUxNjgwMDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDU5NDQ4OTgsMTI1Mzg4MTY4OSwtMT
+g0MzQ2MzQwOSwtNzgwNTk4NjkxLC0xNTkyMjcyNzY3LDE1ODgz
+MDA0MzQsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1MywxODE0ODI3Mz
+g5LDk5NzEzNTQxMCwtNTMwODk0Mzk2LC0xOTc1Nzk3MTUxLDEz
+MDg4MjMwOTQsNDg2NzU5NTYwLDExNDMwMTYxOCwtMTc5MTQ4MT
+kyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1MjgwNDYwOSw3
+OTA3MjA1ODhdfQ==
 -->
