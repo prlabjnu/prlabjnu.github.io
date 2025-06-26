@@ -9,6 +9,10 @@ nav: false
 
 <ol class=space_list>
 
+<li>Nicholas A. Coles, Soo Hyung Kim, Tu N. Vu, Van-Thong Huynh, et al.,
+"Big team science reveals promises and limitations of machine learning efforts to model physiological markers of affective experience,"
+<font color="ff00ff"><i>Royal Society Open Science</i></font>, Volume 12, Issue 6, 241778, pp. 1-13, June 2025. (IF 2.9, Q2) (BRL3)
+
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos,"
@@ -867,11 +871,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU5NDQ4OTgsMTI1Mzg4MTY4OSwtMT
-g0MzQ2MzQwOSwtNzgwNTk4NjkxLC0xNTkyMjcyNzY3LDE1ODgz
-MDA0MzQsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1MywxODE0ODI3Mz
-g5LDk5NzEzNTQxMCwtNTMwODk0Mzk2LC0xOTc1Nzk3MTUxLDEz
-MDg4MjMwOTQsNDg2NzU5NTYwLDExNDMwMTYxOCwtMTc5MTQ4MT
-kyNiw4MzE0ODkzNTcsLTg3NTI2NTEyOSwtMTI1MjgwNDYwOSw3
-OTA3MjA1ODhdfQ==
+eyJoaXN0b3J5IjpbLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMj
+UzODgxNjg5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1OTIy
+NzI3NjcsMTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMDIwMjczOD
+UzLDE4MTQ4MjczODksOTk3MTM1NDEwLC01MzA4OTQzOTYsLTE5
+NzU3OTcxNTEsMTMwODgyMzA5NCw0ODY3NTk1NjAsMTE0MzAxNj
+E4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1NywtODc1MjY1MTI5LC0x
+MjUyODA0NjA5XX0=
 -->
