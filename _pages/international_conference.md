@@ -22,7 +22,7 @@ nav: false
 
 <li>Quang Vinh Nguyen, Thanh Dong Nguyen, Duc Duy Nguyen, Doan Khai Ta, Hai Binh Nguyen, Ji-eun Shin, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "A Time-Aware Mental State Space for Multimodal Depression Detection on Social Media,"
-<i><font color="ff00ff">Cognitive Science</font></i> (CogSci 2025), San Francisco, USA, July 2025. (BRL3/AI융합대학원) (<font color="0000ff">accepted</font>)
+<i><font color="ff00ff">Proceedings of the 2025 Annual Meeting of the Cognitive Science Society</font></i> (CogSci 2025), Vol. 47, pp. 2136-2143, San Francisco, USA, July 2025. (BRL3/AI융합대학원) (<font color="0000ff">accepted</font>)
 
 
 <li>Tuan-Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Xiaojing Chen, 
@@ -1175,11 +1175,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTY3Mzk4LDE0MjI4NTM3MzAsLTE4OT
-kwNjUxNjQsLTY1MjIxMDkwNiwtMTkyMzcwODkwOSwtMTE4Njk4
-NzczMCwtNTg0OTM5NjIzLDExODk2ODU2NzUsLTExNDcyNzQ0Nj
-IsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3
-MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0NzA4NjYxMCwtMzUyOT
-AwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5OCwzOTg3MDgwODks
-MTkwNTI1NDExNl19
+eyJoaXN0b3J5IjpbMTQ3NTM4ODQ4NSwxNDIyODUzNzMwLC0xOD
+k5MDY1MTY0LC02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5
+ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3Mjc0ND
+YyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMTY5LC0x
+NzM1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2MTAsLTM1Mj
+kwMDc4MywyMDU3NzgyNDM4LC02MjYxNzA3OTgsMzk4NzA4MDg5
+LDE5MDUyNTQxMTZdfQ==
 -->
