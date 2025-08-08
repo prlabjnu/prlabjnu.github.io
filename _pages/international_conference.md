@@ -12,6 +12,16 @@ nav: false
 
 <ol class=space_list>
 
+<li>Ngumimi Karen Iyortsuun, Soonja Yeom, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin, Soo-Hyung Kim,
+"AI-Driven EEG Signal Processing: Advancements in Depression Marker Identification,"
+<i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 29-32, Istanbul, Turkiye, Aug. 2025. (AI융합대학원/ITRC/BRL3)
+
+
+<li>Seung-Hwan Cheon, Soo-Hyung Kim
+"Real-Time Illegal Parking Detection by Using Byte-Track Multi-Object Tracking Framework,"
+<i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 116-119, Istanbul, Turkiye, Aug. 2025. (AI융합대학원)
+
+
 <li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
 "Anatomical Attention Alignment Representation for Radiology Report Generation,"
 <i><font color="ff00ff">IEEE International Conference on Image Processing</font></i> (ICIP 2025), Anchorage, USA, Sep. 2025. (<font color="0000ff">accepted</font>)
@@ -1175,11 +1185,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NzczMTQ4LC0xMjc1NDE0NTkwLDE0Mj
-I4NTM3MzAsLTE4OTkwNjUxNjQsLTY1MjIxMDkwNiwtMTkyMzcw
-ODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5NjIzLDExODk2ODU2Nz
-UsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2
-NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMDA0NzQzMywtMTI0Nz
-A4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0MzgsLTYyNjE3MDc5
-OCwzOTg3MDgwODldfQ==
+eyJoaXN0b3J5IjpbLTEyNjIxNTc4NTQsNDQ0NzczMTQ4LC0xMj
+c1NDE0NTkwLDE0MjI4NTM3MzAsLTE4OTkwNjUxNjQsLTY1MjIx
+MDkwNiwtMTkyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5Nj
+IzLDExODk2ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0x
+Mzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMD
+A0NzQzMywtMTI0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0
+MzgsLTYyNjE3MDc5OF19
 -->
