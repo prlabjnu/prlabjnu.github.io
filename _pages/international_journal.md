@@ -9,10 +9,10 @@ nav: false
 
 <ol class=space_list>
 
-<li>Nicholas A. Coles, Soo Hyung Kim, Tu N. Vu, Van-Thong Huynh, et al.,
-"Big team science reveals promises and limitations of machine learning efforts to model physiological markers of affective experience,"
-<font color="ff00ff"><i>Royal Society Open Science</i></font>, Volume 12, Issue 6, 241778, pp. 1-13, June 2025. (IF 2.9, Q2) (BRL3)
 
+<li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
+"Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
+<font color="ff00ff"><i>Scientific Reports</i></font>, https://doi.org/10.1038/s41598-025-16073-7, August 2025. (AI융합대학원/HCRI) (accepted)
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos,"
@@ -21,6 +21,10 @@ nav: false
 <li>Ngoc Tu Vu, Van Thong Huynh, Seung-won Kim, Ji-eun Shin, Hyung-Jeong Yang, Soo Hyung Kim,
 "Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals,"
 <font color="ff00ff"><i>Biomedical Signal Processing and Control</i></font>, Vol. 107, 107831, pp. 1- 13, Sep. 2025. (IF: 4.9, Q1) (BRL3/AI융합대학원) 
+
+<li>Nicholas A. Coles, Soo Hyung Kim, Tu N. Vu, Van-Thong Huynh, et al.,
+"Big team science reveals promises and limitations of machine learning efforts to model physiological markers of affective experience,"
+<font color="ff00ff"><i>Royal Society Open Science</i></font>, Volume 12, Issue 6, 241778, pp. 1-13, June 2025. (IF 2.9, Q2) (BRL3)
 
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Nhu-Tai Do, N.K. Iyortsuun, Guee-Sang Lee, Hyung-Jeong Yang,
 "Temporal Variational Autoencoder Model for In-hospital Clinical Emergency Prediction,"
@@ -871,11 +875,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMj
-UzODgxNjg5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1OTIy
-NzI3NjcsMTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMDIwMjczOD
-UzLDE4MTQ4MjczODksOTk3MTM1NDEwLC01MzA4OTQzOTYsLTE5
-NzU3OTcxNTEsMTMwODgyMzA5NCw0ODY3NTk1NjAsMTE0MzAxNj
-E4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1NywtODc1MjY1MTI5LC0x
-MjUyODA0NjA5XX0=
+eyJoaXN0b3J5IjpbLTIwOTg2MDgzOTIsLTc0ODQyMzk3NSwtMT
+k0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzNDA5LC03ODA1
+OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNCwtMTYyNjkyMj
+Q0LC0xMDIwMjczODUzLDE4MTQ4MjczODksOTk3MTM1NDEwLC01
+MzA4OTQzOTYsLTE5NzU3OTcxNTEsMTMwODgyMzA5NCw0ODY3NT
+k1NjAsMTE0MzAxNjE4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1Nywt
+ODc1MjY1MTI5XX0=
 -->
