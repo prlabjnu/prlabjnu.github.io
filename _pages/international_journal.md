@@ -12,7 +12,7 @@ nav: false
 
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
 "Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
-<font color="ff00ff"><i>Scientific Reports</i></font>, https://doi.org/10.1038/s41598-025-16073-7, August 2025. (AI융합대학원/HCRI) (accepted)
+<font color="ff00ff"><i>Scientific Reports</i></font>, https://doi.org/10.1038/s41598-025-16073-7, August 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI) (accepted)
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos,"
@@ -875,11 +875,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2MDgzOTIsLTc0ODQyMzk3NSwtMT
-k0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzNDA5LC03ODA1
-OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNCwtMTYyNjkyMj
-Q0LC0xMDIwMjczODUzLDE4MTQ4MjczODksOTk3MTM1NDEwLC01
-MzA4OTQzOTYsLTE5NzU3OTcxNTEsMTMwODgyMzA5NCw0ODY3NT
-k1NjAsMTE0MzAxNjE4LC0xNzkxNDgxOTI2LDgzMTQ4OTM1Nywt
-ODc1MjY1MTI5XX0=
+eyJoaXN0b3J5IjpbMTU3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOT
+Q1OTQ0ODk4LDEyNTM4ODE2ODksLTE4NDM0NjM0MDksLTc4MDU5
+ODY5MSwtMTU5MjI3Mjc2NywxNTg4MzAwNDM0LC0xNjI2OTIyND
+QsLTEwMjAyNzM4NTMsMTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUz
+MDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OT
+U2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYsODMxNDg5MzU3LC04
+NzUyNjUxMjldfQ==
 -->
