@@ -14,7 +14,7 @@ nav: false
 
 <li>Ngumimi Karen Iyortsuun, Soonja Yeom, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin, Soo-Hyung Kim,
 "AI-Driven EEG Signal Processing: Advancements in Depression Marker Identification,"
-<i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 29-32, Istanbul, Turkiye, Aug. 2025. (AI융합대학원/ITRC/BRL3)
+<i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 29-32, Istanbul, Turkiye, Aug. 2025. (AI융합대학원/ITRC/BRL3)  (<font color="0000ff">Best Paper Award</font>)
 
 
 <li>Seung-Hwan Cheon, Soo-Hyung Kim
@@ -1185,11 +1185,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIxNTc4NTQsNDQ0NzczMTQ4LC0xMj
-c1NDE0NTkwLDE0MjI4NTM3MzAsLTE4OTkwNjUxNjQsLTY1MjIx
-MDkwNiwtMTkyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0OTM5Nj
-IzLDExODk2ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0NjkyLC0x
-Mzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjksMTYwMD
-A0NzQzMywtMTI0NzA4NjYxMCwtMzUyOTAwNzgzLDIwNTc3ODI0
-MzgsLTYyNjE3MDc5OF19
+eyJoaXN0b3J5IjpbMTIyMDQ2NjIyMSwtMTI2MjE1Nzg1NCw0ND
+Q3NzMxNDgsLTEyNzU0MTQ1OTAsMTQyMjg1MzczMCwtMTg5OTA2
+NTE2NCwtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3Nz
+MwLC01ODQ5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3
+MjQ4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNT
+YxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3
+ODMsMjA1Nzc4MjQzOF19
 -->
