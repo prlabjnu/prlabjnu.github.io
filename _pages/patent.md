@@ -399,6 +399,10 @@ EEG(뇌파검사) 신호의 대역 특화 잡음 제거 기법<br>
 등록번호: C-2025-032351 (2025. 8. 20) (ITRC)
 </li>
 
+<li>김수형, 양형정, 이명은, 전투안코이,<br>
+인공지능을 활용한 뇌 MRI(자기공명영상) 분류<br>
+등록번호: C-2025-032352 (2025. 8. 20) (ITRC)
+</li>
 
 
 <li>김수형, 양형정, 구미미카렌이요춘<br>
@@ -721,9 +725,9 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1NzE1MDQ4LC0xNDg0MDk3MTY3LDIwNT
-c4MDc5NzQsLTEzNDM3NDg1NzUsMTAwNDE4MzMyNywtODA2ODYy
-NDA1LDkwNzk3NDYzLDE1OTYxMjQ2NDksLTcyMzQ0MTAyNSw3NT
-UxNTYwNTcsLTEyNDYzMDgzODUsMTA2NzI2NTMwMiwtNDgwOTA3
-MDk4XX0=
+eyJoaXN0b3J5IjpbLTg2NTk4MTc1OCw5ODU3MTUwNDgsLTE0OD
+QwOTcxNjcsMjA1NzgwNzk3NCwtMTM0Mzc0ODU3NSwxMDA0MTgz
+MzI3LC04MDY4NjI0MDUsOTA3OTc0NjMsMTU5NjEyNDY0OSwtNz
+IzNDQxMDI1LDc1NTE1NjA1NywtMTI0NjMwODM4NSwxMDY3MjY1
+MzAyLC00ODA5MDcwOThdfQ==
 -->
