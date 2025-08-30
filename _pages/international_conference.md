@@ -23,7 +23,7 @@ nav: false
 <i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 29-32, Istanbul, Turkiye, Aug. 2025. (AI융합대학원/ITRC/BRL3)  (<font color="0000ff">Best Paper Award</font>)
 
 
-<li>Seung-Hwan Cheon, Soo-Hyung Kim
+<li>Seung-Hwan Cheon, Soo-Hyung Kim,
 "Real-Time Illegal Parking Detection by Using Byte-Track Multi-Object Tracking Framework,"
 <i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 116-119, Istanbul, Turkiye, Aug. 2025. (AI융합대학원)
 
@@ -1187,7 +1187,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDA5NTc1NCwxMjIwNDY2MjIxLC0xMj
+eyJoaXN0b3J5IjpbLTY2NzAyOTA3OCwxMjIwNDY2MjIxLC0xMj
 YyMTU3ODU0LDQ0NDc3MzE0OCwtMTI3NTQxNDU5MCwxNDIyODUz
 NzMwLC0xODk5MDY1MTY0LC02NTIyMTA5MDYsLTE5MjM3MDg5MD
 ksLTExODY5ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0x
