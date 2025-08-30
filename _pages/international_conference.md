@@ -12,6 +12,12 @@ nav: false
 
 <ol class=space_list>
 
+
+<li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
+"Anatomical Attention Alignment Representation for Radiology Report Generation,"
+<i><font color="ff00ff">IEEE International Conference on Image Processing</font></i> (ICIP 2025), pp. 2826-2831, Anchorage, USA, Sep. 2025. (AI융합대학원/ITRC/BRL3)
+
+
 <li>Ngumimi Karen Iyortsuun, Soonja Yeom, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin, Soo-Hyung Kim,
 "AI-Driven EEG Signal Processing: Advancements in Depression Marker Identification,"
 <i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 29-32, Istanbul, Turkiye, Aug. 2025. (AI융합대학원/ITRC/BRL3)  (<font color="0000ff">Best Paper Award</font>)
@@ -21,10 +27,6 @@ nav: false
 "Real-Time Illegal Parking Detection by Using Byte-Track Multi-Object Tracking Framework,"
 <i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 116-119, Istanbul, Turkiye, Aug. 2025. (AI융합대학원)
 
-
-<li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
-"Anatomical Attention Alignment Representation for Radiology Report Generation,"
-<i><font color="ff00ff">IEEE International Conference on Image Processing</font></i> (ICIP 2025), Anchorage, USA, Sep. 2025. (<font color="0000ff">accepted</font>)
 
 <li>Thanh Hoang Son Vo, Quang Vinh Nguyen, Soonja Yeom, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion,"
@@ -1185,11 +1187,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDQ2NjIyMSwtMTI2MjE1Nzg1NCw0ND
-Q3NzMxNDgsLTEyNzU0MTQ1OTAsMTQyMjg1MzczMCwtMTg5OTA2
-NTE2NCwtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3Nz
-MwLC01ODQ5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3
-MjQ4NzQ2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNT
-YxNTE2OSwxNjAwMDQ3NDMzLC0xMjQ3MDg2NjEwLC0zNTI5MDA3
-ODMsMjA1Nzc4MjQzOF19
+eyJoaXN0b3J5IjpbMTQwMDA5NTc1NCwxMjIwNDY2MjIxLC0xMj
+YyMTU3ODU0LDQ0NDc3MzE0OCwtMTI3NTQxNDU5MCwxNDIyODUz
+NzMwLC0xODk5MDY1MTY0LC02NTIyMTA5MDYsLTE5MjM3MDg5MD
+ksLTExODY5ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0x
+MTQ3Mjc0NDYyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMj
+UzMTY5LC0xNzM1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2
+MTAsLTM1MjkwMDc4M119
 -->
