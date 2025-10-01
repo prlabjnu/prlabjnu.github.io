@@ -30,7 +30,7 @@ nav: false
 
 <li>Thanh Hoang Son Vo, Quang Vinh Nguyen, Soonja Yeom, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion,"
-<i><font color="ff00ff">IEEE International Conference on Advanced Visual and Signal-Based Systems</font></i> (AVSS 2025), Tainan, Taiwan, August 2025. (<font color="0000ff">accepted</font>)
+<i><font color="ff00ff">IEEE International Conference on Advanced Visual and Signal-Based Systems</font></i> (AVSS 2025), DOI: 10.1109/AVSS65446.2025.11149961, pp. 1-6, Tainan, Taiwan, August 2025.
 
 <li>Quang Vinh Nguyen, Thanh Dong Nguyen, Duc Duy Nguyen, Doan Khai Ta, Hai Binh Nguyen, Ji-eun Shin, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "A Time-Aware Mental State Space for Multimodal Depression Detection on Social Media," 
@@ -1187,11 +1187,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzAyOTA3OCwxMjIwNDY2MjIxLC0xMj
-YyMTU3ODU0LDQ0NDc3MzE0OCwtMTI3NTQxNDU5MCwxNDIyODUz
-NzMwLC0xODk5MDY1MTY0LC02NTIyMTA5MDYsLTE5MjM3MDg5MD
-ksLTExODY5ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0x
-MTQ3Mjc0NDYyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMj
-UzMTY5LC0xNzM1NjE1MTY5LDE2MDAwNDc0MzMsLTEyNDcwODY2
-MTAsLTM1MjkwMDc4M119
+eyJoaXN0b3J5IjpbODY3MDA4NTk5LC02NjcwMjkwNzgsMTIyMD
+Q2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMxNDgsLTEyNzU0MTQ1
+OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NCwtNjUyMjEwOTA2LC
+0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01ODQ5Mzk2MjMsMTE4
+OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4NzQ2OTIsLTEzNzgwMT
+Y5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2OSwxNjAwMDQ3NDMz
+LC0xMjQ3MDg2NjEwXX0=
 -->
