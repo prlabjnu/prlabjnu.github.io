@@ -9,6 +9,9 @@ nav: false
 
 <ol class=space_list_kr>
 
+<li>서성찬, Karina, 김수형,
+"딥러닝기반 키스트로크 다이내믹스 인증 연구 동향과 Typenet 기반 방법론 제안,"
+한국정보보호학회 2025 호남사이버보안컨퍼런스 발표논문집, pp. 143-146, 광주김대중컨벤션센터, 2025년 5월. (IITP대학원/ITRC/BRL3)
 
 
 <li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
@@ -1404,9 +1407,9 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTM5NjgyOCw2OTczMDgxMDcsMTk1MT
-YzNjQ3Miw3NTc0MDEyNjgsMzY4MTU1MTQzLC04NjQ2OTU5ODAs
-NjU2NzE0NzcwLDEyNjM2MzYwNzQsLTU1NzUyNDQzLC0xNDQ3Nj
-kxMjk5LC00OTYyNDA0NDMsLTY1NjczMjA2NSwtNTk5MDk0OTQx
-LDI5Nzc2Njk0MiwxNjg5MjQ1NjQxXX0=
+eyJoaXN0b3J5IjpbLTk4MTMxNjU3MCwtNTAxMzk2ODI4LDY5Nz
+MwODEwNywxOTUxNjM2NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMs
+LTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NT
+I0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1
+LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
