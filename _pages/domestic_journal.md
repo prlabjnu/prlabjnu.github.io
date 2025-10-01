@@ -12,7 +12,7 @@ nav: false
 
 
 <li>천승환, 김수형, "속도 추세 회귀 기법을 이용한 딥러닝 기반 실시간 차량 정지 예측 방법,"
-정보처리학회 논문지, 제14권 제8호, pp. 617-626, 2025년 5월. (AI융합대학원)
+정보처리학회 논문지, 제14권 제8호, pp. 617-626, 2025년 8월. (AI융합대학원)
 </li>
 
 
@@ -524,8 +524,9 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA5ODgxNTEsMjA3NzE2MjU0NiwyMT
-M2MTkwNjUsLTgyOTYxMjg3MSwxNjYzNjk5NTA2LC0xODY2OTgy
-NTQ1LC0xNDQ3MzA5OTM4LC0xOTYyNTEzMzQxLC04NzU3OTEwMD
-gsLTU3OTQxNDUzMSwxMjE0MjQ3MiwtMjM3Mjk2Mzk0XX0=
+eyJoaXN0b3J5IjpbMjAxNjM1MjIzMCwtMTY0MDk4ODE1MSwyMD
+c3MTYyNTQ2LDIxMzYxOTA2NSwtODI5NjEyODcxLDE2NjM2OTk1
+MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5MzgsLTE5NjI1MTMzND
+EsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcy
+OTYzOTRdfQ==
 -->
