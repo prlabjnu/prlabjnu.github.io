@@ -27,10 +27,9 @@ nav: false
 "Real-Time Illegal Parking Detection by Using Byte-Track Multi-Object Tracking Framework,"
 <i>Proc. 14th Int. Conf. Smart Media and Applications</i> (SMA2025), pp. 116-119, Istanbul, Turkiye, Aug. 2025. (AI융합대학원)
 
-
 <li>Thanh Hoang Son Vo, Quang Vinh Nguyen, Soonja Yeom, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion,"
-<i><font color="ff00ff">IEEE International Conference on Advanced Visual and Signal-Based Systems</font></i> (AVSS 2025), DOI: 10.1109/AVSS65446.2025.11149961, pp. 1-6, Tainan, Taiwan, August 2025.
+<i><font color="ff00ff">IEEE International Conference on Advanced Visual and Signal-Based Systems</font></i> (AVSS 2025), DOI: 10.1109/AVSS65446.2025.11149961, pp. 1-6, Tainan, Taiwan, August 2025.  (AI융합대학원/ITRC/BRL3)
 
 <li>Quang Vinh Nguyen, Thanh Dong Nguyen, Duc Duy Nguyen, Doan Khai Ta, Hai Binh Nguyen, Ji-eun Shin, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
 "A Time-Aware Mental State Space for Multimodal Depression Detection on Social Media," 
@@ -1187,7 +1186,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MDA4NTk5LC02NjcwMjkwNzgsMTIyMD
+eyJoaXN0b3J5IjpbMzMzODMxMzIyLC02NjcwMjkwNzgsMTIyMD
 Q2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMxNDgsLTEyNzU0MTQ1
 OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NCwtNjUyMjEwOTA2LC
 0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01ODQ5Mzk2MjMsMTE4
