@@ -9,8 +9,7 @@ nav: false
 
 <ol class=space_list>
 
-<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," <font color="ff00ff"><i>Electronics14</i></font>, no. 20: 3979, pp. 1-22, Oct. 2025. (AI융합대학원/ITRC)
-
+<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," <font color="ff00ff"><i>Electronics</i></font>, Vol. 14, No. 20: 3979, pp. 1-22, Oct. 2025. (AI융합대학원/ITRC)
 
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
 "Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
@@ -877,11 +876,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI3MzU5LDE1NzUyODI5MzgsLTc0OD
-QyMzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYz
-NDA5LC03ODA1OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNC
-wtMTYyNjkyMjQ0LC0xMDIwMjczODUzLDE4MTQ4MjczODksOTk3
-MTM1NDEwLC01MzA4OTQzOTYsLTE5NzU3OTcxNTEsMTMwODgyMz
-A5NCw0ODY3NTk1NjAsMTE0MzAxNjE4LC0xNzkxNDgxOTI2LDgz
-MTQ4OTM1N119
+eyJoaXN0b3J5IjpbLTEyNjQxMTg2NDIsMTU3NTI4MjkzOCwtNz
+Q4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2ODksLTE4NDM0
+NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mjc2NywxNTg4MzAwND
+M0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMsMTgxNDgyNzM4OSw5
+OTcxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4OD
+IzMDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYs
+ODMxNDg5MzU3XX0=
 -->
