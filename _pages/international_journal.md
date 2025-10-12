@@ -9,7 +9,7 @@ nav: false
 
 <ol class=space_list>
 
-<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," _Electronics_  **2025**, _14_, 3979
+<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," 14, no. 20: 3979, pp. 1-22, Oct. 2025. ()
 
 
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
@@ -877,7 +877,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODE4MDA0OSwxNTc1MjgyOTM4LC03ND
+eyJoaXN0b3J5IjpbLTM4NjU4ODI3NiwxNTc1MjgyOTM4LC03ND
 g0MjM5NzUsLTE5NDU5NDQ4OTgsMTI1Mzg4MTY4OSwtMTg0MzQ2
 MzQwOSwtNzgwNTk4NjkxLC0xNTkyMjcyNzY3LDE1ODgzMDA0Mz
 QsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1MywxODE0ODI3Mzg5LDk5
