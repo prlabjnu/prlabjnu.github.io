@@ -9,11 +9,13 @@ nav: false
 
 <ol class=space_list>
 
-<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," <font color="ff00ff"><i>Electronics</i></font>, Vol. 14, No. 20: 3979, pp. 1-22, Oct. 2025. (AI융합대학원/ITRC)
-
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
 "Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
-<font color="ff00ff"><i>Scientific Reports</i></font>, https://doi.org/10.1038/s41598-025-16073-7, August 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI) (accepted)
+<font color="ff00ff"><i>Scientific Reports</i></font>, August 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI) (accepted)
+
+
+<li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," <font color="ff00ff"><i>Electronics</i></font>, Vol. 14, No. 20: 3979, pp. 1-22, Oct. 2025. (AI융합대학원/ITRC)
+
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo Hyung Kim,
 "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos,"
@@ -876,11 +878,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQxMTg2NDIsMTU3NTI4MjkzOCwtNz
-Q4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2ODksLTE4NDM0
-NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mjc2NywxNTg4MzAwND
-M0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMsMTgxNDgyNzM4OSw5
-OTcxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1MSwxMzA4OD
-IzMDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgsLTE3OTE0ODE5MjYs
-ODMxNDg5MzU3XX0=
+eyJoaXN0b3J5IjpbLTEyODUxMTg4MDgsLTEyNjQxMTg2NDIsMT
+U3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4
+ODE2ODksLTE4NDM0NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mj
+c2NywxNTg4MzAwNDM0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMs
+MTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NT
+c5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgs
+LTE3OTE0ODE5MjZdfQ==
 -->
