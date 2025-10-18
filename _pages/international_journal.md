@@ -11,7 +11,7 @@ nav: false
 
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
 "Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
-<font color="ff00ff"><i>Scientific Reports</i></font>, August 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI) (accepted)
+<font color="ff00ff"><i>Scientific Reports</i></font>, Vol. 15, No. 35964, pp. 1-11, Octobet 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI/ITRC)
 
 
 <li> J. Xue, X. Chen, S.-H. Kim, "Adapting Gated Axial Attention for Microscopic Hyperspectral Cholangiocarcinoma Image Segmentation," <font color="ff00ff"><i>Electronics</i></font>, Vol. 14, No. 20: 3979, pp. 1-22, Oct. 2025. (AI융합대학원/ITRC)
@@ -878,11 +878,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxMTg4MDgsLTEyNjQxMTg2NDIsMT
-U3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4
-ODE2ODksLTE4NDM0NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mj
-c2NywxNTg4MzAwNDM0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMs
-MTgxNDgyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NT
-c5NzE1MSwxMzA4ODIzMDk0LDQ4Njc1OTU2MCwxMTQzMDE2MTgs
-LTE3OTE0ODE5MjZdfQ==
+eyJoaXN0b3J5IjpbLTY0MzA5MDkxMSwtMTI2NDExODY0MiwxNT
+c1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OTgsMTI1Mzg4
+MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0xNTkyMjcyNz
+Y3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1Mywx
+ODE0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2LC0xOTc1Nz
+k3MTUxLDEzMDg4MjMwOTQsNDg2NzU5NTYwLDExNDMwMTYxOCwt
+MTc5MTQ4MTkyNl19
 -->
