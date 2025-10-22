@@ -23,8 +23,7 @@ profile:
 
 
 I obtained my BSc degree from the Department of Informatics and Computer Engineering, Tomsk State University of Control Systems and Radioelectronics, Russia in 2020.
-I am currently pursuing my master’s degree at the Department of Artificial Intelligence Convergence, Chonnam National University, South Korea.
-My research focuses on the synergetic collaboration of artificial intelligence and emotional recognition technology to make life better for everyone. I'm really passionate about using the latest AI methods to find practical solutions to important problems that affect our society. This includes finding ways to spot signs of mental health issues, when people are feeling down at work, and also figuring out how we can use technology to keep our public places safe. My big goal is to use AI to make our communities safer and more supportive for all of us.
+And I received my M.S. degree in Artificial Intelligence Convergence from Chonnam National University, South Korea, in February, 2025. Currently, I am a Ph.D. student at the same Department of AI Convergence, Chonnam National University. My research is on keystroke dynamics, affective computing, and human-computer interaction, with an emphasis on personalized emotion recognition systems.
 
 
 
