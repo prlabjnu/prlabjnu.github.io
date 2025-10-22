@@ -3,10 +3,10 @@ layout: meminfo
 title: Battulga Ulziisaikhan 
 lastname: Ulziisaikhan
 description: Masters Student at PRLab
-importance: 43
+importance: 54
 category: work
 group: Masters Students
-group_rank: 43
+group_rank: 54
 teaser: My research interest is in image processing and pattern recognition...
 profile:
   name: Battulga Ulziisaikhan
