@@ -3,10 +3,10 @@ layout: meminfo
 title: Karina Kolmogortseva 
 lastname: Kolmogortseva
 description: Masters Student at PRLab
-importance: 4
+importance: 3
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 3
 teaser: My research interest is the intersection of AI and emotional recognition, with a strong focus on improving public well-being...
 profile:
   name: Karina Kolmogortseva
