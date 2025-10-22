@@ -14,18 +14,22 @@ profile:
   twitter: 
   facebook:
   orcid: 0009-0005-1376-6616
-  github: https://github.com/RC-Sho0
+  github: 
   linkedin: 
   website: 
   align: right
-  image: hung2.jpg
+  image: hung.png
 ---
 
 
+I earned my BSc degree in Computer Vision from the Ho Chi Minh City University of Science in 2023 and subsequently gained two years of experience as an AI Engineer at FPT Software. 
+I am currently an MSc student at the department of AI Convergence, Chonnam National University, and I joined the Pattern Recognition Lab (PRLab) in September 2025. My primary research topic is machine reading.
 
-I graduated from Ho Chi Minh University of Science - 2023, majoring in Computer Vision. I have two years of experience as an AI Engineer at FPT Software, one of Vietnam’s leading technology companies.
-
-
+#### Achievements
+* CJ Code Your Future 2023
+* 2nd Prize – UIT Data Science Challenge 2023
+* Top 5 Team – VietFuture National Award 2023 (Healthcare Track, AI in medical imaging)
+* HCMUS Scientific Research Student Award – Recognized for outstanding research in AI
 
 
 <!--stackedit_data:
