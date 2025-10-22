@@ -10,6 +10,9 @@ nav: false
 
 <ol class=space_list_kr>
 
+<li>Ngumimi Karen Iyortsuun、 김수 형、염 순 자†††⋅양 형 정††⋅김 애 라††††
+주요 우울장애를 위한 향상된 뇌파 일관성 분석: 교차 주파수 비율과 환자 이질성 
+
 
 <li>천승환, 김수형, "속도 추세 회귀 기법을 이용한 딥러닝 기반 실시간 차량 정지 예측 방법,"
 정보처리학회 논문지, 제14권 제8호, pp. 617-626, 2025년 8월. (AI융합대학원)
@@ -524,9 +527,9 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjM1MjIzMCwtMTY0MDk4ODE1MSwyMD
-c3MTYyNTQ2LDIxMzYxOTA2NSwtODI5NjEyODcxLDE2NjM2OTk1
-MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5MzgsLTE5NjI1MTMzND
-EsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcy
-OTYzOTRdfQ==
+eyJoaXN0b3J5IjpbLTYwODAxNTY3MiwyMDE2MzUyMjMwLC0xNj
+QwOTg4MTUxLDIwNzcxNjI1NDYsMjEzNjE5MDY1LC04Mjk2MTI4
+NzEsMTY2MzY5OTUwNiwtMTg2Njk4MjU0NSwtMTQ0NzMwOTkzOC
+wtMTk2MjUxMzM0MSwtODc1NzkxMDA4LC01Nzk0MTQ1MzEsMTIx
+NDI0NzIsLTIzNzI5NjM5NF19
 -->
