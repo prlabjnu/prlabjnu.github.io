@@ -23,7 +23,7 @@ profile:
 
 
 I obtained my BSc degree from the Department of Informatics and Computer Engineering, Tomsk State University of Control Systems and Radioelectronics, Russia in 2020.
-And I received my M.S. degree in Artificial Intelligence Convergence from Chonnam National University, South Korea, in February, 2025. Currently, I am a Ph.D. student at the same Department of AI Convergence, Chonnam National University. My research is on keystroke dynamics, affective computing, and human-computer interaction, with an emphasis on personalized emotion recognition systems.
+And, I received my M.S. degree in Artificial Intelligence Convergence from Chonnam National University, South Korea, in February, 2025. Currently, I am a Ph.D. student at the same Department of AI Convergence, Chonnam National University. My research is on keystroke dynamics, affective computing, and human-computer interaction, with an emphasis on personalized emotion recognition systems.
 
 
 
