@@ -18,7 +18,7 @@ profile:
   linkedin:
   website:
   align: right
-  image: sehee.png
+  image: sehee.jpg
 ---
 
 
