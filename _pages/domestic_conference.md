@@ -9,9 +9,9 @@ nav: false
 
 <ol class=space_list_kr>
 
-<li>서성찬, Karina, 김수형,
+<li>서성찬, 김수형,
 "TypeFormer 기반 키스트로크 다이내믹스 인증에서 Set-Margin Triplet Loss의 성능 분석,"
-2025 한국스마트미디어학회 c계학술대회 발표논문집, pp. 92-93, 중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
+2025 한국스마트미디어학회 추계학술대회 발표논문집, pp. 9-10, 군산대학교, 2025년 11월. (ITRC/BRL3)
 
 <li>서성찬, Karina, 김수형,
 "딥러닝기반 키스트로크 다이내믹스 인증 연구 동향과 Typenet 기반 방법론 제안,"
@@ -1411,7 +1411,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDM3MzIyNCwtMTE1MTM2NzU5MSwtNT
+eyJoaXN0b3J5IjpbMTAzODU3MDQwMywtMTE1MTM2NzU5MSwtNT
 AxMzk2ODI4LDY5NzMwODEwNywxOTUxNjM2NDcyLDc1NzQwMTI2
 OCwzNjgxNTUxNDMsLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2Mz
 YzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0
