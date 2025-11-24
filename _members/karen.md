@@ -28,9 +28,7 @@ I received my B.Sc. degree from the Department of Mathematics and Computer Scien
 * **Best Paper Award**: "AI-Driven EEG Signal PRocessing: Advancements in Depression Marker Identification" - _14th International Conference on Smart Media & Applications (SMA2025)_.
 * **Gold Prize Award**: 2025 Industry-Academic Cooperation and AI Hackathon Competition - _AI-Based Translation system (HANA TALK - WebApp)_.
 * **Best Paper Award**: "EEG Statistical Analysis of Coherence Patterns in Depression and Machine Learning Classification" - _ASK 2025_.
-* **Encouragement Award**: 2023 Artificial Intelligence Intelligence Industry-Academic Cooperation Performance Sharing Project - _Identity Document Masking System (Mobile🥉: 3rd place at the 2023 Artificial Intelligence Industry-Academic Cooperation Performance Sharing Project.
-* **Best Paper Award**: "EEG Statistical Analysis of Coherence Patterns in Depression and Machine Learning Classification" - _ASK 2025_.
-* **Best Paper Award**: "AI-Driven EEG Signal PRocessing: Advancements in Depression Marker Identification" - _14th International Conference on Smart Media & Applications (SMA2025)_.
+* **Encouragement Award**: 2023 Artificial Intelligence Industry-Academic Cooperation Performance Sharing Project - _Identity Document Masking System (MobileApp)_.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzMzM1MjgyNDUsNTEyMTA3MDYsMjE0Nj
