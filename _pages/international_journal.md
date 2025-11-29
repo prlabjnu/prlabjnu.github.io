@@ -14,13 +14,12 @@ nav: false
 "MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine,"
 MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
 
-
 <li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
 "Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
  <font color="ff00ff"><i>IEEE Access</i></font>, accepted in Nov. 2025. (BRL3)
 
-Tuan-Khoi Tran, Soo-Hyung Kim*, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
-"Leveraging Deep Visual Geometry Group Network for Facial Emotion Recognition through RGB and Thermal Image Fusion," <i>Multimedia Tools and Applications</i>, accepted in Nov. 2025. (BRL3)
+<li>Tuan-Khoi Tran, Soo-Hyung Kim*, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
+"Leveraging Deep Visual Geometry Group Network for Facial Emotion Recognition through RGB and Thermal Image Fusion," <i>Multimedia Tools and Applications</i>, accepted in Nov. 2025. (AI융합대학원/BRL3)
 
 
 
@@ -893,11 +892,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4Mjk2MTE4LC0xMzAxMTEyMjc5LC0xMD
-kyNzA0NjA1LDE5NTEwNDk0NDEsLTEyNjQxMTg2NDIsMTU3NTI4
-MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2OD
-ksLTE4NDM0NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mjc2Nywx
-NTg4MzAwNDM0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMsMTgxND
-gyNzM4OSw5OTcxMzU0MTAsLTUzMDg5NDM5NiwtMTk3NTc5NzE1
-MSwxMzA4ODIzMDk0XX0=
+eyJoaXN0b3J5IjpbLTU1MjQ0MTExOSwtMTMwMTExMjI3OSwtMT
+A5MjcwNDYwNSwxOTUxMDQ5NDQxLC0xMjY0MTE4NjQyLDE1NzUy
+ODI5MzgsLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNj
+g5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1OTIyNzI3Njcs
+MTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMDIwMjczODUzLDE4MT
+Q4MjczODksOTk3MTM1NDEwLC01MzA4OTQzOTYsLTE5NzU3OTcx
+NTEsMTMwODgyMzA5NF19
 -->
