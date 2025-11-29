@@ -9,6 +9,16 @@ nav: false
 
 <ol class=space_list>
 
+<li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
+"Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
+ <font color="ff00ff"><i>IEEE Access</i></font>, accepted in Nov. 2025. (BRL3)
+
+<li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho,  and Van-Thong Huynh, 
+"MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine,"
+MIWAI 2025. Lecture Notes in Artificial Intelligence, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
+
+
+
 <li> Vi Thi-Tuong Vo, Hyung-Jeong Yang, Taebum Lee, Soo-Hyung Kim,
 "Pathology image-based predictive model for individual survival time of early-stage lung adenocarcinoma patients,"
 <font color="ff00ff"><i>Scientific Reports</i></font>, Vol. 15, No. 35964, pp. 1-11, October 2025. (IF: 3.9, Q1) (AI융합대학원/HCRI/ITRC)
@@ -876,11 +886,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMT
-I2NDExODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5
-NDQ4OTgsMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4Nj
-kxLC0xNTkyMjcyNzY3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwt
-MTAyMDI3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwOD
-k0Mzk2LC0xOTc1Nzk3MTUxLDEzMDg4MjMwOTQsNDg2NzU5NTYw
-LDExNDMwMTYxOF19
+eyJoaXN0b3J5IjpbMTIwNDY2OTYwMiwtMTA5MjcwNDYwNSwxOT
+UxMDQ5NDQxLC0xMjY0MTE4NjQyLDE1NzUyODI5MzgsLTc0ODQy
+Mzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzND
+A5LC03ODA1OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNCwt
+MTYyNjkyMjQ0LC0xMDIwMjczODUzLDE4MTQ4MjczODksOTk3MT
+M1NDEwLC01MzA4OTQzOTYsLTE5NzU3OTcxNTEsMTMwODgyMzA5
+NCw0ODY3NTk1NjBdfQ==
 -->
