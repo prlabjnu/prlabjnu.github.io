@@ -16,7 +16,7 @@ MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springe
 
 <li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
 "Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
- <font color="ff00ff"><i>IEEE Access</i></font>, accepted in Nov. 2025. (BRL3)
+ <font color="ff00ff"><i>IEEE Access</i></font>, DOI 10.1109/ACCESS.2025.3639083, available in online, Dec. 2025. (BRL3)
 
 <li>Tuan-Khoi Tran, Soo-Hyung Kim*, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
 "Leveraging Deep Visual Geometry Group Network for Facial Emotion Recognition through RGB and Thermal Image Fusion," <i>Multimedia Tools and Applications</i>, accepted in Nov. 2025. (AI융합대학원/BRL3)
@@ -892,11 +892,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjQ0MTExOSwtMTMwMTExMjI3OSwtMT
-A5MjcwNDYwNSwxOTUxMDQ5NDQxLC0xMjY0MTE4NjQyLDE1NzUy
-ODI5MzgsLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNj
-g5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1OTIyNzI3Njcs
-MTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMDIwMjczODUzLDE4MT
-Q4MjczODksOTk3MTM1NDEwLC01MzA4OTQzOTYsLTE5NzU3OTcx
-NTEsMTMwODgyMzA5NF19
+eyJoaXN0b3J5IjpbMjY0OTQ0MDk1LC01NTI0NDExMTksLTEzMD
+ExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2NDEx
+ODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OT
+gsMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0x
+NTkyMjcyNzY3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwtMTAyMD
+I3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2
+LC0xOTc1Nzk3MTUxXX0=
 -->
