@@ -14,6 +14,9 @@ nav: false
 "MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine,"
 MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
 
+
+<li>Lu Y, Yeom S, Maktoubian J, Rahman MM, Kim S-H, "Improve Student Risk Prediction with Clustering Techniques: A Systematic Review,"  <font color="ff00ff"><i>Education Data Mining, Education Sciences, 2025; 15(12):1695. (BRL3)
+
 <li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
 "Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
  <font color="ff00ff"><i>IEEE Access</i></font>, DOI 10.1109/ACCESS.2025.3639083, available in online, Dec. 2025. (BRL3)
@@ -892,11 +895,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0OTQ0MDk1LC01NTI0NDExMTksLTEzMD
-ExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2NDEx
-ODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OT
-gsMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0x
-NTkyMjcyNzY3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwtMTAyMD
-I3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMCwtNTMwODk0Mzk2
-LC0xOTc1Nzk3MTUxXX0=
+eyJoaXN0b3J5IjpbNjU2NzAwNzcsMjY0OTQ0MDk1LC01NTI0ND
+ExMTksLTEzMDExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0
+MSwtMTI2NDExODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLT
+E5NDU5NDQ4OTgsMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgw
+NTk4NjkxLC0xNTkyMjcyNzY3LDE1ODgzMDA0MzQsLTE2MjY5Mj
+I0NCwtMTAyMDI3Mzg1MywxODE0ODI3Mzg5LDk5NzEzNTQxMCwt
+NTMwODk0Mzk2XX0=
 -->
