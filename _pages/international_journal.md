@@ -15,7 +15,7 @@ nav: false
 MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
 
 
-<li>Lu Y, Yeom S, Maktoubian J, Rahman MM, Kim S-H, "Improve Student Risk Prediction with Clustering Techniques: A Systematic Review,"  <font color="ff00ff"><i>Education Data Mining</i></font>, Education Sciences, Vol. 15, No. 12, 1695, Dec. 2025. (BRL3)
+<li>Lu Y, Yeom S, Maktoubian J, Rahman MM, Kim S-H, "Improve Student Risk Prediction with Clustering Techniques: A Systematic Review,"  <i>Education Sciences</i>, Vol. 15, No. 12, 1695, pp. 1-38, Dec. 2025. (BRL3)
 
 <li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
 "Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
@@ -895,11 +895,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjY4OTQwOSwyNjQ5NDQwOTUsLTU1Mj
-Q0MTExOSwtMTMwMTExMjI3OSwtMTA5MjcwNDYwNSwxOTUxMDQ5
-NDQxLC0xMjY0MTE4NjQyLDE1NzUyODI5MzgsLTc0ODQyMzk3NS
-wtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzNDA5LC03
-ODA1OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNCwtMTYyNj
-kyMjQ0LC0xMDIwMjczODUzLDE4MTQ4MjczODksOTk3MTM1NDEw
-LC01MzA4OTQzOTZdfQ==
+eyJoaXN0b3J5IjpbLTI3NDkwMTIyNSwxMzIyNjg5NDA5LDI2ND
+k0NDA5NSwtNTUyNDQxMTE5LC0xMzAxMTEyMjc5LC0xMDkyNzA0
+NjA1LDE5NTEwNDk0NDEsLTEyNjQxMTg2NDIsMTU3NTI4MjkzOC
+wtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2ODksLTE4
+NDM0NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mjc2NywxNTg4Mz
+AwNDM0LC0xNjI2OTIyNDQsLTEwMjAyNzM4NTMsMTgxNDgyNzM4
+OSw5OTcxMzU0MTBdfQ==
 -->
