@@ -10,9 +10,7 @@ nav: false
 <ol class=space_list>
 
 
-<li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho,  and Van-Thong Huynh, 
-"MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine,"
-MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
+<li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho,  and Van-Thong Huynh, "MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine," MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
 
 
 <li>Lu Y, Yeom S, Maktoubian J, Rahman MM, Kim S-H, "Improve Student Risk Prediction with Clustering Techniques: A Systematic Review,"  <i>Education Sciences</i>, Vol. 15, No. 12, 1695, pp. 1-38, Dec. 2025. (BRL3)
@@ -895,11 +893,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzUyMTYyNSwtMjc0OTAxMjI1LDEzMj
-I2ODk0MDksMjY0OTQ0MDk1LC01NTI0NDExMTksLTEzMDExMTIy
-NzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2NDExODY0Mi
-wxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OTgsMTI1
-Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0xNTkyMj
-cyNzY3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1
-MywxODE0ODI3Mzg5XX0=
+eyJoaXN0b3J5IjpbNjM0NTc2NjAzLC0yNzQ5MDEyMjUsMTMyMj
+Y4OTQwOSwyNjQ5NDQwOTUsLTU1MjQ0MTExOSwtMTMwMTExMjI3
+OSwtMTA5MjcwNDYwNSwxOTUxMDQ5NDQxLC0xMjY0MTE4NjQyLD
+E1NzUyODI5MzgsLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMjUz
+ODgxNjg5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1OTIyNz
+I3NjcsMTU4ODMwMDQzNCwtMTYyNjkyMjQ0LC0xMDIwMjczODUz
+LDE4MTQ4MjczODldfQ==
 -->
