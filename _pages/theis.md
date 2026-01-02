@@ -39,7 +39,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 
 
-<li>천승환, "******," 전남대학교 인공지능융합학과 박사학위논문, 2026년 2월.</li>
+<li>천승환, "속도 추세 회귀와 시점 근접 추정 기반의 차량 정지 예측과 운전자 하차 판별 시스템," 전남대학교 전산통계학과 박사학위논문, 2026년 2월.</li>
 
 
 <li>Nguyen Trong Nghia, "Multi-Stage Deep Learning  Framework with Distributed  Contrastive Methods for Rapid Response System," 전남대학교 인공지능융합학과 박사학위논문, 2025년 2월.</li>
@@ -94,7 +94,8 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 
 <li>Son, "******," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
-<li>서성찬, "******," 전남대학교 정보보안융합학과 석사학위논문, 2026년 2월.</li>
+<li>서성찬, "키보드 입력패턴에 기반한 사용자 인증을 위한 TypeFormer와 Set-Margin Triplet Loss," 
+전남대학교 정보보안융합학과 석사학위논문, 2026년 2월.</li>
 
 
 <li>Kolmogortseva Karina, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
@@ -293,7 +294,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNjA4NzAxLC0xOTM3OTQ3MTc1LDc3MD
+eyJoaXN0b3J5IjpbMTk3MTAzODAxLC0xOTM3OTQ3MTc1LDc3MD
 A4MjQ4NywtMTgyMzg1NjEzNCwtMjgwMDAzNDY2LC0yMDE1NDkw
 NzE5LC0yMzI4MTg2OSw4OTQyMTQyMDUsMTkxMzE0MTIxNSwtMT
 M1OTEyMjg2NCwtMzQxMjkwNTU1LDE2OTI4Mzk1MSwxNDg0NzA3
