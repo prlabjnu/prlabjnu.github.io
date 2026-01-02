@@ -92,7 +92,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <li>서성찬, "******," 전남대학교 정보보안융합학과 석사학위논문, 2026년 2월.</li>
 
-<li>Son, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
+<li>Son, "******," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
 
 
 <li>Kolmogortseva Karina, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
@@ -291,9 +291,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ5ODg5MSw3NzAwODI0ODcsLTE4Mj
-M4NTYxMzQsLTI4MDAwMzQ2NiwtMjAxNTQ5MDcxOSwtMjMyODE4
-NjksODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4NjQsLT
-M0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOTY2MDA4
-NjgyXX0=
+eyJoaXN0b3J5IjpbLTE4Nzk4OTM4NjMsNzcwMDgyNDg3LC0xOD
+IzODU2MTM0LC0yODAwMDM0NjYsLTIwMTU0OTA3MTksLTIzMjgx
+ODY5LDg5NDIxNDIwNSwxOTEzMTQxMjE1LC0xMzU5MTIyODY0LC
+0zNDEyOTA1NTUsMTY5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2NjAw
+ODY4Ml19
 -->
