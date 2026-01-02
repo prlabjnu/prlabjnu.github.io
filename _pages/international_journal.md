@@ -9,6 +9,9 @@ nav: false
 
 <ol class=space_list>
 
+<li>Jianxia Xue, Xiaojing Chen, and Soo-Hyung Kim,
+"BiLSTM-FuseNet: A Deep Fusion Model for Denoising High-Noise Near-Infrared Spectra,"
+ <font color="ff00ff"><i>Electronicse</i></font>, Vol. 15, 206, pp. 1-26, Jan. 2026. (AI융합대학원/ITRC)
 
 <li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho,  and Van-Thong Huynh, "MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine," MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 1–12, 2026. (AI융합대학원/ITRC)
 
@@ -893,11 +896,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDE3ODE1OCwtMjc0OTAxMjI1LDEzMj
-I2ODk0MDksMjY0OTQ0MDk1LC01NTI0NDExMTksLTEzMDExMTIy
-NzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2NDExODY0Mi
-wxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OTgsMTI1
-Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0xNTkyMj
-cyNzY3LDE1ODgzMDA0MzQsLTE2MjY5MjI0NCwtMTAyMDI3Mzg1
-MywxODE0ODI3Mzg5XX0=
+eyJoaXN0b3J5IjpbODc3NTUyMjA0LDExODAxNzgxNTgsLTI3ND
+kwMTIyNSwxMzIyNjg5NDA5LDI2NDk0NDA5NSwtNTUyNDQxMTE5
+LC0xMzAxMTEyMjc5LC0xMDkyNzA0NjA1LDE5NTEwNDk0NDEsLT
+EyNjQxMTg2NDIsMTU3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1
+OTQ0ODk4LDEyNTM4ODE2ODksLTE4NDM0NjM0MDksLTc4MDU5OD
+Y5MSwtMTU5MjI3Mjc2NywxNTg4MzAwNDM0LC0xNjI2OTIyNDQs
+LTEwMjAyNzM4NTNdfQ==
 -->
