@@ -15,7 +15,7 @@ nav: false
 
 <li>Jianxia Xue, Xiaojing Chen, and Soo-Hyung Kim,
 "BiLSTM-FuseNet: A Deep Fusion Model for Denoising High-Noise Near-Infrared Spectra,"
- <font color="ff00ff"><i>Electronicse</i></font>, Vol. 15, 206, pp. 1-26, Jan. 2026. (IF 2.6, Q2) (AI융합대학원/ITRC)
+ <font color="ff00ff"><i>Electronics</i></font>, Vol. 15, 206, pp. 1-26, Jan. 2026. (IF 2.6, Q2) (AI융합대학원/ITRC)
 
 
 <li>Lu Y, Yeom S, Maktoubian J, Rahman MM, Kim S-H, "Improve Student Risk Prediction with Clustering Techniques: A Systematic Review,"  <i>Education Sciences</i>, Vol. 15, No. 12, 1695, pp. 1-38, Dec. 2025. (BRL3)
@@ -898,11 +898,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3ND
-kwMTIyNSwxMzIyNjg5NDA5LDI2NDk0NDA5NSwtNTUyNDQxMTE5
-LC0xMzAxMTEyMjc5LC0xMDkyNzA0NjA1LDE5NTEwNDk0NDEsLT
-EyNjQxMTg2NDIsMTU3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1
-OTQ0ODk4LDEyNTM4ODE2ODksLTE4NDM0NjM0MDksLTc4MDU5OD
-Y5MSwtMTU5MjI3Mjc2NywxNTg4MzAwNDM0LC0xNjI2OTIyNDQs
-LTEwMjAyNzM4NTNdfQ==
+eyJoaXN0b3J5IjpbNzQzMjMxOTc0LDM5NzA3MDIwNywxMTgwMT
+c4MTU4LC0yNzQ5MDEyMjUsMTMyMjY4OTQwOSwyNjQ5NDQwOTUs
+LTU1MjQ0MTExOSwtMTMwMTExMjI3OSwtMTA5MjcwNDYwNSwxOT
+UxMDQ5NDQxLC0xMjY0MTE4NjQyLDE1NzUyODI5MzgsLTc0ODQy
+Mzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzND
+A5LC03ODA1OTg2OTEsLTE1OTIyNzI3NjcsMTU4ODMwMDQzNCwt
+MTYyNjkyMjQ0XX0=
 -->
