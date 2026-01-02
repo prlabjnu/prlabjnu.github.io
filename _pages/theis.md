@@ -37,6 +37,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
+<li>천승환, "******," 전남대학교 인공지능융합학과 박사학위논문, 2026년 2월.</li>
+
+
 <li>Nguyen Trong Nghia, "Multi-Stage Deep Learning  Framework with Distributed  Contrastive Methods for Rapid Response System," 전남대학교 인공지능융합학과 박사학위논문, 2025년 2월.</li>
 
 <li>Vo Thi Tuong Vi, "Deep Learning Approaches for Multi-modal Pathology-based Survival Outcome Prediction of Lung Cancer", 전남대학교 인공지능융합학과 박사학위논문, 2024년 8월.</li>
@@ -86,6 +89,11 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 ### Master Thesis guidance 석사학위 논문지도
 
 <ol class=space_list_kr>
+
+<li>서성찬, "******," 전남대학교 정보보안융합학과 석사학위논문, 2026년 2월.</li>
+
+<li>Son, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
+
 
 <li>Kolmogortseva Karina, "Emotion Recognition Using Keystroke Dynamics: A Dual-Input Deep Learning Approach," 전남대학교 인공지능융합학과 석사학위논문, 2025년 8월.</li>
 
@@ -283,8 +291,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMDgyNDg3LC0xODIzODU2MTM0LC0yOD
-AwMDM0NjYsLTIwMTU0OTA3MTksLTIzMjgxODY5LDg5NDIxNDIw
-NSwxOTEzMTQxMjE1LC0xMzU5MTIyODY0LC0zNDEyOTA1NTUsMT
-Y5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2NjAwODY4Ml19
+eyJoaXN0b3J5IjpbMjAwNzQ5ODg5MSw3NzAwODI0ODcsLTE4Mj
+M4NTYxMzQsLTI4MDAwMzQ2NiwtMjAxNTQ5MDcxOSwtMjMyODE4
+NjksODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4NjQsLT
+M0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOTY2MDA4
+NjgyXX0=
 -->
