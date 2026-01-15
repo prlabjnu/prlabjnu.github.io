@@ -93,7 +93,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 <ol class=space_list_kr>
 
 
-<li>Son, "******," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
+<li>Son, "Towards Realistic Audio-Driven Talking Head Generation: From Movement Generation to Emotion-Controllable Synthesis," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
 <li>서성찬, "키보드 입력패턴에 기반한 사용자 인증을 위한 TypeFormer와 Set-Margin Triplet Loss," 
 전남대학교 정보보안융합학과 석사학위논문, 2026년 2월.</li>
 
@@ -294,9 +294,9 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTAzODAxLC0xOTM3OTQ3MTc1LDc3MD
-A4MjQ4NywtMTgyMzg1NjEzNCwtMjgwMDAzNDY2LC0yMDE1NDkw
-NzE5LC0yMzI4MTg2OSw4OTQyMTQyMDUsMTkxMzE0MTIxNSwtMT
-M1OTEyMjg2NCwtMzQxMjkwNTU1LDE2OTI4Mzk1MSwxNDg0NzA3
-NDMwLC05NjYwMDg2ODJdfQ==
+eyJoaXN0b3J5IjpbODcyNzg4NDYxLDE5NzEwMzgwMSwtMTkzNz
+k0NzE3NSw3NzAwODI0ODcsLTE4MjM4NTYxMzQsLTI4MDAwMzQ2
+NiwtMjAxNTQ5MDcxOSwtMjMyODE4NjksODk0MjE0MjA1LDE5MT
+MxNDEyMTUsLTEzNTkxMjI4NjQsLTM0MTI5MDU1NSwxNjkyODM5
+NTEsMTQ4NDcwNzQzMCwtOTY2MDA4NjgyXX0=
 -->
