@@ -67,6 +67,10 @@ Patent Application No.: 7-185824('95. 7. 21),
 
 <ol class=space_list_kr>
 
+<li> 김수형, 요춘 구미미 카렌, 양형정, 김승원, 신지은, <br>
+시암 네트워크를 이용하여 우울증을 탐지하는 뇌파 기반 우울증 탐지 장치 및 그 제어 방법<br>
+출원번호: 10-2026-0002546 (2026.01.07) 
+
 <li> 김수형, 트롱기아, 고보건, 이귀상, 양형정, <br>
 생체신호 모니터링에 의한 병원응급환자 신속대응 시스템 및 방법<br>
 출원번호: 10-2022-0187771 (2022.12.28) <font color="ff00ff">등록번호: 10-2098194(2025-12-31) (의사과학자/AI-Hub)<br>
@@ -726,7 +730,7 @@ CT 영상에서 폐색전증을 검출하기 위한 시스템,<br>
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg5NzEzMjIsLTg2NTk4MTc1OCw5OD
+eyJoaXN0b3J5IjpbLTIxNDM5NDk0MDIsLTg2NTk4MTc1OCw5OD
 U3MTUwNDgsLTE0ODQwOTcxNjcsMjA1NzgwNzk3NCwtMTM0Mzc0
 ODU3NSwxMDA0MTgzMzI3LC04MDY4NjI0MDUsOTA3OTc0NjMsMT
 U5NjEyNDY0OSwtNzIzNDQxMDI1LDc1NTE1NjA1NywtMTI0NjMw
