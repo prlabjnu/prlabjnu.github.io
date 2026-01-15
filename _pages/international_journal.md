@@ -9,6 +9,9 @@ nav: false
 
 <ol class=space_list>
 
+<li>Duy-Phuong Dao, Hyung-Jeong Yang, Soo-Hyung Kim, Sae-Ryung Kang,
+"AttCo: Attention-based co-Learning fusion of deep feature representation for medical image segmentation using multimodality,"
+ <font color="ff00ff"><i>Neural Networks</i></font>, Volume 198, 108572, pp. 1-15, Jan. 2026. (AI융합대학원/ITRC/HCRI)
 
 <li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho,  and Van-Thong Huynh, "MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine," MIWAI 2025. <i>Lecture Notes in Artificial Intelligence</i>, Vol. 16355. Springer, pp. 115–126, Jan. 2026. (AI융합대학원/ITRC)
 
@@ -898,11 +901,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDI1NTMyNyw3NDMyMzE5NzQsMzk3MD
-cwMjA3LDExODAxNzgxNTgsLTI3NDkwMTIyNSwxMzIyNjg5NDA5
-LDI2NDk0NDA5NSwtNTUyNDQxMTE5LC0xMzAxMTEyMjc5LC0xMD
-kyNzA0NjA1LDE5NTEwNDk0NDEsLTEyNjQxMTg2NDIsMTU3NTI4
-MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2OD
-ksLTE4NDM0NjM0MDksLTc4MDU5ODY5MSwtMTU5MjI3Mjc2Nywx
-NTg4MzAwNDM0XX0=
+eyJoaXN0b3J5IjpbMTk4OTkwMzY0NywxMzI0MjU1MzI3LDc0Mz
+IzMTk3NCwzOTcwNzAyMDcsMTE4MDE3ODE1OCwtMjc0OTAxMjI1
+LDEzMjI2ODk0MDksMjY0OTQ0MDk1LC01NTI0NDExMTksLTEzMD
+ExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2NDEx
+ODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5NDU5NDQ4OT
+gsMTI1Mzg4MTY4OSwtMTg0MzQ2MzQwOSwtNzgwNTk4NjkxLC0x
+NTkyMjcyNzY3XX0=
 -->
