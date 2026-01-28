@@ -9,6 +9,10 @@ nav: false
 
 <ol class=space_list>
 
+
+<li>Tuan-Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin, "Leveraging deep visual geometry group network for facial emotion recognition through RGB and thermal image fusion," <i>Multimedia Tools and Applications</i>, 85:11, pp. 1-21, Jan. 2026. (AI융합대학원/BRL3)
+
+
 <li>Duy-Phuong Dao, Hyung-Jeong Yang, Soo-Hyung Kim, Sae-Ryung Kang,
 "AttCo: Attention-based co-Learning fusion of deep feature representation for medical image segmentation using multimodality,"
  <font color="ff00ff"><i>Neural Networks</i></font>, Volume 198, 108572, pp. 1-15, Jan. 2026. (IF 6.3, Q1) (AI융합대학원/ITRC/HCRI)
@@ -26,10 +30,6 @@ nav: false
 <li>Yuan Lu, Soonja Yeom, Riseul Ryu, Soo-Hyung Kim,
 "Course-Level Clustering to Enhance Dropout Prediction Accuracy,"
  <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 13, pp. 204996-205013, Dec. 2025. (IF 3.476, Q2) (BRL3)
-
-<li>Tuan-Khoi Tran, Soo-Hyung Kim*, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
-"Leveraging Deep Visual Geometry Group Network for Facial Emotion Recognition through RGB and Thermal Image Fusion," <i>Multimedia Tools and Applications</i>, accepted in Nov. 2025. (AI융합대학원/BRL3)
-
 
 
 
@@ -901,11 +901,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMjg0OTU4LDEzMjQyNTUzMjcsNzQzMj
-MxOTc0LDM5NzA3MDIwNywxMTgwMTc4MTU4LC0yNzQ5MDEyMjUs
-MTMyMjY4OTQwOSwyNjQ5NDQwOTUsLTU1MjQ0MTExOSwtMTMwMT
-ExMjI3OSwtMTA5MjcwNDYwNSwxOTUxMDQ5NDQxLC0xMjY0MTE4
-NjQyLDE1NzUyODI5MzgsLTc0ODQyMzk3NSwtMTk0NTk0NDg5OC
-wxMjUzODgxNjg5LC0xODQzNDYzNDA5LC03ODA1OTg2OTEsLTE1
-OTIyNzI3NjddfQ==
+eyJoaXN0b3J5IjpbLTE2ODI0OTkyMjcsMzIwMjg0OTU4LDEzMj
+QyNTUzMjcsNzQzMjMxOTc0LDM5NzA3MDIwNywxMTgwMTc4MTU4
+LC0yNzQ5MDEyMjUsMTMyMjY4OTQwOSwyNjQ5NDQwOTUsLTU1Mj
+Q0MTExOSwtMTMwMTExMjI3OSwtMTA5MjcwNDYwNSwxOTUxMDQ5
+NDQxLC0xMjY0MTE4NjQyLDE1NzUyODI5MzgsLTc0ODQyMzk3NS
+wtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0xODQzNDYzNDA5LC03
+ODA1OTg2OTFdfQ==
 -->
