@@ -12,7 +12,7 @@ nav: false
 
 <li>Tuan Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Myung-Eun Lee,
 "Multi-stage wavelet-attention deep learning for brain MRI classification,"
-<i>Multimedia Systems</i>, DOI: 10.1007/s00530-026-02237-6, accepted in Jan. 2021. (AI융합대학원/ITRC)
+ <font color="ff00ff"><i>Multimedia Systems</i></font>, DOI: 10.1007/s00530-026-02237-6, accepted in Jan. 2021. (IF:3.1, Q2) (AI융합대학원/ITRC)
 
 <li>Tuan-Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin, "Leveraging deep visual geometry group network for facial emotion recognition through RGB and thermal image fusion," <i>Multimedia Tools and Applications</i>, 85:11, pp. 1-21, Jan. 2026. (AI융합대학원/BRL3)
 
@@ -905,11 +905,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjYyMDE3MiwtMTY4MjQ5OTIyNywzMj
-AyODQ5NTgsMTMyNDI1NTMyNyw3NDMyMzE5NzQsMzk3MDcwMjA3
-LDExODAxNzgxNTgsLTI3NDkwMTIyNSwxMzIyNjg5NDA5LDI2ND
-k0NDA5NSwtNTUyNDQxMTE5LC0xMzAxMTEyMjc5LC0xMDkyNzA0
-NjA1LDE5NTEwNDk0NDEsLTEyNjQxMTg2NDIsMTU3NTI4MjkzOC
-wtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEyNTM4ODE2ODksLTE4
-NDM0NjM0MDldfQ==
+eyJoaXN0b3J5IjpbLTEzMzE3MTg0OTQsLTE2ODI0OTkyMjcsMz
+IwMjg0OTU4LDEzMjQyNTUzMjcsNzQzMjMxOTc0LDM5NzA3MDIw
+NywxMTgwMTc4MTU4LC0yNzQ5MDEyMjUsMTMyMjY4OTQwOSwyNj
+Q5NDQwOTUsLTU1MjQ0MTExOSwtMTMwMTExMjI3OSwtMTA5Mjcw
+NDYwNSwxOTUxMDQ5NDQxLC0xMjY0MTE4NjQyLDE1NzUyODI5Mz
+gsLTc0ODQyMzk3NSwtMTk0NTk0NDg5OCwxMjUzODgxNjg5LC0x
+ODQzNDYzNDA5XX0=
 -->
