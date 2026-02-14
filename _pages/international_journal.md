@@ -10,6 +10,13 @@ nav: false
 <ol class=space_list>
 
 
+
+<li>Battulga Ulziisaikhan, Trong-Nghia Nguyen, Soo-Hyung Kim,
+"Band2CleanFormer: Integrating Band-Specific Processing and Inter-Band Attention for Robust EEG Denoising,"
+<font color="ff00ff"><i>Biomedical Signal Processing & Control</i></font>, accepted in Feb. 2026. (IF: 4.9 Q2) (AI융합대학원/ITRC/BRL3)
+
+
+
 <li>Tuan Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Myung-Eun Lee,
 "Multi-stage wavelet-attention deep learning for brain MRI classification,"
  <font color="ff00ff"><i>Multimedia Systems</i></font>, DOI: 10.1007/s00530-026-02237-6, accepted in Jan. 2026. (IF:3.1, Q2) (AI융합대학원/ITRC)
@@ -905,11 +912,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTQ0MTU3NSwtMTMzMTcxODQ5NCwtMT
-Y4MjQ5OTIyNywzMjAyODQ5NTgsMTMyNDI1NTMyNyw3NDMyMzE5
-NzQsMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3NDkwMTIyNSwxMz
-IyNjg5NDA5LDI2NDk0NDA5NSwtNTUyNDQxMTE5LC0xMzAxMTEy
-Mjc5LC0xMDkyNzA0NjA1LDE5NTEwNDk0NDEsLTEyNjQxMTg2ND
-IsMTU3NTI4MjkzOCwtNzQ4NDIzOTc1LC0xOTQ1OTQ0ODk4LDEy
-NTM4ODE2ODldfQ==
+eyJoaXN0b3J5IjpbMjEwODgwMzY0OSwxMTExNDQxNTc1LC0xMz
+MxNzE4NDk0LC0xNjgyNDk5MjI3LDMyMDI4NDk1OCwxMzI0MjU1
+MzI3LDc0MzIzMTk3NCwzOTcwNzAyMDcsMTE4MDE3ODE1OCwtMj
+c0OTAxMjI1LDEzMjI2ODk0MDksMjY0OTQ0MDk1LC01NTI0NDEx
+MTksLTEzMDExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MS
+wtMTI2NDExODY0MiwxNTc1MjgyOTM4LC03NDg0MjM5NzUsLTE5
+NDU5NDQ4OThdfQ==
 -->
