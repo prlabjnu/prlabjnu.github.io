@@ -15,7 +15,6 @@ nav: false
 <font color="ff00ff"><i>Biomedical Signal Processing & Control</i></font>, accepted in Feb. 2026. (IF: 4.9 Q2) (AI융합대학원/ITRC/BRL3)
 
 
-
 <li>Tuan Khoi Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Myung-Eun Lee,
 "Multi-stage wavelet-attention deep learning for brain MRI classification,"
  <font color="ff00ff"><i>Multimedia Systems</i></font>, DOI: 10.1007/s00530-026-02237-6, accepted in Jan. 2026. (IF:3.1, Q2) (AI융합대학원/ITRC)
@@ -911,7 +910,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NDM4OTA0LDExMTE0NDE1NzUsLTEzMz
+eyJoaXN0b3J5IjpbMzgzMzA4ODEwLDExMTE0NDE1NzUsLTEzMz
 E3MTg0OTQsLTE2ODI0OTkyMjcsMzIwMjg0OTU4LDEzMjQyNTUz
 MjcsNzQzMjMxOTc0LDM5NzA3MDIwNywxMTgwMTc4MTU4LC0yNz
 Q5MDEyMjUsMTMyMjY4OTQwOSwyNjQ5NDQwOTUsLTU1MjQ0MTEx
