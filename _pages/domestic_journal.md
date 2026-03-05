@@ -10,6 +10,11 @@ nav: false
 
 <ol class=space_list_kr>
 
+
+<li>서성찬, 김수형,
+"키보드 환경에서 키스트로크 인증을 위한 TypeFormer 구조 보완: Soft 마스킹 및 Set-Margin Triplet Loss 적용,"
+스마트미디어저널, 15권 제2호, pp. 87-96, 2026년 2월. (AI융합대학원/ITRC/BRL3)
+
 <li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
 "주요 우울장애를 위한 향상된 뇌파 일관성 분석: 교차 주파수 비율과 환자 이질성," 정보처리학회논문지, 제14권 제10호, pp. 785-795, 2025년 10월. (AI융합대학원/BRL3/ITRC)
 
@@ -526,9 +531,9 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA3MzEyMTUsMjAxNjM1MjIzMCwtMT
-Y0MDk4ODE1MSwyMDc3MTYyNTQ2LDIxMzYxOTA2NSwtODI5NjEy
-ODcxLDE2NjM2OTk1MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5Mz
-gsLTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEy
-MTQyNDcyLC0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NTY4Mjc4NTEsLTEzOTA3MzEyMTUsMj
+AxNjM1MjIzMCwtMTY0MDk4ODE1MSwyMDc3MTYyNTQ2LDIxMzYx
+OTA2NSwtODI5NjEyODcxLDE2NjM2OTk1MDYsLTE4NjY5ODI1ND
+UsLTE0NDczMDk5MzgsLTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwt
+NTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcyOTYzOTRdfQ==
 -->
