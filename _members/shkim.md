@@ -48,13 +48,14 @@ profile:
 | | |
 | 2019. 01 - 2021. 01 <br/>  | 전남대학교 인공지능융합연구소, 소장 |
 | | |
-| 1997. 01 - 현재 <br/>  | 전남대학교 AI융합대학 인공지능학부, 교수 |
-| | |
 | 2019. 09 - 2024. 01 <br/>  | 전남대학교 AI융합대학, 학장 |
 | | |
-| 2024. 02 - 현재 <br/>  | 연구 부총장, 전남대학교 |
+| 2024. 02 - 2025. 02 <br/>  | 연구 부총장, 전남대학교 |
+| | |
+| 1997. 01 - 현재 <br/>  | 전남대학교 AI융합대학 인공지능학부, 교수 |
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTcxODQwMCwtNDU3NDgwMTg2XX0=
+eyJoaXN0b3J5IjpbLTE3OTIyNTkzMTMsMTQ5MTcxODQwMCwtND
+U3NDgwMTg2XX0=
 -->
