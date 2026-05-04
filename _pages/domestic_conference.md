@@ -9,6 +9,14 @@ nav: false
 
 <ol class=space_list_kr>
 
+
+한국스마트미디어학회 & 한국디지털산업학회 2026 춘계학술대회 발표논문집
+<li>Kolmogortseva Karina, 김수형, 김애라,
+"Emotion Recognition from Typing Patterns with Deep Learning,"
+2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 92-93, 
+중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
+(<font color="#ff00ff">★우수논문상</font>)
+
 <li>서성찬, 김수형,
 "TypeFormer 기반 키스트로크 다이내믹스 인증에서 Set-Margin Triplet Loss의 성능 분석,"
 2025 한국스마트미디어학회 추계학술대회 발표논문집, pp. 9-10, 군산대학교, 2025년 11월. (ITRC/BRL3)
@@ -1411,10 +1419,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODU3MDQwMywtMTE1MTM2NzU5MSwtNT
-AxMzk2ODI4LDY5NzMwODEwNywxOTUxNjM2NDcyLDc1NzQwMTI2
-OCwzNjgxNTUxNDMsLTg2NDY5NTk4MCw2NTY3MTQ3NzAsMTI2Mz
-YzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEyOTksLTQ5NjI0MDQ0
-MywtNjU2NzMyMDY1LC01OTkwOTQ5NDEsMjk3NzY2OTQyLDE2OD
-kyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbMTkyOTk1NDMyNywxMDM4NTcwNDAzLC0xMT
+UxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3LDE5NTE2MzY0
+NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1Nj
+cxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MTI5
+OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOT
+c3NjY5NDIsMTY4OTI0NTY0MV19
 -->
