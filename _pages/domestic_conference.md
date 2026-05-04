@@ -10,11 +10,16 @@ nav: false
 <ol class=space_list_kr>
 
 
-한국스마트미디어학회 & 한국디지털산업학회 2026 춘계학술대회 발표논문집
-<li>Kolmogortseva Karina, 김수형, 김애라,
-"Emotion Recognition from Typing Patterns with Deep Learning,"
-2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 92-93, 
-중앙대학교, 2025년 5월. (IITP대학원/ITRC/BRL3)
+<li>Van-Hung Bui, Soo-Hyung Kim,
+"Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
+2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 132-133, 
+가천대학교, 2026년 4월. (IITP대학원/ITRC)
+(<font color="#ff00ff">★우수논문상</font>)
+
+<li>Van-Hung Bui, Soo-Hyung Kim,
+"Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
+2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 132-133, 
+가천대학교, 2026년 4월. (IITP대학원/ITRC)
 (<font color="#ff00ff">★우수논문상</font>)
 
 <li>서성찬, 김수형,
@@ -1419,10 +1424,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTk1NDMyNywxMDM4NTcwNDAzLC0xMT
-UxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3LDE5NTE2MzY0
-NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1Nj
-cxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MTI5
-OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOT
-c3NjY5NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbMTEzMzYxMTU1LDEwMzg1NzA0MDMsLTExNT
+EzNjc1OTEsLTUwMTM5NjgyOCw2OTczMDgxMDcsMTk1MTYzNjQ3
+Miw3NTc0MDEyNjgsMzY4MTU1MTQzLC04NjQ2OTU5ODAsNjU2Nz
+E0NzcwLDEyNjM2MzYwNzQsLTU1NzUyNDQzLC0xNDQ3NjkxMjk5
+LC00OTYyNDA0NDMsLTY1NjczMjA2NSwtNTk5MDk0OTQxLDI5Nz
+c2Njk0MiwxNjg5MjQ1NjQxXX0=
 -->
