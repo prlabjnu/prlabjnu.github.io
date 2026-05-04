@@ -18,13 +18,13 @@ nav: false
 가천대학교, 2026년 4월. (IITP대학원/ITRC)
 (<font color="#ff00ff">★우수논문상</font>)
 
-<li>Daniyarova Altynshash, Soo-Hyung Kim, Hyung-Jeong Yang,
-"Label Efficiency of Contrastive EDA Representations for Cross-Dataset Stress Detection,"
+<li>Daniyarova Altynshash, 김수형, 양형정,
+"대조 학습 기반 EDA 표현의 레이블 효율성 분석: 교차 데이터셋 스트레스 감지 연구,"
 2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 134-135, 
 가천대학교, 2026년 4월. (IITP대학원/ITRC)
 
 <li>다니야로바 알튼샤쉬, 김수형, 양형정,
-"Transformer-based Cross-Dataset Transferability in Contrastive EDA Representations,"
+"Transformer 기반 대조적 EDA 표현의 교차 데이터셋 전이성,"
 JCCI 2026(제36회 통신정보 합동학술대회) 발표논문집, pp. 741-742, 
 여수 디오션리조트, 2026년 4월. (IITP대학원)
 
@@ -1432,7 +1432,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg1ODczNDIsMTAzODU3MDQwMywtMT
+eyJoaXN0b3J5IjpbLTE1MDA2NzEzMjAsMTAzODU3MDQwMywtMT
 E1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEwNywxOTUxNjM2
 NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2NDY5NTk4MCw2NT
 Y3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEy
