@@ -10,15 +10,6 @@ nav: false
 <ol class=space_list_kr>
 
 
-다니야로바 알튼샤쉬, 김수형, 양형정
-
-여수 디오션 리조트
-741-742,
-<li>다니야로바 알튼샤쉬, 김수형, 양형정,
-"Transformer-based Cross-Dataset Transferability in Contrastive EDA Representations,"
-제36회 통신정보 합동학술대회 발표논문집, pp. 134-135, 
-가천대학교, 2026년 4월. (IITP대학원)
-
 
 
 <li>Van-Hung Bui, Soo-Hyung Kim,
@@ -31,6 +22,13 @@ nav: false
 "Label Efficiency of Contrastive EDA Representations for Cross-Dataset Stress Detection,"
 2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 134-135, 
 가천대학교, 2026년 4월. (IITP대학원/ITRC)
+
+<li>다니야로바 알튼샤쉬, 김수형, 양형정,
+"Transformer-based Cross-Dataset Transferability in Contrastive EDA Representations,"
+JCCI 2026(제36회 통신정보 합동학술대회) 발표논문집, pp. 741-742, 
+여수 디오션리조트, 2026년 4월. (IITP대학원)
+
+
 
 <li>서성찬, 김수형,
 "TypeFormer 기반 키스트로크 다이내믹스 인증에서 Set-Margin Triplet Loss의 성능 분석,"
@@ -1434,7 +1432,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg5MzA4MzEsMTAzODU3MDQwMywtMT
+eyJoaXN0b3J5IjpbLTE5MDg1ODczNDIsMTAzODU3MDQwMywtMT
 E1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEwNywxOTUxNjM2
 NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2NDY5NTk4MCw2NT
 Y3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEy
