@@ -10,7 +10,15 @@ nav: false
 <ol class=space_list_kr>
 
 
-제36회 통신정보 합동학술대회
+다니야로바 알튼샤쉬, 김수형, 양형정
+
+여수 디오션 리조트
+741-742,
+<li>다니야로바 알튼샤쉬, 김수형, 양형정,
+"Transformer-based Cross-Dataset Transferability in Contrastive EDA Representations,"
+제36회 통신정보 합동학술대회 발표논문집, pp. 134-135, 
+가천대학교, 2026년 4월. (IITP대학원)
+
 
 
 <li>Van-Hung Bui, Soo-Hyung Kim,
@@ -1426,10 +1434,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODE3NTY0OCwxMDM4NTcwNDAzLC0xMT
-UxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3LDE5NTE2MzY0
-NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Njk1OTgwLDY1Nj
-cxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0MywtMTQ0NzY5MTI5
-OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OTA5NDk0MSwyOT
-c3NjY5NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbLTExNDg5MzA4MzEsMTAzODU3MDQwMywtMT
+E1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEwNywxOTUxNjM2
+NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2NDY5NTk4MCw2NT
+Y3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMsLTE0NDc2OTEy
+OTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OTkwOTQ5NDEsMj
+k3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
