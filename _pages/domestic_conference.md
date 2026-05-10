@@ -10,6 +10,17 @@ nav: false
 <ol class=space_list_kr>
 
 
+<li>Van-Hung Bui, Soo-Hyung Kim,
+"Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
+2026 한국차세대컴퓨팅학회 춘계학술대회 발표논문집, pp. 250-253, 
+조선대학교, 2026년 5월. (IITP대학원/ITRC)
+
+<li>Van-Hung Bui, Soo-Hyung Kim,
+"Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
+2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 132-133, 
+가천대학교, 2026년 4월. (IITP대학원/ITRC)
+
+
 
 
 <li>Van-Hung Bui, Soo-Hyung Kim,
@@ -1432,10 +1443,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTk0NzkwLDEwMzg1NzA0MDMsLTExNT
-EzNjc1OTEsLTUwMTM5NjgyOCw2OTczMDgxMDcsMTk1MTYzNjQ3
-Miw3NTc0MDEyNjgsMzY4MTU1MTQzLC04NjQ2OTU5ODAsNjU2Nz
-E0NzcwLDEyNjM2MzYwNzQsLTU1NzUyNDQzLC0xNDQ3NjkxMjk5
-LC00OTYyNDA0NDMsLTY1NjczMjA2NSwtNTk5MDk0OTQxLDI5Nz
-c2Njk0MiwxNjg5MjQ1NjQxXX0=
+eyJoaXN0b3J5IjpbMjA3NDY0MzYwNywtMjM5OTQ3OTAsMTAzOD
+U3MDQwMywtMTE1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEw
+NywxOTUxNjM2NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2ND
+Y5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMs
+LTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OT
+kwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
