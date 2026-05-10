@@ -10,14 +10,14 @@ nav: false
 <ol class=space_list_kr>
 
 
-<li>Van-Hung Bui, Soo-Hyung Kim,
-"Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
+<li> Daniyarova Altynshash, 김수형*, 양형정,
+"Effect of Multi-Source Contrastive Pretraining on Cross-Dataset EDA Stress Detection,"
 2026 한국차세대컴퓨팅학회 춘계학술대회 발표논문집, pp. 250-253, 
 조선대학교, 2026년 5월. (IITP대학원/ITRC)
 
 <li>Van-Hung Bui, Soo-Hyung Kim,
 "Reconstruction of fMRI Signals from Natural Images via Conditional Flow Matching,"
-2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 132-133, 
+한국정보보호학회 2026 하계학술대회(CICS-S'26) 발표논문집, pp. 132-133, 
 가천대학교, 2026년 4월. (IITP대학원/ITRC)
 
 
@@ -1443,10 +1443,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDY0MzYwNywtMjM5OTQ3OTAsMTAzOD
-U3MDQwMywtMTE1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEw
-NywxOTUxNjM2NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2ND
-Y5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMs
-LTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OT
-kwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbNjU3MzI0ODM1LC0yMzk5NDc5MCwxMDM4NT
+cwNDAzLC0xMTUxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3
+LDE5NTE2MzY0NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Nj
+k1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0Mywt
+MTQ0NzY5MTI5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OT
+A5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0MV19
 -->
