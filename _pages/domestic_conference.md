@@ -9,10 +9,14 @@ nav: false
 
 <ol class=space_list_kr>
 
-Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
+<li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
 "MS-HRVNet: ECG 기반 불안 감지를 위한 다중 스케일 잔차 학습,"
 ASK 2026 학술발표대회 논문집 (33권 1호), pp. 679-682, 라카이 샌드파인, 2026년 5월. (IITP대학원/ITRC)
+(<font color="#ff00ff">★우수논문상</font>)
 
+<li>Kolmogortseva Karina, 김수형, 김애라,
+"키스트로크 동역학 기반 감정 인식을 위한 GAN 기반 데이터 증강,"
+ASK 2026 학술발표대회 논문집 (33권 1호), pp. 753-, 라카이 샌드파인, 2026년 5월. (IITP대학원/ITRC)
 
 
 <li> Daniyarova Altynshash, 김수형*, 양형정,
@@ -1446,10 +1450,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTM2NTMzMywtMjM5OTQ3OTAsMTAzOD
-U3MDQwMywtMTE1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEw
-NywxOTUxNjM2NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2ND
-Y5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMs
-LTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OT
-kwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTMzOTM5MDQsLTIzOTk0NzkwLDEwMz
+g1NzA0MDMsLTExNTEzNjc1OTEsLTUwMTM5NjgyOCw2OTczMDgx
+MDcsMTk1MTYzNjQ3Miw3NTc0MDEyNjgsMzY4MTU1MTQzLC04Nj
+Q2OTU5ODAsNjU2NzE0NzcwLDEyNjM2MzYwNzQsLTU1NzUyNDQz
+LC0xNDQ3NjkxMjk5LC00OTYyNDA0NDMsLTY1NjczMjA2NSwtNT
+k5MDk0OTQxLDI5Nzc2Njk0MiwxNjg5MjQ1NjQxXX0=
 -->
