@@ -32,7 +32,7 @@ nav: false
 2026 한국스마트미디어학회&한국디지털산업학회 춘계학술대회 발표논문집, pp. 134-135, 
 가천대학교, 2026년 4월. (IITP대학원/ITRC)
 
-<li>다니야로바 알튼샤쉬, 김수형, 양형정,
+<li>Daniyarova Altynshash, 김수형, 양형정,
 "Transformer-based Cross-Dataset Transferability in Contrastive EDA Representations,"
 JCCI 2026(제36회 통신정보 합동학술대회) 발표논문집, pp. 741-742, 
 여수 디오션리조트, 2026년 4월. (IITP대학원)
@@ -1441,7 +1441,7 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMzAwMTYxLC0yMzk5NDc5MCwxMDM4NT
+eyJoaXN0b3J5IjpbNDUyNzM0Mjk4LC0yMzk5NDc5MCwxMDM4NT
 cwNDAzLC0xMTUxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3
 LDE5NTE2MzY0NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Nj
 k1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0Mywt
