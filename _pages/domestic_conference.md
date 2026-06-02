@@ -9,6 +9,11 @@ nav: false
 
 <ol class=space_list_kr>
 
+Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
+"MS-HRVNet: ECG 기반 불안 감지를 위한 다중 스케일 잔차 학습,"
+ASK 2026 학술발표대회 논문집 (33권 1호)
+
+
 
 <li> Daniyarova Altynshash, 김수형*, 양형정,
 "Effect of Multi-Source Contrastive Pretraining on Cross-Dataset EDA Stress Detection,"
@@ -1441,10 +1446,10 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNzM0Mjk4LC0yMzk5NDc5MCwxMDM4NT
-cwNDAzLC0xMTUxMzY3NTkxLC01MDEzOTY4MjgsNjk3MzA4MTA3
-LDE5NTE2MzY0NzIsNzU3NDAxMjY4LDM2ODE1NTE0MywtODY0Nj
-k1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0LC01NTc1MjQ0Mywt
-MTQ0NzY5MTI5OSwtNDk2MjQwNDQzLC02NTY3MzIwNjUsLTU5OT
-A5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0MV19
+eyJoaXN0b3J5IjpbMTY4NzA0MjY1NCwtMjM5OTQ3OTAsMTAzOD
+U3MDQwMywtMTE1MTM2NzU5MSwtNTAxMzk2ODI4LDY5NzMwODEw
+NywxOTUxNjM2NDcyLDc1NzQwMTI2OCwzNjgxNTUxNDMsLTg2ND
+Y5NTk4MCw2NTY3MTQ3NzAsMTI2MzYzNjA3NCwtNTU3NTI0NDMs
+LTE0NDc2OTEyOTksLTQ5NjI0MDQ0MywtNjU2NzMyMDY1LC01OT
+kwOTQ5NDEsMjk3NzY2OTQyLDE2ODkyNDU2NDFdfQ==
 -->
