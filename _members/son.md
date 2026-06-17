@@ -3,10 +3,10 @@ layout: meminfo
 title: Vo Thanh Hoang Son
 lastname: Vo
 description: Masters Student at PRLab
-importance: 4
+importance: 54
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: I am an AI Researcher from Vietnam...
 profile:
   name: Thanh Hoang Son
