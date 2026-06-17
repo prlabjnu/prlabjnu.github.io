@@ -3,10 +3,10 @@ layout: meminfo
 title: Seong Chan Seo 
 lastname: Seo
 description: Masters Student at PRLab
-importance: 4
+importance: 54
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: I am currently studying for a master's degree in the information security cooperation program at Chonnam National University...
 profile:
   name: Seong Chan Seo
