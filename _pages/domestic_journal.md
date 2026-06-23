@@ -11,6 +11,11 @@ nav: false
 <ol class=space_list_kr>
 
 
+<li>임지현, 이경민, 김수형, 양형정, 국민석, 
+"딥러닝 기반 교정 발치·비발치 결정 모델에서 학습 데이터 수 증가에 따른 성능 변화 분석,"
+스마트미디어저널, 15권 제2호, pp. 87-96, 2026년 2월. (AI융합대학원/ITRC/BRL3)
+대한치과교정학회 임상저널(CJKAO), vol. 16, No. 2, pp. 164-171, 2026년 6월.
+
 <li>서성찬, 김수형,
 "키보드 환경에서 키스트로크 인증을 위한 TypeFormer 구조 보완: Soft 마스킹 및 Set-Margin Triplet Loss 적용,"
 스마트미디어저널, 15권 제2호, pp. 87-96, 2026년 2월. (AI융합대학원/ITRC/BRL3)
@@ -531,9 +536,10 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY4Mjc4NTEsLTEzOTA3MzEyMTUsMj
-AxNjM1MjIzMCwtMTY0MDk4ODE1MSwyMDc3MTYyNTQ2LDIxMzYx
-OTA2NSwtODI5NjEyODcxLDE2NjM2OTk1MDYsLTE4NjY5ODI1ND
-UsLTE0NDczMDk5MzgsLTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwt
-NTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjYzNTY2NTgsLTE1NTY4Mjc4NTEsLT
+EzOTA3MzEyMTUsMjAxNjM1MjIzMCwtMTY0MDk4ODE1MSwyMDc3
+MTYyNTQ2LDIxMzYxOTA2NSwtODI5NjEyODcxLDE2NjM2OTk1MD
+YsLTE4NjY5ODI1NDUsLTE0NDczMDk5MzgsLTE5NjI1MTMzNDEs
+LTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMTQyNDcyLC0yMzcyOT
+YzOTRdfQ==
 -->
