@@ -97,8 +97,8 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 </li>
 
 <li>Daniyarova Altynshash, "생리신호 기반 스트레스 탐지의 데이터셋 간 분석,"
+전남대학교 인공지능융합학과 석사학위논문, 2026년 8월.
 </li>
-
 
 <li>Hoang-Son Vo, "Towards Realistic Audio-Driven Talking Head Generation: From Movement Generation to Emotion-Controllable Synthesis," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
 
@@ -302,10 +302,10 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY4NjcxNSwtMTY2ODIyMDgsODcyNz
-g4NDYxLDE5NzEwMzgwMSwtMTkzNzk0NzE3NSw3NzAwODI0ODcs
-LTE4MjM4NTYxMzQsLTI4MDAwMzQ2NiwtMjAxNTQ5MDcxOSwtMj
-MyODE4NjksODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4
-NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOT
-Y2MDA4NjgyXX0=
+eyJoaXN0b3J5IjpbMzEyNTgzMzQ1LC0xNjY4MjIwOCw4NzI3OD
+g0NjEsMTk3MTAzODAxLC0xOTM3OTQ3MTc1LDc3MDA4MjQ4Nywt
+MTgyMzg1NjEzNCwtMjgwMDAzNDY2LC0yMDE1NDkwNzE5LC0yMz
+I4MTg2OSw4OTQyMTQyMDUsMTkxMzE0MTIxNSwtMTM1OTEyMjg2
+NCwtMzQxMjkwNTU1LDE2OTI4Mzk1MSwxNDg0NzA3NDMwLC05Nj
+YwMDg2ODJdfQ==
 -->
