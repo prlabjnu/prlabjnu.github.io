@@ -92,6 +92,13 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 <ol class=space_list_kr>
 
+<li>Tran Tuan Khoi, "Wavelet-Attention Technique for Brain Tumor Classification From MRI Images,"
+전남대학교 인공지능융합학과 석사학위논문, 2026년 8월.
+</li>
+
+<li>Daniyarova Altynshash, "생리신호 기반 스트레스 탐지의 데이터셋 간 분석,"
+</li>
+
 
 <li>Hoang-Son Vo, "Towards Realistic Audio-Driven Talking Head Generation: From Movement Generation to Emotion-Controllable Synthesis," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
 
@@ -295,9 +302,10 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgyMjA4LDg3Mjc4ODQ2MSwxOTcxMD
-M4MDEsLTE5Mzc5NDcxNzUsNzcwMDgyNDg3LC0xODIzODU2MTM0
-LC0yODAwMDM0NjYsLTIwMTU0OTA3MTksLTIzMjgxODY5LDg5ND
-IxNDIwNSwxOTEzMTQxMjE1LC0xMzU5MTIyODY0LC0zNDEyOTA1
-NTUsMTY5MjgzOTUxLDE0ODQ3MDc0MzAsLTk2NjAwODY4Ml19
+eyJoaXN0b3J5IjpbLTI5ODY4NjcxNSwtMTY2ODIyMDgsODcyNz
+g4NDYxLDE5NzEwMzgwMSwtMTkzNzk0NzE3NSw3NzAwODI0ODcs
+LTE4MjM4NTYxMzQsLTI4MDAwMzQ2NiwtMjAxNTQ5MDcxOSwtMj
+MyODE4NjksODk0MjE0MjA1LDE5MTMxNDEyMTUsLTEzNTkxMjI4
+NjQsLTM0MTI5MDU1NSwxNjkyODM5NTEsMTQ4NDcwNzQzMCwtOT
+Y2MDA4NjgyXX0=
 -->
