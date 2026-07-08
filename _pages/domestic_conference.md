@@ -9,11 +9,9 @@ nav: false
 
 <ol class=space_list_kr>
 
-<li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
+<li>김세희, 김수형, 양형정, 김애라,
 "저자원 음성 PTSD 탐지를 위한 HuBERT 기반 피험자 단위 집계 전략 비교,"
-ASK 2026 학술발표대회 논문집 (33권 1호), pp. 679-682, 라카이 샌드파인, 2026년 5월. (IITP대학원/ITRC)
-(<font color="#ff00ff">★우수논문상</font>)
-
+2026 한국컴퓨터종합학술대회 논문집 (33권 1호), pp. 679-682, ICC 제주, 2026년 6월. (IITP대학원)
 
 <li>Ngumimi Karen Iyortsuun, 김수형, 염순자, 양형정, 김애라,
 "MS-HRVNet: ECG 기반 불안 감지를 위한 다중 스케일 잔차 학습,"
@@ -1456,11 +1454,11 @@ pp. 205-214, 수안보호텔, 1992년.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTY1NDkwMyw5NDg4ODU1MDAsLTIzOT
-k0NzkwLDEwMzg1NzA0MDMsLTExNTEzNjc1OTEsLTUwMTM5Njgy
-OCw2OTczMDgxMDcsMTk1MTYzNjQ3Miw3NTc0MDEyNjgsMzY4MT
-U1MTQzLC04NjQ2OTU5ODAsNjU2NzE0NzcwLDEyNjM2MzYwNzQs
-LTU1NzUyNDQzLC0xNDQ3NjkxMjk5LC00OTYyNDA0NDMsLTY1Nj
-czMjA2NSwtNTk5MDk0OTQxLDI5Nzc2Njk0MiwxNjg5MjQ1NjQx
-XX0=
+eyJoaXN0b3J5IjpbLTE5MjgwNTk5NTYsOTQ4ODg1NTAwLC0yMz
+k5NDc5MCwxMDM4NTcwNDAzLC0xMTUxMzY3NTkxLC01MDEzOTY4
+MjgsNjk3MzA4MTA3LDE5NTE2MzY0NzIsNzU3NDAxMjY4LDM2OD
+E1NTE0MywtODY0Njk1OTgwLDY1NjcxNDc3MCwxMjYzNjM2MDc0
+LC01NTc1MjQ0MywtMTQ0NzY5MTI5OSwtNDk2MjQwNDQzLC02NT
+Y3MzIwNjUsLTU5OTA5NDk0MSwyOTc3NjY5NDIsMTY4OTI0NTY0
+MV19
 -->
