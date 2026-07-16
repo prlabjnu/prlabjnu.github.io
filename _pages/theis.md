@@ -100,6 +100,13 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 전남대학교 인공지능융합학과 석사학위논문, 2026년 8월.
 </li>
 
+<li>양정원, "국내 초등 인공지능 윤리교육 수업 실행 연구에 관한 체계적 문헌 고찰,"
+전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2026년 8월.
+
+<li>김순원, "AI코스웨어를 활용한 수학 수업이 중학생의 학업정서와 수학적 태도에 미치는 영향,"
+전남대학교 교육대학원 인공지능융합교육전공 석사학위논문, 2026년 8월.
+
+
 <li>Hoang-Son Vo, "Towards Realistic Audio-Driven Talking Head Generation: From Movement Generation to Emotion-Controllable Synthesis," 전남대학교 인공지능융합학과 석사학위논문, 2026년 2월.</li>
 
 <li>서성찬, "키보드 입력패턴에 기반한 사용자 인증을 위한 TypeFormer와 Set-Margin Triplet Loss," 
@@ -302,10 +309,10 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNTgzMzQ1LC0xNjY4MjIwOCw4NzI3OD
-g0NjEsMTk3MTAzODAxLC0xOTM3OTQ3MTc1LDc3MDA4MjQ4Nywt
-MTgyMzg1NjEzNCwtMjgwMDAzNDY2LC0yMDE1NDkwNzE5LC0yMz
-I4MTg2OSw4OTQyMTQyMDUsMTkxMzE0MTIxNSwtMTM1OTEyMjg2
-NCwtMzQxMjkwNTU1LDE2OTI4Mzk1MSwxNDg0NzA3NDMwLC05Nj
-YwMDg2ODJdfQ==
+eyJoaXN0b3J5IjpbMTk0MTc1NjYwNiwzMTI1ODMzNDUsLTE2Nj
+gyMjA4LDg3Mjc4ODQ2MSwxOTcxMDM4MDEsLTE5Mzc5NDcxNzUs
+NzcwMDgyNDg3LC0xODIzODU2MTM0LC0yODAwMDM0NjYsLTIwMT
+U0OTA3MTksLTIzMjgxODY5LDg5NDIxNDIwNSwxOTEzMTQxMjE1
+LC0xMzU5MTIyODY0LC0zNDEyOTA1NTUsMTY5MjgzOTUxLDE0OD
+Q3MDc0MzAsLTk2NjAwODY4Ml19
 -->
