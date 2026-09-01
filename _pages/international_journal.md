@@ -14,6 +14,9 @@ nav: false
 "Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," 
 <font color="ff00ff"><i>IEEE MultiMedia</i></font>, pp. 1-10, doi: 10.1109/MMUL.2026.3724384, Aug. 2026. (IF: 3.0, Q2) (AI융합대학원/BRL3)
 
+
+
+
 <li>Battulga Ulziisaikhan, Trong-Nghia Nguyen, Soo-Hyung Kim,
 "Band2CleanFormer: Integrating Band-Specific Processing and Inter-Band Attention for Robust EEG Denoising,"
 <font color="ff00ff"><i>Biomedical Signal Processing & Control</i></font>, 
@@ -916,7 +919,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTY5MDc3MywtMTU4NjUwNjk1NSwtMj
+eyJoaXN0b3J5IjpbMTgyNTg5ODM3OSwtMTU4NjUwNjk1NSwtMj
 Y0MjA4MjU0LDExMTE0NDE1NzUsLTEzMzE3MTg0OTQsLTE2ODI0
 OTkyMjcsMzIwMjg0OTU4LDEzMjQyNTUzMjcsNzQzMjMxOTc0LD
 M5NzA3MDIwNywxMTgwMTc4MTU4LC0yNzQ5MDEyMjUsMTMyMjY4
