@@ -11,7 +11,8 @@ nav: false
 
 
 <li>Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim, 
-"Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," IEEE MultiMedia, pp. 1-10, doi: 10.1109/MMUL.2026.3724384, Aug. 2026. (IITP대학원/BRL3)
+"Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," 
+<font color="ff00ff"><i>IEEE MultiMedia</i></font>, pp. 1-10, doi: 10.1109/MMUL.2026.3724384, Aug. 2026. (IITP대학원/BRL3)
 
 <li>Battulga Ulziisaikhan, Trong-Nghia Nguyen, Soo-Hyung Kim,
 "Band2CleanFormer: Integrating Band-Specific Processing and Inter-Band Attention for Robust EEG Denoising,"
@@ -915,7 +916,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTgxNzMwNywtMTU4NjUwNjk1NSwtMj
+eyJoaXN0b3J5IjpbMTU3MTAxODQzMSwtMTU4NjUwNjk1NSwtMj
 Y0MjA4MjU0LDExMTE0NDE1NzUsLTEzMzE3MTg0OTQsLTE2ODI0
 OTkyMjcsMzIwMjg0OTU4LDEzMjQyNTUzMjcsNzQzMjMxOTc0LD
 M5NzA3MDIwNywxMTgwMTc4MTU4LC0yNzQ5MDEyMjUsMTMyMjY4
