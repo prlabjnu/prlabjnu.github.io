@@ -11,8 +11,7 @@ nav: false
 
 <li>Karina Kolmogortseva, Soo-Hyung Kim*, Soonja Yeom, Hyung-Jeong Yang, and Seung-Won Kim,
 "Emotion classification from keystroke dynamics: a dual-input deep learning approach,"
-<font color="ff00ff"><i>Scientific Reports</i></font>, DOI: 10.1038/s41598-026-70720-1, 2026. (accepted)  (IF: 4.9, Q1) (AI융합대학원/BRL3/IT)
-
+<font color="ff00ff"><i>Scientific Reports</i></font>, DOI: 10.1038/s41598-026-70720-1, 2026. (IF: 4.9, Q1) (AI융합대학원/BRL3/ITRC) (accepted)  
 
 
 
@@ -923,11 +922,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDA3OTM3OSwxODI1ODk4Mzc5LC0xNT
-g2NTA2OTU1LC0yNjQyMDgyNTQsMTExMTQ0MTU3NSwtMTMzMTcx
-ODQ5NCwtMTY4MjQ5OTIyNywzMjAyODQ5NTgsMTMyNDI1NTMyNy
-w3NDMyMzE5NzQsMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3NDkw
-MTIyNSwxMzIyNjg5NDA5LDI2NDk0NDA5NSwtNTUyNDQxMTE5LC
-0xMzAxMTEyMjc5LC0xMDkyNzA0NjA1LDE5NTEwNDk0NDEsLTEy
-NjQxMTg2NDJdfQ==
+eyJoaXN0b3J5IjpbLTQ1ODk4Mzg0LDE4MjU4OTgzNzksLTE1OD
+Y1MDY5NTUsLTI2NDIwODI1NCwxMTExNDQxNTc1LC0xMzMxNzE4
+NDk0LC0xNjgyNDk5MjI3LDMyMDI4NDk1OCwxMzI0MjU1MzI3LD
+c0MzIzMTk3NCwzOTcwNzAyMDcsMTE4MDE3ODE1OCwtMjc0OTAx
+MjI1LDEzMjI2ODk0MDksMjY0OTQ0MDk1LC01NTI0NDExMTksLT
+EzMDExMTIyNzksLTEwOTI3MDQ2MDUsMTk1MTA0OTQ0MSwtMTI2
+NDExODY0Ml19
 -->
