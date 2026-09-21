@@ -15,7 +15,7 @@ nav: false
 
 <li>Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim, 
 "Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," 
-<font color="ff00ff"><i>IEEE MultiMedia</i></font>, pp. 1-10, doi: 10.1109/MMUL.2026.3724384, Aug. 2026. (IF: 3.0, Q2) (AI융합대학원/BRL3) (accepted)  
+<font color="ff00ff"><i>IEEE MultiMedia</i></font>, DOI: 10.1109/MMUL.2026.3724384, pp. 1-10, Aug. 2026. (IF: 3.0, Q2) (AI융합대학원/BRL3)  
 
 
 
@@ -921,11 +921,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDIzMzMyMCwxODI1ODk4Mzc5LC0xNT
-g2NTA2OTU1LC0yNjQyMDgyNTQsMTExMTQ0MTU3NSwtMTMzMTcx
-ODQ5NCwtMTY4MjQ5OTIyNywzMjAyODQ5NTgsMTMyNDI1NTMyNy
-w3NDMyMzE5NzQsMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3NDkw
-MTIyNSwxMzIyNjg5NDA5LDI2NDk0NDA5NSwtNTUyNDQxMTE5LC
-0xMzAxMTEyMjc5LC0xMDkyNzA0NjA1LDE5NTEwNDk0NDEsLTEy
-NjQxMTg2NDJdfQ==
+eyJoaXN0b3J5IjpbLTkzMjk3NjI1OCwtNTMwMjMzMzIwLDE4Mj
+U4OTgzNzksLTE1ODY1MDY5NTUsLTI2NDIwODI1NCwxMTExNDQx
+NTc1LC0xMzMxNzE4NDk0LC0xNjgyNDk5MjI3LDMyMDI4NDk1OC
+wxMzI0MjU1MzI3LDc0MzIzMTk3NCwzOTcwNzAyMDcsMTE4MDE3
+ODE1OCwtMjc0OTAxMjI1LDEzMjI2ODk0MDksMjY0OTQ0MDk1LC
+01NTI0NDExMTksLTEzMDExMTIyNzksLTEwOTI3MDQ2MDUsMTk1
+MTA0OTQ0MV19
 -->
