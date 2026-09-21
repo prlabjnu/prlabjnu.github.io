@@ -13,7 +13,7 @@ nav: false
 and Soo-Hyung Kim,
 "A Frequency-Band Siamese Network with Dual Functional Connectivity Metrics for Subject-Independent EEG Depression Detection," 
 <font color="ff00ff"><i>IEEE Sensors</i></font>,   
-(IF: 4.9, Q1) (AI융합대학원/BRL3/ITRC) (accepted)  
+(IF: 4.9, Q1) (AI융합대학원/ITRC) (accepted)  
 
 <li>Karina Kolmogortseva, Soo-Hyung Kim*, Soonja Yeom, Hyung-Jeong Yang, and Seung-Won Kim,
 "Emotion classification from keystroke dynamics: a dual-input deep learning approach,"
@@ -927,7 +927,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODY4Nzc1NCwtNTMwMjMzMzIwLDE4Mj
+eyJoaXN0b3J5IjpbMjEzOTc4MDE0NiwtNTMwMjMzMzIwLDE4Mj
 U4OTgzNzksLTE1ODY1MDY5NTUsLTI2NDIwODI1NCwxMTExNDQx
 NTc1LC0xMzMxNzE4NDk0LC0xNjgyNDk5MjI3LDMyMDI4NDk1OC
 wxMzI0MjU1MzI3LDc0MzIzMTk3NCwzOTcwNzAyMDcsMTE4MDE3
