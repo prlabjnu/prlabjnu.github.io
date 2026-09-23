@@ -12,7 +12,7 @@ nav: false
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Soonja Yeom, Hyung-Jeong Yang, Aera Kim,
 "Event-Level Anxiety Detection from Short-Window Heart Rate Variability,"
-스마트미디어저널, 15권 제2호, pp. 87-96, 2026년 2월. (AI융합대학원/ITRC/BRL3)
+Journal of Information Processing Systems, 2026년 ９월. (AI융합대학원/ITRC
 대한치과교정학회 임상저널(CJKAO), vol. 16, No. 2, pp. 164-171, 2026년 6월.
 
 <li>임지현, 이경민, 김수형, 양형정, 국민석, 
@@ -540,10 +540,10 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE4ODE2MDEsLTE5MjYzNTY2NTgsLT
-E1NTY4Mjc4NTEsLTEzOTA3MzEyMTUsMjAxNjM1MjIzMCwtMTY0
-MDk4ODE1MSwyMDc3MTYyNTQ2LDIxMzYxOTA2NSwtODI5NjEyOD
-cxLDE2NjM2OTk1MDYsLTE4NjY5ODI1NDUsLTE0NDczMDk5Mzgs
-LTE5NjI1MTMzNDEsLTg3NTc5MTAwOCwtNTc5NDE0NTMxLDEyMT
-QyNDcyLC0yMzcyOTYzOTRdfQ==
+eyJoaXN0b3J5IjpbLTYyMTUwNjkzMywtMTkyNjM1NjY1OCwtMT
+U1NjgyNzg1MSwtMTM5MDczMTIxNSwyMDE2MzUyMjMwLC0xNjQw
+OTg4MTUxLDIwNzcxNjI1NDYsMjEzNjE5MDY1LC04Mjk2MTI4Nz
+EsMTY2MzY5OTUwNiwtMTg2Njk4MjU0NSwtMTQ0NzMwOTkzOCwt
+MTk2MjUxMzM0MSwtODc1NzkxMDA4LC01Nzk0MTQ1MzEsMTIxND
+I0NzIsLTIzNzI5NjM5NF19
 -->
