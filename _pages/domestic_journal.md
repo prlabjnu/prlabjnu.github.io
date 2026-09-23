@@ -12,12 +12,10 @@ nav: false
 
 <li>Ngumimi Karen Iyortsuun, Soo-Hyung Kim, Soonja Yeom, Hyung-Jeong Yang, Aera Kim,
 "Event-Level Anxiety Detection from Short-Window Heart Rate Variability,"
-Journal of Information Processing Systems, 2026년 ９월. (AI융합대학원/ITRC
-대한치과교정학회 임상저널(CJKAO), vol. 16, No. 2, pp. 164-171, 2026년 6월.
+Journal of Information Processing Systems, 2026년 ９월. (accepted) (AI융합대학원/ITRC)
 
 <li>임지현, 이경민, 김수형, 양형정, 국민석, 
 "딥러닝 기반 교정 발치·비발치 결정 모델에서 학습 데이터 수 증가에 따른 성능 변화 분석,"
-스마트미디어저널, 15권 제2호, pp. 87-96, 2026년 2월. (AI융합대학원/ITRC/BRL3)
 대한치과교정학회 임상저널(CJKAO), vol. 16, No. 2, pp. 164-171, 2026년 6월.
 
 <li>서성찬, 김수형,
@@ -540,10 +538,10 @@ Journal of Korea Multimedia Society, 22권, 12호, pp.1376-1384, 2019년 12월. 
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTUwNjkzMywtMTkyNjM1NjY1OCwtMT
-U1NjgyNzg1MSwtMTM5MDczMTIxNSwyMDE2MzUyMjMwLC0xNjQw
-OTg4MTUxLDIwNzcxNjI1NDYsMjEzNjE5MDY1LC04Mjk2MTI4Nz
-EsMTY2MzY5OTUwNiwtMTg2Njk4MjU0NSwtMTQ0NzMwOTkzOCwt
-MTk2MjUxMzM0MSwtODc1NzkxMDA4LC01Nzk0MTQ1MzEsMTIxND
-I0NzIsLTIzNzI5NjM5NF19
+eyJoaXN0b3J5IjpbMzc5OTk4NDU0LC0xOTI2MzU2NjU4LC0xNT
+U2ODI3ODUxLC0xMzkwNzMxMjE1LDIwMTYzNTIyMzAsLTE2NDA5
+ODgxNTEsMjA3NzE2MjU0NiwyMTM2MTkwNjUsLTgyOTYxMjg3MS
+wxNjYzNjk5NTA2LC0xODY2OTgyNTQ1LC0xNDQ3MzA5OTM4LC0x
+OTYyNTEzMzQxLC04NzU3OTEwMDgsLTU3OTQxNDUzMSwxMjE0Mj
+Q3MiwtMjM3Mjk2Mzk0XX0=
 -->
