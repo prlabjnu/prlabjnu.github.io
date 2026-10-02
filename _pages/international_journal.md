@@ -12,7 +12,7 @@ nav: false
 <li>Ngumimi Karen Iyortsuun, Soonja Yeom, Min Jhon, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
 and Soo-Hyung Kim,
 "A Frequency-Band Siamese Network with Dual Functional Connectivity Metrics for Subject-Independent EEG Depression Detection," 
-<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  doi: 10.1109/JSEN.2026.3737137, pp. 1-12, Sep. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC) (online)  
+<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  113631, doi: 10.1109/JSEN.2026.3737137, pp. 1-13, Sep. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC) (online)  
 
 <li>Karina Kolmogortseva, Soo-Hyung Kim*, Soonja Yeom, Hyung-Jeong Yang, and Seung-Won Kim,
 "Emotion classification from keystroke dynamics: a dual-input deep learning approach,"
@@ -926,7 +926,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjAzMzU3LDE1OTk2MTE0MzAsMTQ4MT
+eyJoaXN0b3J5IjpbNzM3NTk4ODM1LDE1OTk2MTE0MzAsMTQ4MT
 Y3MjkxNywtNTMwMjMzMzIwLDE4MjU4OTgzNzksLTE1ODY1MDY5
 NTUsLTI2NDIwODI1NCwxMTExNDQxNTc1LC0xMzMxNzE4NDk0LC
 0xNjgyNDk5MjI3LDMyMDI4NDk1OCwxMzI0MjU1MzI3LDc0MzIz
