@@ -18,7 +18,7 @@ profile:
   linkedin: 
   website: 
   align: right
-  image: .jpg
+  image: hyeongeon.jpg
 ---
 
 I received my B.S. degree from the Department of Electrical Engineering, Dongshin University, South Korea, in 2024. I am currently an M.S. student in the Department of Artificial Intelligence Convergence at Chonnam National University, South Korea. I joined the Pattern Recognition Laboratory in September 2026, and my research interests include emotion recognition and pattern recognition.
