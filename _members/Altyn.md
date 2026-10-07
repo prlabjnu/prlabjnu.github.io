@@ -3,7 +3,7 @@ layout: meminfo
 title: Daniyarova Altynshash
 lastname: Daniyarova
 description: Masters Student at PRLab
-importance: 4
+importance: 54
 category: work
 group: Masters Students
 group_rank: 54
