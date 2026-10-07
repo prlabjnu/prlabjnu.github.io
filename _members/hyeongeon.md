@@ -14,7 +14,7 @@ profile:
   twitter: 
   facebook:
   orcid: 0009-0006-8837-7225
-  github: https://github.com/Altynshashh
+  github:
   linkedin: 
   website: 
   align: right
