@@ -11,12 +11,12 @@ teaser: My research interest is in emotion recognition and micro action recognit
 profile:
   name: Hyeongeon Lee
   email: gusrjsdl94@jnu.ac.kr
-  twitter: 
+  twitter:
   facebook:
   orcid: 0009-0006-8837-7225
   github:
-  linkedin: 
-  website: 
+  linkedin:
+  website:
   align: right
   image: hyeongeon.jpg
 ---
