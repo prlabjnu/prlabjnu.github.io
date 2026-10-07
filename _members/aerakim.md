@@ -16,9 +16,8 @@ profile:
   email:
   orcid:
 ---
+I received my B.E. degree from the Department of Biotechnology at Chonnam National University in 2013. Currently, I am working in the Department of Artificial Intelligence Convergence as a research staff.
 
-
-Something about me
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMwNTAwOTA5OF19
 -->
