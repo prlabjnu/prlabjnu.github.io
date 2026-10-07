@@ -6,7 +6,7 @@ description: Masters Student at PRLab
 importance: 4
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: Interested in AI for well-being, including burnout prediction, pattern recognition, and multimodal learning.
 profile:
   name: Daniyarova Altynshash
