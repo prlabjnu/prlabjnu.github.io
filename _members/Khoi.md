@@ -3,10 +3,10 @@ layout: meminfo
 title: Tran Tuan Khoi
 lastname: Tran
 description: Masters student at PRLab
-importance: 4
+importance: 54
 category: work
 group: Masters Students
-group_rank: 4
+group_rank: 54
 teaser: My research interest is in thermal imaging for facial recognition...
 profile:
   name: Tran Tuan Khoi
