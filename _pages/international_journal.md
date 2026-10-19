@@ -12,7 +12,7 @@ nav: false
 
 <li>Kim Ngan Phan , Soonja Yeom, Hyung-Jeong Yang, Seungwon Kim, Ji-eun Shin and Soo-Hyung Kim,
 "CoMA: Condition-Modulated Context–Knowledge Attention for Empathetic Dialogue Generation,"
-<font color="ff00ff"><i>Applied Science</i></font>, 16, 10009, pp. 1-22, Oct. 2026. (IF: 2.838) (AI융합대학원/BRL3/ITRC)
+<font color="ff00ff"><i>Applied Science</i></font>, 16, 10009, pp. 1-22, Oct. 2026. (IF: 2.9, Q2) (AI융합대학원/ITRC)
 
 <li>Karina Kolmogortseva, Soo-Hyung Kim*, Soonja Yeom, Hyung-Jeong Yang, and Seung-Won Kim,
 "Emotion classification from keystroke dynamics: a dual-input deep learning approach,"
@@ -932,11 +932,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEwNDcyOTksLTIzMzM5NTExMCw3Mz
-c1OTg4MzUsMTU5OTYxMTQzMCwxNDgxNjcyOTE3LC01MzAyMzMz
-MjAsMTgyNTg5ODM3OSwtMTU4NjUwNjk1NSwtMjY0MjA4MjU0LD
-ExMTE0NDE1NzUsLTEzMzE3MTg0OTQsLTE2ODI0OTkyMjcsMzIw
-Mjg0OTU4LDEzMjQyNTUzMjcsNzQzMjMxOTc0LDM5NzA3MDIwNy
-wxMTgwMTc4MTU4LC0yNzQ5MDEyMjUsMTMyMjY4OTQwOSwyNjQ5
-NDQwOTVdfQ==
+eyJoaXN0b3J5IjpbMTA0NTMzNjM0MiwtMTYyMTA0NzI5OSwtMj
+MzMzk1MTEwLDczNzU5ODgzNSwxNTk5NjExNDMwLDE0ODE2NzI5
+MTcsLTUzMDIzMzMyMCwxODI1ODk4Mzc5LC0xNTg2NTA2OTU1LC
+0yNjQyMDgyNTQsMTExMTQ0MTU3NSwtMTMzMTcxODQ5NCwtMTY4
+MjQ5OTIyNywzMjAyODQ5NTgsMTMyNDI1NTMyNyw3NDMyMzE5Nz
+QsMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3NDkwMTIyNSwxMzIy
+Njg5NDA5XX0=
 -->
