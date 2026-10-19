@@ -12,12 +12,14 @@ profile:
   name: Aera Kim
   position:
   align: right
-  image: aera_kim.png
+  image: aera_kimvatar_df.png
   email:
   orcid:
 ---
-I received my B.E. degree from the Department of Biotechnology at Chonnam National University in 2013. Currently, I am working in the Department of Artificial Intelligence Convergence as a research staff.
+I received my B.E. degree fr
 
+Som ethe Department of Biotechnology at Chonnam National University in 2013. Currently, I am working in the Department of Artificial Intelligence Convergence as a research staff.
+ing about me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTAwOTA5OF19
+eyJoaXN0b3J5IjpbNjkwMzgzNzkyLC0zMDUwMDkwOThdfQ==
 -->
