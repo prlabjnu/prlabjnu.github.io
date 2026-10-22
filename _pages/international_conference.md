@@ -12,12 +12,22 @@ nav: false
 
 <ol class=space_list>
 
-MultiFlow: Vision-Driven Multimodal fMRI
-Encoding via Stimulus-Informed Source
-Flow Matching
 
 <li>Hoang-Son Vo, Karina Kolmogortseva, Ngumimi Karen Iyortsuun, Hong-Duyen Vo, Soo-Hyung Kim, "GlobalizeEd: An Editable Multimodal Translation Pipeline for Cross-Lingual Academic Lectures,"
 ACM Multimedia Asia, Hanoi, Dec. 2026.  (AI융합대학원/ITRC)
+
+<li>
+"MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
+(BMVC 2026), Nov. 2026. (AI융합대학원/ITRC)
+
+
+<li> 
+(MICCAI 2026), Oct. 2026. 
+
+
+
+
+
 
 <li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
 "Anatomical Attention Alignment Representation for Radiology Report Generation,"
@@ -1192,7 +1202,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODcwNDIxNywzMzM4MzEzMjIsLTY2Nz
+eyJoaXN0b3J5IjpbLTQ4NjU3NDYyMywzMzM4MzEzMjIsLTY2Nz
 AyOTA3OCwxMjIwNDY2MjIxLC0xMjYyMTU3ODU0LDQ0NDc3MzE0
 OCwtMTI3NTQxNDU5MCwxNDIyODUzNzMwLC0xODk5MDY1MTY0LC
 02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLTU4
