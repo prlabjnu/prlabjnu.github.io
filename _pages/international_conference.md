@@ -21,7 +21,10 @@ nav: false
 <i><font color="ff00ff">37th British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC) (accepted)
 
 <li> 
-(MICCAI 2026), Oct. 2026. 
+Conditional Flow Matching for Local Synthesis of
+Healthy Brain Tissue in 3D MRI
+Bui Van Hung, Dang Thanh Vu, Hoang-Son Vo1, Mai Duc Minh Huy3, Mai
+Tien Dung4, Quoc-Tien Nguyen1, Hyung-Jeong Yang1, and Soo-Hyung Kim1
 
 
 
@@ -1201,11 +1204,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgxMTA4NzQsMzMzODMxMzIyLC02Nj
-cwMjkwNzgsMTIyMDQ2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMx
-NDgsLTEyNzU0MTQ1OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NC
-wtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01
-ODQ5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4Nz
-Q2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2
-OSwxNjAwMDQ3NDMzXX0=
+eyJoaXN0b3J5IjpbNTEyNDUxMzMyLC0xMjc4MTEwODc0LDMzMz
+gzMTMyMiwtNjY3MDI5MDc4LDEyMjA0NjYyMjEsLTEyNjIxNTc4
+NTQsNDQ0NzczMTQ4LC0xMjc1NDE0NTkwLDE0MjI4NTM3MzAsLT
+E4OTkwNjUxNjQsLTY1MjIxMDkwNiwtMTkyMzcwODkwOSwtMTE4
+Njk4NzczMCwtNTg0OTM5NjIzLDExODk2ODU2NzUsLTExNDcyNz
+Q0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjks
+LTE3MzU2MTUxNjldfQ==
 -->
