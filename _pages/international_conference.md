@@ -14,7 +14,7 @@ nav: false
 
 
 <li>Hoang-Son Vo, Karina Kolmogortseva, Ngumimi Karen Iyortsuun, Hong-Duyen Vo, Soo-Hyung Kim, "GlobalizeEd: An Editable Multimodal Translation Pipeline for Cross-Lingual Academic Lectures,"
-ACM Multimedia Asia, Hanoi, Dec. 2026.  (AI융합대학원/ITRC)
+ACM Multimedia Asia, Hanoi, Vietnam, Dec. 2026.  (AI융합대학원/ITRC)
 
 <li>
 "MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
@@ -1202,7 +1202,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjU3NDYyMywzMzM4MzEzMjIsLTY2Nz
+eyJoaXN0b3J5IjpbMTE4OTQ3MzY4NSwzMzM4MzEzMjIsLTY2Nz
 AyOTA3OCwxMjIwNDY2MjIxLC0xMjYyMTU3ODU0LDQ0NDc3MzE0
 OCwtMTI3NTQxNDU5MCwxNDIyODUzNzMwLC0xODk5MDY1MTY0LC
 02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLTU4
