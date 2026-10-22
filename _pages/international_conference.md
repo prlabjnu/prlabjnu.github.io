@@ -20,11 +20,9 @@ nav: false
 "MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
 <i><font color="ff00ff">37th British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC) (accepted)
 
-<li> 
-Conditional Flow Matching for Local Synthesis of
-Healthy Brain Tissue in 3D MRI
-Bui Van Hung, Dang Thanh Vu, Hoang-Son Vo1, Mai Duc Minh Huy3, Mai
-Tien Dung4, Quoc-Tien Nguyen1, Hyung-Jeong Yang1, and Soo-Hyung Kim1
+<li>Bui Van Hung, Dang Thanh Vu, Hoang-Son Vo, Mai Duc Minh Huy, Mai Tien Dung, Quoc-Tien Nguyen, Hyung-Jeong Yang, and Soo-Hyung Kim,
+"Conditional Flow Matching for Local Synthesis of Healthy Brain Tissue in 3D MRI,"
+BraTS Challenge Workshop, MICCAI 2026,  
 
 
 
@@ -1204,11 +1202,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDUxMzMyLC0xMjc4MTEwODc0LDMzMz
-gzMTMyMiwtNjY3MDI5MDc4LDEyMjA0NjYyMjEsLTEyNjIxNTc4
-NTQsNDQ0NzczMTQ4LC0xMjc1NDE0NTkwLDE0MjI4NTM3MzAsLT
-E4OTkwNjUxNjQsLTY1MjIxMDkwNiwtMTkyMzcwODkwOSwtMTE4
-Njk4NzczMCwtNTg0OTM5NjIzLDExODk2ODU2NzUsLTExNDcyNz
-Q0NjIsNzI0ODc0NjkyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjks
-LTE3MzU2MTUxNjldfQ==
+eyJoaXN0b3J5IjpbLTIzNTQ1OTEwNSwtMTI3ODExMDg3NCwzMz
+M4MzEzMjIsLTY2NzAyOTA3OCwxMjIwNDY2MjIxLC0xMjYyMTU3
+ODU0LDQ0NDc3MzE0OCwtMTI3NTQxNDU5MCwxNDIyODUzNzMwLC
+0xODk5MDY1MTY0LC02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTEx
+ODY5ODc3MzAsLTU4NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3Mj
+c0NDYyLDcyNDg3NDY5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMTY5
+LC0xNzM1NjE1MTY5XX0=
 -->
