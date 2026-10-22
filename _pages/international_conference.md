@@ -22,8 +22,8 @@ nav: false
 
 <li>Bui Van Hung, Dang Thanh Vu, Hoang-Son Vo, Mai Duc Minh Huy, Mai Tien Dung, Quoc-Tien Nguyen, Hyung-Jeong Yang, and Soo-Hyung Kim,
 "Conditional Flow Matching for Local Synthesis of Healthy Brain Tissue in 3D MRI,"
-BraTS 2026 Local Inpainting Challenge, MICCAI 2026,  Strasbourg, France, Sep. 2026. (AI융합대학원/ITRC) 
-
+<i>BraTS 2026 Local Inpainting Challenge</i>, MICCAI 2026,  Strasbourg, France, Sep. 2026. (AI융합대학원/ITRC) 
+ (<font color="0000ff">2nd Winner Award</font>) (to appear)
 
 
 
@@ -1202,7 +1202,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQzMDcwMTIsLTIzNTQ1OTEwNSwtMT
+eyJoaXN0b3J5IjpbLTE2MTQ2ODI1OTAsLTIzNTQ1OTEwNSwtMT
 I3ODExMDg3NCwzMzM4MzEzMjIsLTY2NzAyOTA3OCwxMjIwNDY2
 MjIxLC0xMjYyMTU3ODU0LDQ0NDc3MzE0OCwtMTI3NTQxNDU5MC
 wxNDIyODUzNzMwLC0xODk5MDY1MTY0LC02NTIyMTA5MDYsLTE5
