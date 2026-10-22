@@ -18,8 +18,15 @@ ACM Multimedia Asia, Hanoi, Vietnam, Dec. 2026.  (AI융합대학원/ITRC)
 
 <li>
 "MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
-(BMVC 2026), Nov. 2026. (AI융합대학원/ITRC)
-<i><font color="ff00ff">Proc. 2026 British Machine Vision Conference</font></i> (BMVC 2026), Aberdeen,  UK, 
+(BMVC 2026), 
+<i><font color="ff00ff">Proc. 2026 British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC)
+
+
+Bui Van Hung1
+Hoang-Son Vo,
+Mai Duc Minh Huy,
+Dang Thanh Vu,
+Soo-Hyung Kim,
 
 <li> 
 (MICCAI 2026), Oct. 2026. 
@@ -1202,11 +1209,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjk5NTgwLDMzMzgzMTMyMiwtNjY3MD
-I5MDc4LDEyMjA0NjYyMjEsLTEyNjIxNTc4NTQsNDQ0NzczMTQ4
-LC0xMjc1NDE0NTkwLDE0MjI4NTM3MzAsLTE4OTkwNjUxNjQsLT
-Y1MjIxMDkwNiwtMTkyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0
-OTM5NjIzLDExODk2ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0Nj
-kyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjks
-MTYwMDA0NzQzM119
+eyJoaXN0b3J5IjpbMTc1OTMxMzQzOSwzMzM4MzEzMjIsLTY2Nz
+AyOTA3OCwxMjIwNDY2MjIxLC0xMjYyMTU3ODU0LDQ0NDc3MzE0
+OCwtMTI3NTQxNDU5MCwxNDIyODUzNzMwLC0xODk5MDY1MTY0LC
+02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLTU4
+NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3Mjc0NDYyLDcyNDg3ND
+Y5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMTY5LC0xNzM1NjE1MTY5
+LDE2MDAwNDc0MzNdfQ==
 -->
