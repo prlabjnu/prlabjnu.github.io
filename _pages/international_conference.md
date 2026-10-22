@@ -16,17 +16,12 @@ nav: false
 <li>Hoang-Son Vo, Karina Kolmogortseva, Ngumimi Karen Iyortsuun, Hong-Duyen Vo, Soo-Hyung Kim, "GlobalizeEd: An Editable Multimodal Translation Pipeline for Cross-Lingual Academic Lectures,"
 ACM Multimedia Asia, Hanoi, Vietnam, Dec. 2026.  (AI융합대학원/ITRC)
 
-<li>
+<li>Bui Van Hung, Hoang-Son Vo, Mai Duc Minh Huy, Dang Thanh Vu, Soo-Hyung Kim,
 "MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
-(BMVC 2026), 
-<i><font color="ff00ff">Proc. 2026 British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC)
+<i><font color="ff00ff">37th British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC)
 
 
-Bui Van Hung1
-Hoang-Son Vo,
-Mai Duc Minh Huy,
-Dang Thanh Vu,
-Soo-Hyung Kim,
+
 
 <li> 
 (MICCAI 2026), Oct. 2026. 
@@ -1209,11 +1204,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTMxMzQzOSwzMzM4MzEzMjIsLTY2Nz
-AyOTA3OCwxMjIwNDY2MjIxLC0xMjYyMTU3ODU0LDQ0NDc3MzE0
-OCwtMTI3NTQxNDU5MCwxNDIyODUzNzMwLC0xODk5MDY1MTY0LC
-02NTIyMTA5MDYsLTE5MjM3MDg5MDksLTExODY5ODc3MzAsLTU4
-NDkzOTYyMywxMTg5Njg1Njc1LC0xMTQ3Mjc0NDYyLDcyNDg3ND
-Y5MiwtMTM3ODAxNjk3NCwxNjUyMjUzMTY5LC0xNzM1NjE1MTY5
-LDE2MDAwNDc0MzNdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk5Mzc5NDcsMzMzODMxMzIyLC02Nj
+cwMjkwNzgsMTIyMDQ2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMx
+NDgsLTEyNzU0MTQ1OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NC
+wtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01
+ODQ5Mzk2MjMsMTE4OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4Nz
+Q2OTIsLTEzNzgwMTY5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2
+OSwxNjAwMDQ3NDMzXX0=
 -->
