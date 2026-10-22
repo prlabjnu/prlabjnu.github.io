@@ -12,6 +12,11 @@ nav: false
 
 <ol class=space_list>
 
+MultiFlow: Vision-Driven Multimodal fMRI
+Encoding via Stimulus-Informed Source
+Flow Matching
+
+
 
 <li>Quang Vinh Nguyen, Minh Duc Nguyen, Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim,
 "Anatomical Attention Alignment Representation for Radiology Report Generation,"
@@ -1186,11 +1191,11 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzODMxMzIyLC02NjcwMjkwNzgsMTIyMD
-Q2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMxNDgsLTEyNzU0MTQ1
-OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NCwtNjUyMjEwOTA2LC
-0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01ODQ5Mzk2MjMsMTE4
-OTY4NTY3NSwtMTE0NzI3NDQ2Miw3MjQ4NzQ2OTIsLTEzNzgwMT
-Y5NzQsMTY1MjI1MzE2OSwtMTczNTYxNTE2OSwxNjAwMDQ3NDMz
-LC0xMjQ3MDg2NjEwXX0=
+eyJoaXN0b3J5IjpbODkyNTYzODE0LDMzMzgzMTMyMiwtNjY3MD
+I5MDc4LDEyMjA0NjYyMjEsLTEyNjIxNTc4NTQsNDQ0NzczMTQ4
+LC0xMjc1NDE0NTkwLDE0MjI4NTM3MzAsLTE4OTkwNjUxNjQsLT
+Y1MjIxMDkwNiwtMTkyMzcwODkwOSwtMTE4Njk4NzczMCwtNTg0
+OTM5NjIzLDExODk2ODU2NzUsLTExNDcyNzQ0NjIsNzI0ODc0Nj
+kyLC0xMzc4MDE2OTc0LDE2NTIyNTMxNjksLTE3MzU2MTUxNjks
+MTYwMDA0NzQzM119
 -->
