@@ -14,14 +14,11 @@ nav: false
 
 
 <li>Hoang-Son Vo, Karina Kolmogortseva, Ngumimi Karen Iyortsuun, Hong-Duyen Vo, Soo-Hyung Kim, "GlobalizeEd: An Editable Multimodal Translation Pipeline for Cross-Lingual Academic Lectures,"
-ACM Multimedia Asia, Hanoi, Vietnam, Dec. 2026.  (AI융합대학원/ITRC)
+<i>ACM Multimedia Asia</i>, Hanoi, Vietnam, Dec. 2026.  (AI융합대학원/ITRC)  (accepted)
 
 <li>Bui Van Hung, Hoang-Son Vo, Mai Duc Minh Huy, Dang Thanh Vu, Soo-Hyung Kim,
 "MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching,"
-<i><font color="ff00ff">37th British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC)
-
-
-
+<i><font color="ff00ff">37th British Machine Vision Conference</font></i> (BMVC 2026), Lancaster,  UK, Nov. 2026. (AI융합대학원/ITRC) (accepted)
 
 <li> 
 (MICCAI 2026), Oct. 2026. 
@@ -1204,7 +1201,7 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk5Mzc5NDcsMzMzODMxMzIyLC02Nj
+eyJoaXN0b3J5IjpbLTEyNzgxMTA4NzQsMzMzODMxMzIyLC02Nj
 cwMjkwNzgsMTIyMDQ2NjIyMSwtMTI2MjE1Nzg1NCw0NDQ3NzMx
 NDgsLTEyNzU0MTQ1OTAsMTQyMjg1MzczMCwtMTg5OTA2NTE2NC
 wtNjUyMjEwOTA2LC0xOTIzNzA4OTA5LC0xMTg2OTg3NzMwLC01
