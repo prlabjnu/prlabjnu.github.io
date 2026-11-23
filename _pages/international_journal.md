@@ -10,19 +10,20 @@ nav: false
 <ol class=space_list>
 
 
+<li>Ngumimi Karen Iyortsuun, Soonja Yeom, Min Jhon, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
+and Soo-Hyung Kim,
+"A Frequency-Band Siamese Network with Dual Functional Connectivity Metrics for Subject-Independent EEG Depression Detection," 
+<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  Vol. 26, No. 22, pp. 34521-34533, Nov. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC)
+
 <li>Kim Ngan Phan , Soonja Yeom, Hyung-Jeong Yang, Seungwon Kim, Ji-eun Shin and Soo-Hyung Kim,
 "CoMA: Condition-Modulated Context–Knowledge Attention for Empathetic Dialogue Generation,"
 <font color="ff00ff"><i>Applied Science</i></font>, 16, 10009, pp. 1-21, Oct. 2026. (IF: 2.9, Q2) (AI융합대학원/ITRC)
 
+
+
 <li>Karina Kolmogortseva, Soo-Hyung Kim*, Soonja Yeom, Hyung-Jeong Yang, and Seung-Won Kim,
 "Emotion classification from keystroke dynamics: a dual-input deep learning approach,"
 <font color="ff00ff"><i>Scientific Reports</i></font>, DOI: 10.1038/s41598-026-70720-1, Aug. 2026. (IF: 4.9, Q1) (AI융합대학원/BRL3/ITRC) (accepted)  
-
-
-<li>Ngumimi Karen Iyortsuun, Soonja Yeom, Min Jhon, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
-and Soo-Hyung Kim,
-"A Frequency-Band Siamese Network with Dual Functional Connectivity Metrics for Subject-Independent EEG Depression Detection," 
-<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  Vol. 26, No. 22, pp. 34521-34533, Sep. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC)
 
 <li>Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim, 
 "Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," 
@@ -932,7 +933,7 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mzg0NzkxMywtMTIyMzc1NzI5MSwxMD
+eyJoaXN0b3J5IjpbMTYyNDMzNjA1MCwtMTIyMzc1NzI5MSwxMD
 Q1MzM2MzQyLC0xNjIxMDQ3Mjk5LC0yMzMzOTUxMTAsNzM3NTk4
 ODM1LDE1OTk2MTE0MzAsMTQ4MTY3MjkxNywtNTMwMjMzMzIwLD
 E4MjU4OTgzNzksLTE1ODY1MDY5NTUsLTI2NDIwODI1NCwxMTEx
