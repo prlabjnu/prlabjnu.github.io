@@ -22,7 +22,7 @@ nav: false
 <li>Ngumimi Karen Iyortsuun, Soonja Yeom, Min Jhon, Hyung-Jeong Yang, Seung-Won Kim, Ji-Eun Shin,
 and Soo-Hyung Kim,
 "A Frequency-Band Siamese Network with Dual Functional Connectivity Metrics for Subject-Independent EEG Depression Detection," 
-<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  doi: 10.1109/JSEN.2026.3737137, pp. 1-13, Sep. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC)
+<font color="ff00ff"><i>IEEE Sensors Journal</i></font>,  Vol. 26, No. 22, pp. 34521-34533, Sep. 2026. (IF: 4.5, Q1) (AI융합대학원/ITRC)
 
 <li>Thanh Hoang Son Vo, Hyung-Jeong Yang, Soo-Hyung Kim, 
 "Emotionally Disentangled Talking Head Generation with Vector Quantization and Attention Fusion," 
@@ -932,11 +932,11 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM3NTcyOTEsMTA0NTMzNjM0MiwtMT
-YyMTA0NzI5OSwtMjMzMzk1MTEwLDczNzU5ODgzNSwxNTk5NjEx
-NDMwLDE0ODE2NzI5MTcsLTUzMDIzMzMyMCwxODI1ODk4Mzc5LC
-0xNTg2NTA2OTU1LC0yNjQyMDgyNTQsMTExMTQ0MTU3NSwtMTMz
-MTcxODQ5NCwtMTY4MjQ5OTIyNywzMjAyODQ5NTgsMTMyNDI1NT
-MyNyw3NDMyMzE5NzQsMzk3MDcwMjA3LDExODAxNzgxNTgsLTI3
-NDkwMTIyNV19
+eyJoaXN0b3J5IjpbLTM1Mzg0NzkxMywtMTIyMzc1NzI5MSwxMD
+Q1MzM2MzQyLC0xNjIxMDQ3Mjk5LC0yMzMzOTUxMTAsNzM3NTk4
+ODM1LDE1OTk2MTE0MzAsMTQ4MTY3MjkxNywtNTMwMjMzMzIwLD
+E4MjU4OTgzNzksLTE1ODY1MDY5NTUsLTI2NDIwODI1NCwxMTEx
+NDQxNTc1LC0xMzMxNzE4NDk0LC0xNjgyNDk5MjI3LDMyMDI4ND
+k1OCwxMzI0MjU1MzI3LDc0MzIzMTk3NCwzOTcwNzAyMDcsMTE4
+MDE3ODE1OF19
 -->
